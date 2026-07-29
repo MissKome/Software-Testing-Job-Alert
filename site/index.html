@@ -334,16 +334,6 @@
       <div class="brand" id="last-run">last scan --:--</div>
     </div>
 
-    <div class="terminal">
-      <div class="terminal-bar">
-        <span class="dot"></span><span class="dot"></span><span class="dot"></span>
-      </div>
-      <div class="terminal-body">
-        <div class="cmd">job-engine --scan --sources=5</div>
-        <div id="scan-status">loading results<span class="cursor"></span></div>
-      </div>
-    </div>
-
     <h1 class="headline">Roles that <span class="accent">passed the scan</span>.</h1>
     <p class="sub">QA, testing, and tech jobs pulled from remote job boards and Nigerian job sites, checked for duplicates, and tagged automatically — every hour, no manual posting.</p>
 
@@ -496,14 +486,13 @@
     .then((r) => r.json())
     .then((data) => {
       allJobs = Object.values(data).sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt));
-      document.getElementById("scan-status").innerHTML = `scan complete — ${allJobs.length} roles indexed<span class="cursor"></span>`;
       document.getElementById("last-run").textContent = "last scan " + new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC";
       renderStats();
       renderFilters();
       renderJobs();
     })
     .catch(() => {
-      document.getElementById("scan-status").textContent = "could not load jobs.json — check back after the next scan";
+      document.getElementById("result-count").textContent = "could not load jobs.json — check back after the next scan";
     });
 </script>
 
