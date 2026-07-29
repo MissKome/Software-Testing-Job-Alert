@@ -5599,19 +5599,166 @@
     "source": "arbeitnow",
     "postedAt": "2026-07-29T05:25:08.000Z"
   },
-  "f92ad53e67d14d67a658dc748f39c125694d384b": {
-    "title": "Full Stack AI Engineer",
-    "company": "Reveleer",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+  "cfd71ef6961c1f76767d0f7658d0fc6f634977f0": {
+    "title": "Senior Product Designer – Investment Products (x,f,m)",
+    "company": "dkbcodefactory",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/senior-product-designer-investment-products-xfm-berlin-413046",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:55:59.000Z"
+  },
+  "08695f317a520073ab743edef1a3e59ddf9c77f4": {
+    "title": "Staff Software Engineer, Agentic Platform",
+    "company": "tide",
+    "locationRaw": "Berlin, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+    "url": "https://www.arbeitnow.com/jobs/companies/tide/staff-software-engineer-agentic-platform-berlin-bengaluru-india-delhi-ncr-india-hyderabad-lithuania-serbia-united-kingdom-154905",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:55:13.000Z"
+  },
+  "dca0303fade927a93814031d319735405d5983b4": {
+    "title": "Senior Staff Software Engineer, Agentic Platform",
+    "company": "tide",
+    "locationRaw": "Berlin, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+    "url": "https://www.arbeitnow.com/jobs/companies/tide/senior-staff-software-engineer-agentic-platform-berlin-bengaluru-india-delhi-ncr-india-hyderabad-lithuania-serbia-united-kingdom-119533",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:55:13.000Z"
+  },
+  "eef1b43dcd54ab75ee5aef48656ac2602afbd5d9": {
+    "title": "Product Manager Business Systems (Payments & Revenue) (m/w/d)",
+    "company": "Exaring AG",
+    "locationRaw": "München, Bayern, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/exaring-ag/product-manager-business-systems-payments-revenue-munchen-105905",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:50:18.000Z"
+  },
+  "e508de41a9f60cf3247f8734e76c5f4562e02f6c": {
+    "title": "Senior Java Fullstack Developer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Kaarst, Nordrhein-Westfalen, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-kaarst-405926",
     "categories": [
       "Remote",
-      "USA",
-      "Mid-level",
+      "Senior",
+      "Backend",
       "Full-stack",
       "Engineering"
     ],
-    "source": "weworkremotely",
-    "postedAt": "2026-04-02T20:46:00.000Z"
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:30:30.000Z"
+  },
+  "341fccdc23c3bcfc2da9540af98c477ada084495": {
+    "title": "Senior Java Fullstack Developer mit technischem Fokus (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Kaarst, Nordrhein-Westfalen, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-mit-technischem-fokus-kaarst-487447",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:30:30.000Z"
+  },
+  "3d6d3b6c10ce9097c7979f70ae1d2d66017c43cc": {
+    "title": "Senior DevOps Engineer / SRE (remote)",
+    "company": "Nejo",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/nejo/senior-devops-engineer-sre-remote-cologne-29657",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:30:28.000Z"
+  },
+  "fc78c69a9103f3c141a7e09d7c30e931031f3d2c": {
+    "title": "Senior Software Engineer (m|w|d) - Kotlin, Kafka, React",
+    "company": "idealo internet GmbH",
+    "locationRaw": "Berlin, Berlin, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-software-engineer-mwd-kotlin-kafka-react-berlin-111394",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:30:22.000Z"
+  },
+  "c3ff17644408bb0bd4fcfc661a84ac1dbc845006": {
+    "title": "Software Engineer (m/f/d)",
+    "company": "Amperecloud GmbH",
+    "locationRaw": "Berlin , Berlin, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-252475",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:30:05.000Z"
+  },
+  "7cfb13d304ec2057cb3d0c8dda9939056372e553": {
+    "title": "(Senior) Software Engineer - Developer Enablement (m/f/d)",
+    "company": "Quantum-Systems GmbH",
+    "locationRaw": "Gilching",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-software-engineer-developer-enablement-gilching-477105",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:20:15.000Z"
+  },
+  "e5216491f7307e1b62001ad8e38c27f3a2aa18cd": {
+    "title": "Mission Planning Software Engineer",
+    "company": "constellr GmbH",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/mission-planning-software-engineer-munich-193813",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T17:20:15.000Z"
   }
 }
