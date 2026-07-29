@@ -32,7 +32,11 @@ const DISCIPLINE_RULES = [
   { tag: "Mobile", patterns: [/\bios\b/i, /\bandroid\b/i, /\bflutter\b/i, /\breact native\b/i, /\bmobile engineer\b/i] },
   { tag: "Data / Analytics", patterns: [/\bdata (scientist|analyst|engineer)\b/i, /\bmachine learning\b/i, /\bml engineer\b/i] },
   { tag: "Product / Design", patterns: [/\bproduct manager\b/i, /\bproduct designer\b/i, /\bux\b/i, /\bui designer\b/i] },
+  { tag: "IT / Security", patterns: [/\bcyber ?security\b/i, /\binformation security\b/i, /\bsecurity (architect|analyst|engineer)\b/i, /\bpenetration tester\b/i, /\bit support\b/i, /\bsystem admin(istrator)?\b/i, /\bnetwork engineer\b/i] },
+  { tag: "Engineering", patterns: [/\bsoftware engineer\b/i, /\bsoftware developer\b/i, /\bprogrammer\b/i, /\b(senior |junior |staff |lead )?engineer\b/i, /\bdeveloper\b/i] },
 ];
+
+export const DISCIPLINE_TAGS = DISCIPLINE_RULES.map((r) => r.tag);
 
 function matchRules(haystack, rules) {
   const hits = [];
