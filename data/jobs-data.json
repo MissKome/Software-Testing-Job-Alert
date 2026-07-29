@@ -4024,19 +4024,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-07-28T13:45:26.000Z"
   },
-  "55587158d215bc4d275db928ba3f948158c89e2b": {
-    "title": "AI Research Engineer",
-    "company": "Tether",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
-    "categories": [
-      "Remote",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-04-02T20:28:59.000Z"
-  },
   "6a8e683e1ed2dea9eadda6703f68ab8e0124f3d1": {
     "title": "(fluent German & English) L1 Customer Support Consultant (EU Remote)",
     "company": "Supportyourapp",
@@ -4353,5 +4340,133 @@
     ],
     "source": "weworkremotely",
     "postedAt": "2026-06-30T20:30:55.000Z"
+  },
+  "c1711ce25f889ba821a04029fe99704150a7c136": {
+    "title": "Human Resources Benefits Coordinator",
+    "company": "Hoxton Circle",
+    "locationRaw": "Greater Chicago Area",
+    "url": "https://remoteOK.com/remote-jobs/remote-human-resources-benefits-coordinator-hoxton-circle-1135548",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-07-28T03:10:05.000Z"
+  },
+  "f8dcb72f8e6126c1d6c2af4c5bfc19f0febbc414": {
+    "title": "Data Analyst",
+    "company": "YO AI Labs",
+    "locationRaw": "San Francisco, San Francisco, California, United States",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-yo-ai-labs-1135558",
+    "categories": [
+      "Remote",
+      "USA",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-07-28T02:20:27.000Z"
+  },
+  "b0b4063dd1aa890e8964e39da7520749c3ca253d": {
+    "title": "Senior Product Designer",
+    "company": "planetlabs",
+    "locationRaw": "Berlin, Netherlands",
+    "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-product-designer-berlin-netherlands-379549",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T02:56:23.000Z"
+  },
+  "7f2ae3f24653b03fef098f3f82c94224e84a4119": {
+    "title": "Werkstudent (m/w/d) IT Solution Management",
+    "company": "OXG Glasfaser GmbH",
+    "locationRaw": "Düsseldorf und Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-werkstudent-it-solution-management-335916",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T02:09:10.000Z"
+  },
+  "7dffaf1f4cf7a787d75af9786e778cd7a83ddf76": {
+    "title": "Data Analyst (m/w/d)",
+    "company": "OXG Glasfaser GmbH",
+    "locationRaw": "Düsseldorf und Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-data-analyst-213636",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T02:09:10.000Z"
+  },
+  "47577e08013ea973edd09badb1a2afa72c251073": {
+    "title": "Senior IT Operations Engineer",
+    "company": "remotecom",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/senior-it-operations-engineer-411931",
+    "categories": [
+      "Remote",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T02:56:25.000Z"
+  },
+  "5dbd39cb55d2541b662391fe40e0dcc7bef20b7b": {
+    "title": "Tech Lead Manager - Lakebase",
+    "company": "databricks",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/tech-lead-manager-lakebase-london-435916",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T02:56:17.000Z"
+  },
+  "a489ae935e8fb82df5f1d49eca96bc27ac08885e": {
+    "title": "Senior Associate, AV",
+    "company": "wppmedia",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-associate-av-london-314949",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Junior",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T02:56:08.000Z"
+  },
+  "f282731750a29fc90000a4c74ffcf8c2db8fa969": {
+    "title": "Business QA Engineer / UAT",
+    "company": "Kuoni Tumlare",
+    "locationRaw": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kuoni-tumlare/business-qa-engineer-uat-london-405779",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-29T02:30:52.000Z"
   }
 }
