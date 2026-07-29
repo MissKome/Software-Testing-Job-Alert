@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QA Job Alert — TestmeQA</title>
+<meta name="description" content="Fresh QA, testing, and tech roles across Nigeria and remote-friendly companies, scanned every hour.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0E1512;
+    --panel: #141D19;
+    --panel-2: #1B2621;
+    --hairline: #2A3831;
+    --text: #E9F1EC;
+    --text-dim: #8FA39A;
+    --pass: #3ECF8E;
+    --pass-dim: #234A3A;
+    --amber: #F2B84B;
+    --coral: #FF6F59;
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'Manrope', sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--text);
+    font-family: var(--sans);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: inherit; }
+
+  .wrap {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  /* ---------- Header / terminal hero ---------- */
+
+  header.hero {
+    border-bottom: 1px solid var(--hairline);
+    padding: 48px 0 32px;
+  }
+
+  .brand-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 28px;
+    flex-wrap: wrap;
+  }
+
+  .brand {
+    font-family: var(--mono);
+    font-size: 14px;
+    letter-spacing: 0.08em;
+    color: var(--text-dim);
+    text-transform: uppercase;
+  }
+
+  .brand strong { color: var(--pass); }
+
+  .terminal {
+    background: var(--panel);
+    border: 1px solid var(--hairline);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .terminal-bar {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--hairline);
+    background: var(--panel-2);
+  }
+
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--hairline); }
+  .dot:nth-child(1) { background: #4a3230; }
+  .dot:nth-child(2) { background: #4a4230; }
+  .dot:nth-child(3) { background: #234a3a; }
+
+  .terminal-body {
+    padding: 22px 20px 24px;
+    font-family: var(--mono);
+    font-size: 14px;
+  }
+
+  .terminal-body .cmd { color: var(--text-dim); }
+  .terminal-body .cmd::before { content: '$ '; color: var(--pass); }
+
+  .cursor {
+    display: inline-block;
+    width: 8px;
+    height: 16px;
+    background: var(--pass);
+    margin-left: 4px;
+    vertical-align: text-bottom;
+    animation: blink 1.1s steps(1) infinite;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .cursor { animation: none; }
+  }
+
+  @keyframes blink { 50% { opacity: 0; } }
+
+  h1.headline {
+    font-family: var(--sans);
+    font-weight: 800;
+    font-size: clamp(28px, 5vw, 40px);
+    line-height: 1.15;
+    margin: 18px 0 6px;
+    letter-spacing: -0.01em;
+  }
+
+  h1.headline .accent { color: var(--pass); }
+
+  .sub {
+    color: var(--text-dim);
+    font-size: 15px;
+    max-width: 60ch;
+  }
+
+  .stat-line {
+    display: flex;
+    gap: 22px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    font-family: var(--mono);
+    font-size: 13px;
+  }
+
+  .stat-line span { color: var(--text-dim); }
+  .stat-line strong { color: var(--text); font-weight: 600; }
+
+  /* ---------- Filters ---------- */
+
+  .filter-panel {
+    padding: 22px 0 8px;
+  }
+
+  .filter-row {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .filter-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-dim);
+    width: 100px;
+    flex-shrink: 0;
+  }
+
+  .chip {
+    font-family: var(--mono);
+    font-size: 12.5px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--hairline);
+    background: transparent;
+    color: var(--text-dim);
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  .chip:hover { border-color: var(--pass); color: var(--text); }
+
+  .chip.active {
+    background: var(--pass-dim);
+    border-color: var(--pass);
+    color: var(--pass);
+  }
+
+  .search-row {
+    display: flex;
+    gap: 10px;
+    margin: 14px 0 4px;
+  }
+
+  .search-input {
+    flex: 1;
+    background: var(--panel);
+    border: 1px solid var(--hairline);
+    border-radius: 8px;
+    padding: 11px 14px;
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 14px;
+  }
+
+  .search-input:focus {
+    outline: none;
+    border-color: var(--pass);
+  }
+
+  .search-input::placeholder { color: var(--text-dim); }
+
+  .clear-btn {
+    font-family: var(--mono);
+    font-size: 12.5px;
+    color: var(--text-dim);
+    background: none;
+    border: 1px solid var(--hairline);
+    border-radius: 8px;
+    padding: 0 14px;
+    cursor: pointer;
+  }
+
+  .clear-btn:hover { color: var(--coral); border-color: var(--coral); }
+
+  /* ---------- Job list ---------- */
+
+  main { padding: 20px 0 80px; }
+
+  .result-count {
+    font-family: var(--mono);
+    font-size: 12.5px;
+    color: var(--text-dim);
+    margin: 10px 0 18px;
+  }
+
+  .job-row {
+    display: block;
+    text-decoration: none;
+    border: 1px solid var(--hairline);
+    border-left: 3px solid var(--pass);
+    background: var(--panel);
+    border-radius: 8px;
+    padding: 16px 18px;
+    margin-bottom: 10px;
+    animation: rise 0.28s ease both;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .job-row { animation: none; }
+  }
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .job-row:hover { border-color: var(--pass); background: var(--panel-2); }
+
+  .job-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .job-title {
+    font-weight: 700;
+    font-size: 16.5px;
+    color: var(--text);
+  }
+
+  .job-time {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    color: var(--text-dim);
+    white-space: nowrap;
+  }
+
+  .job-company {
+    color: var(--text-dim);
+    font-size: 14px;
+    margin-top: 2px;
+  }
+
+  .job-tags {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-top: 12px;
+  }
+
+  .tag {
+    font-family: var(--mono);
+    font-size: 11px;
+    padding: 3px 9px;
+    border-radius: 999px;
+    background: var(--panel-2);
+    color: var(--text-dim);
+    border: 1px solid var(--hairline);
+  }
+
+  .tag.pass { color: var(--pass); border-color: var(--pass-dim); }
+  .tag.amber { color: var(--amber); }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-dim);
+    font-family: var(--mono);
+    font-size: 14px;
+  }
+
+  footer {
+    border-top: 1px solid var(--hairline);
+    padding: 24px 0 40px;
+    color: var(--text-dim);
+    font-size: 13px;
+  }
+
+  footer a { color: var(--pass); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="brand-row">
+      <div class="brand"><strong>TestmeQA</strong> / job-engine</div>
+      <div class="brand" id="last-run">last scan --:--</div>
+    </div>
+
+    <div class="terminal">
+      <div class="terminal-bar">
+        <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+      </div>
+      <div class="terminal-body">
+        <div class="cmd">job-engine --scan --sources=5</div>
+        <div id="scan-status">loading results<span class="cursor"></span></div>
+      </div>
+    </div>
+
+    <h1 class="headline">Roles that <span class="accent">passed the scan</span>.</h1>
+    <p class="sub">QA, testing, and tech jobs pulled from remote job boards and Nigerian job sites, checked for duplicates, and tagged automatically — every hour, no manual posting.</p>
+
+    <div class="stat-line">
+      <span>total live: <strong id="stat-total">–</strong></span>
+      <span>remote: <strong id="stat-remote">–</strong></span>
+      <span>nigeria: <strong id="stat-nigeria">–</strong></span>
+      <span>added today: <strong id="stat-today">–</strong></span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="filter-panel">
+    <div class="filter-row" id="filters-work"></div>
+    <div class="filter-row" id="filters-region"></div>
+    <div class="filter-row" id="filters-level"></div>
+    <div class="search-row">
+      <input class="search-input" id="search" type="text" placeholder="Search title, company, or keyword…">
+      <button class="clear-btn" id="clear-filters">Reset</button>
+    </div>
+  </div>
+
+  <main>
+    <div class="result-count" id="result-count"></div>
+    <div id="job-list"></div>
+  </main>
+
+  <footer>
+    Built and refreshed automatically by the TestmeQA job engine · <a href="https://x.com" target="_blank" rel="noopener">Follow TestmeQA on X</a>
+  </footer>
+</div>
+
+<script>
+  const WORK_MODES = ["Remote", "Hybrid", "Onsite"];
+  const REGIONS = ["Nigeria", "UK", "USA", "Canada", "Europe", "Africa"];
+  const LEVELS = ["Internship", "Junior", "Mid-level", "Senior"];
+
+  const state = { work: null, region: null, level: null, search: "" };
+  let allJobs = [];
+
+  function timeAgo(iso) {
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const mins = Math.floor(diffMs / 60000);
+    if (mins < 60) return mins + "m ago";
+    const hrs = Math.floor(mins / 60);
+    if (hrs < 24) return hrs + "h ago";
+    const days = Math.floor(hrs / 24);
+    return days + "d ago";
+  }
+
+  function buildChips(containerId, options, groupKey, label) {
+    const container = document.getElementById(containerId);
+    const labelEl = document.createElement("span");
+    labelEl.className = "filter-label";
+    labelEl.textContent = label;
+    container.appendChild(labelEl);
+
+    options.forEach((opt) => {
+      const chip = document.createElement("button");
+      chip.className = "chip";
+      chip.textContent = opt;
+      chip.addEventListener("click", () => {
+        state[groupKey] = state[groupKey] === opt ? null : opt;
+        renderFilters();
+        renderJobs();
+      });
+      container.appendChild(chip);
+    });
+  }
+
+  function renderFilters() {
+    document.querySelectorAll("#filters-work .chip").forEach((c) => c.classList.toggle("active", c.textContent === state.work));
+    document.querySelectorAll("#filters-region .chip").forEach((c) => c.classList.toggle("active", c.textContent === state.region));
+    document.querySelectorAll("#filters-level .chip").forEach((c) => c.classList.toggle("active", c.textContent === state.level));
+  }
+
+  function matchesFilters(job) {
+    if (state.work && !job.categories.includes(state.work)) return false;
+    if (state.region && !job.categories.includes(state.region)) return false;
+    if (state.level && !job.categories.includes(state.level)) return false;
+    if (state.search) {
+      const q = state.search.toLowerCase();
+      const haystack = (job.title + " " + job.company).toLowerCase();
+      if (!haystack.includes(q)) return false;
+    }
+    return true;
+  }
+
+  function tagClass(tag) {
+    if (WORK_MODES.includes(tag)) return "tag pass";
+    if (LEVELS.includes(tag)) return "tag amber";
+    return "tag";
+  }
+
+  function renderJobs() {
+    const list = document.getElementById("job-list");
+    const filtered = allJobs.filter(matchesFilters);
+    document.getElementById("result-count").textContent =
+      filtered.length + " role" + (filtered.length === 1 ? "" : "s") + " match" + (filtered.length === 1 ? "es" : "") + " your filters";
+
+    if (filtered.length === 0) {
+      list.innerHTML = '<div class="empty-state">No roles match those filters yet.<br>Try clearing a filter — new roles land every hour.</div>';
+      return;
+    }
+
+    list.innerHTML = filtered.map((job) => `
+      <a class="job-row" href="${job.url}" target="_blank" rel="noopener noreferrer">
+        <div class="job-top">
+          <span class="job-title">${escapeHtml(job.title)}</span>
+          <span class="job-time">${timeAgo(job.postedAt)}</span>
+        </div>
+        <div class="job-company">${escapeHtml(job.company)}</div>
+        <div class="job-tags">
+          ${job.categories.map((c) => `<span class="${tagClass(c)}">${escapeHtml(c)}</span>`).join("")}
+        </div>
+      </a>
+    `).join("");
+  }
+
+  function escapeHtml(str) {
+    return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+
+  function renderStats() {
+    document.getElementById("stat-total").textContent = allJobs.length;
+    document.getElementById("stat-remote").textContent = allJobs.filter((j) => j.categories.includes("Remote")).length;
+    document.getElementById("stat-nigeria").textContent = allJobs.filter((j) => j.categories.includes("Nigeria")).length;
+    const oneDayAgo = Date.now() - 24 * 60 * 60 * 1000;
+    document.getElementById("stat-today").textContent = allJobs.filter((j) => new Date(j.postedAt).getTime() >= oneDayAgo).length;
+  }
+
+  document.getElementById("search").addEventListener("input", (e) => {
+    state.search = e.target.value;
+    renderJobs();
+  });
+
+  document.getElementById("clear-filters").addEventListener("click", () => {
+    state.work = null; state.region = null; state.level = null; state.search = "";
+    document.getElementById("search").value = "";
+    renderFilters();
+    renderJobs();
+  });
+
+  buildChips("filters-work", WORK_MODES, "work", "mode");
+  buildChips("filters-region", REGIONS, "region", "region");
+  buildChips("filters-level", LEVELS, "level", "level");
+
+  fetch("./jobs.json?t=" + Date.now())
+    .then((r) => r.json())
+    .then((data) => {
+      allJobs = Object.values(data).sort((a, b) => new Date(b.postedAt) - new Date(a.postedAt));
+      document.getElementById("scan-status").innerHTML = `scan complete — ${allJobs.length} roles indexed<span class="cursor"></span>`;
+      document.getElementById("last-run").textContent = "last scan " + new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC";
+      renderStats();
+      renderFilters();
+      renderJobs();
+    })
+    .catch(() => {
+      document.getElementById("scan-status").textContent = "could not load jobs.json — check back after the next scan";
+    });
+</script>
+
+</body>
+</html>

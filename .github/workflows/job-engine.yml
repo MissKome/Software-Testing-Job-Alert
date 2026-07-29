@@ -1,0 +1,60 @@
+name: Job Engine
+
+on:
+  schedule:
+    # Runs at the top of every hour (UTC). Add/adjust cron lines if you want a different cadence.
+    - cron: "0 * * * *"
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write   # needed to commit the updated data files back to the repo
+  pages: write       # needed to publish the job board to GitHub Pages
+  id-token: write    # required by the official GitHub Pages deploy action
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  run-job-engine:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run job engine (fetch, dedupe, categorize, store)
+        run: npm start
+
+      - name: Copy latest jobs into the site folder
+        run: cp data/jobs-data.json site/jobs.json
+
+      - name: Commit updated data back to the repo
+        run: |
+          git config user.name "job-engine-bot"
+          git config user.email "job-engine-bot@users.noreply.github.com"
+          git add data/jobs-seen.json data/jobs-data.json
+          git diff --staged --quiet || git commit -m "chore: update job data [skip ci]"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload job board as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
