@@ -7697,22 +7697,6 @@
     "source": "weworkremotely",
     "postedAt": "2026-07-21T14:57:31.000Z"
   },
-  "8d1b9adc8315ffbbd8f4fda543ba3764157d62f1": {
-    "title": "Senior Software Engineer",
-    "company": "Stellar AI",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
-    "categories": [
-      "Remote",
-      "UK",
-      "Canada",
-      "Europe",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2025-10-21T19:36:26.000Z"
-  },
   "2f290d808c0d53e92cf0907432b404b7c5b22a40": {
     "title": "Senior Fullstack Developer (Python)",
     "company": "Proxify AB",
@@ -7822,49 +7806,6 @@
     "source": "weworkremotely",
     "postedAt": "2026-07-13T12:54:38.000Z"
   },
-  "3e9662af55424aed2f63fe76a0e43c11cb927564": {
-    "title": "Software engineer",
-    "company": "Sticker Mule",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-    "categories": [
-      "Remote",
-      "USA",
-      "Mid-level",
-      "Frontend",
-      "Full-stack",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-05-14T09:14:28.000Z"
-  },
-  "de54520f72e3cadd54f54fbba379cc81143f8057": {
-    "title": "Senior QA Engineer",
-    "company": "Cortes 23",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
-    "categories": [
-      "Remote",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-06-11T18:02:55.000Z"
-  },
-  "9cc83c29f2b726472cf1ed776dee5a9023eaa211": {
-    "title": "Staff Software Engineer (Magic Containers)",
-    "company": "bunny.net",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
-    "categories": [
-      "Remote",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-05-12T12:34:46.000Z"
-  },
   "38856532d6e1a5b21c62a1d73eb77c5e6e861611": {
     "title": "Full-Stack Product Engineer - Agentic First",
     "company": "Wonderdog",
@@ -7928,34 +7869,6 @@
     "source": "weworkremotely",
     "postedAt": "2026-07-07T12:39:09.000Z"
   },
-  "4c1bcb3348453b7dbcd6bb8e0eb2d8eb66e91542": {
-    "title": "Senior Independent AI Engineer / Architect",
-    "company": "A.Team",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Senior",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2024-06-16T18:08:52.000Z"
-  },
-  "a6d665dca200a0a32ede8d9bbd6e4ebafac8eccc": {
-    "title": "Senior Independent Software Developer ($90-$170/hr)",
-    "company": "A.Team",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-    "categories": [
-      "Remote",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2024-06-16T17:30:51.000Z"
-  },
   "302145cd4f3acce83fd2bb759877ab1c35702fc5": {
     "title": "Lead Product Designer (Crypto Exchange)",
     "company": "Hyphen Connect Limited",
@@ -7971,19 +7884,119 @@
     "source": "weworkremotely",
     "postedAt": "2026-07-05T20:30:56.000Z"
   },
-  "17d0b1e846e55ae748e576600a68eb19a84e4cc5": {
-    "title": "Senior Shopify Developer (Remote + Flexible)",
-    "company": "Storetasker",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+  "ee143c245d411da446884b09be177401d51c86b1": {
+    "title": "Senior Full-Stack PHP Developer - Alpha Online (m/w/d)",
+    "company": "caronsale",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/caronsale/senior-full-stack-php-developer-alpha-online-hamburg-161812",
     "categories": [
       "Remote",
       "Senior",
-      "Frontend",
+      "Backend",
       "Full-stack",
       "Engineering"
     ],
-    "source": "weworkremotely",
-    "postedAt": "2024-05-13T03:14:30.000Z"
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:56:53.000Z"
+  },
+  "b709eee644966e16b8f816883cea260d6b4b404e": {
+    "title": "(Senior) Platform Engineer (all genders)",
+    "company": "moia",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-platform-engineer-all-genders-berlin-147780",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:56:47.000Z"
+  },
+  "25abe5a38dc6349c69ffbbd203930e85807479cc": {
+    "title": "Data Platform Engineer (m/w/d)",
+    "company": "ANGEHEUERT GmbH",
+    "locationRaw": "Berlin, Berlin, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-338774",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:30:28.000Z"
+  },
+  "92abbe7e01064a0387dcd39e3d7a44fd51f476f5": {
+    "title": "Senior Data Engineer (m/w/d)",
+    "company": "ANGEHEUERT GmbH",
+    "locationRaw": "Berlin, Berlin, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-129969",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:30:28.000Z"
+  },
+  "a279011a7f20faecc3f8d3c837dac2577c91b780": {
+    "title": "Mission Planning Software Engineer",
+    "company": "constellr GmbH",
+    "locationRaw": "Munich , Bayern, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/constellr-gmbh/mission-planning-software-engineer-munich-376211",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:30:13.000Z"
+  },
+  "9cf872c1f8e7fa42fb35969f88f042736ff775ab": {
+    "title": "AI-Native Software Developer",
+    "company": "Jobgether",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-native-software-developer-germany-152149",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:25:18.000Z"
+  },
+  "e6d21e962a2c7e2b1cac6b371f6e8a304d721e7e": {
+    "title": "Security Engineer (all genders)",
+    "company": "Meteocontrol",
+    "locationRaw": "Augsburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/meteocontrol/security-engineer-all-genders-augsburg-346506",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:09:37.000Z"
+  },
+  "653084dcbdc5f0bfe233f5379a19589cd87e620a": {
+    "title": "IT Systemadministrator (m/w/d) für Linux",
+    "company": "Finatix Gmbh",
+    "locationRaw": "Leipzig",
+    "url": "https://www.arbeitnow.com/jobs/companies/finatix-gmbh/it-systemadministrator-fur-linux-leipzig-164488",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T20:09:19.000Z"
   }
 }
