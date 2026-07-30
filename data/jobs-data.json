@@ -6388,5 +6388,94 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-07-30T02:30:28.000Z"
+  },
+  "ce8438a01f7fbdf09da2fd0207024f6bdd2fd21a": {
+    "title": "test",
+    "company": "UztexGroup",
+    "locationRaw": "Ð Ð°Ð·Ð²ÑÐ·ÐºÐ° Ð¢Ð°ÑÐºÐµÐ½Ñ-ÐÐ¶Ð¸Ð·Ð°Ðº,",
+    "url": "https://remoteOK.com/remote-jobs/remote-test-uztexgroup-1135624",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-07-29T07:07:44.000Z"
+  },
+  "d698e1c3e048595a6445c21684073922b051f51d": {
+    "title": "Account Executive, New Logo",
+    "company": "temporaltechnologies",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/temporaltechnologies/account-executive-new-logo-berlin-237600",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T05:56:43.000Z"
+  },
+  "9f52416eb2bfe8c7f38a6ac4b283c449019abc7e": {
+    "title": "Senior Fullstack Engineer - Partnership & Enterprise",
+    "company": "sumup",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-fullstack-engineer-partnership-enterprise-berlin-54863",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T05:56:38.000Z"
+  },
+  "abd6f4e49d6c5fb4973614e327d869605a8473e5": {
+    "title": "Senior Backend Engineer - Cards",
+    "company": "sumup",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-cards-berlin-425621",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T05:56:38.000Z"
+  },
+  "b721bdb4e32e3f6a8dc4ab0213e9ea9258ed4252": {
+    "title": "Full Stack Engineer - Billings & Subscriptions",
+    "company": "sumup",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/sumup/full-stack-engineer-billings-subscriptions-berlin-141531",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T05:56:38.000Z"
+  },
+  "4e0eb6c9530bd095613ea53d897a701cfa46f5b3": {
+    "title": "Analytics Consultant",
+    "company": "dept",
+    "locationRaw": "Amsterdam, Rotterdam",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/analytics-consultant-amsterdam-rotterdam-446424",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T05:56:33.000Z"
   }
 }
