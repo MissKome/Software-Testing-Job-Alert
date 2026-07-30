@@ -7612,5 +7612,378 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-07-30T17:25:27.000Z"
+  },
+  "811ec1e53a9b41cea57ae3ed3cab5418ebfbb767": {
+    "title": "Software Engineer GO",
+    "company": "Wakacje.pl",
+    "locationRaw": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-07-29T20:00:01.000Z"
+  },
+  "a25cf3e3555d2a2b987b234ba4180e4f2a2b5ab1": {
+    "title": "Werkstudent Softwareentwicklung (m/w/d)",
+    "company": "Incoretex GmbH",
+    "locationRaw": "Aachen",
+    "url": "https://www.arbeitnow.com/jobs/companies/incoretex-gmbh/werkstudent-softwareentwicklung-aachen-232965",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T19:30:26.000Z"
+  },
+  "ac6727c38ee35a1090950adb4f68cb5c24f4b86d": {
+    "title": "Software - Projektmanager (MERN-Stack) (m,w,d)",
+    "company": "Incoretex GmbH",
+    "locationRaw": "Aachen",
+    "url": "https://www.arbeitnow.com/jobs/companies/incoretex-gmbh/software-projektmanager-mern-stack-mwd-aachen-234338",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T19:30:26.000Z"
+  },
+  "668b204474dff32d47f7c2605363189eabb104de": {
+    "title": "Senior Product Manager - Core App",
+    "company": "freenow",
+    "locationRaw": "Barcelona, Spain; Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-product-manager-core-app-barcelona-spain-berlin-241774",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T18:15:18.000Z"
+  },
+  "d61c09165e917b6e17759e306c8d27f6407160e5": {
+    "title": "Senior Machine Learning Engineer",
+    "company": "tripledotstudios",
+    "locationRaw": "Serbia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/tripledotstudios/senior-machine-learning-engineer-serbia-25174",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-07-30T18:16:08.000Z"
+  },
+  "2f4c878d69118c44cfa505b77aac3c272631e5c5": {
+    "title": "️ Location Services Engineer | Maps Platform (Remote in Europe)",
+    "company": "MapTiler",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-21T14:57:31.000Z"
+  },
+  "8d1b9adc8315ffbbd8f4fda543ba3764157d62f1": {
+    "title": "Senior Software Engineer",
+    "company": "Stellar AI",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
+    "categories": [
+      "Remote",
+      "UK",
+      "Canada",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2025-10-21T19:36:26.000Z"
+  },
+  "2f290d808c0d53e92cf0907432b404b7c5b22a40": {
+    "title": "Senior Fullstack Developer (Python)",
+    "company": "Proxify AB",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-06-17T17:33:39.000Z"
+  },
+  "9c78bffdbef1addc2f06eea7df2a51b46245b365": {
+    "title": "Web Designer",
+    "company": "Steady Vision",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/steady-vision-web-designer",
+    "categories": [
+      "Remote",
+      "USA",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-16T21:08:09.000Z"
+  },
+  "4230680f182f7ebed861da153b1c2dea8b307077": {
+    "title": "Senior Java Backend Developer",
+    "company": "Proxify AB",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-13T13:41:15.000Z"
+  },
+  "51005829a85d68e56c1113e0300d793a5cc72d3b": {
+    "title": "Senior Frontend Developer (React.js / Next.js)",
+    "company": "Proxify AB",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-13T13:36:33.000Z"
+  },
+  "19f13d584051ef2df62cf9905216872d5e53d025": {
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Proxify AB",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-13T13:34:16.000Z"
+  },
+  "eaaa8bce05f25bfc874b8516e103a38d06897609": {
+    "title": "Senior Ruby on Rails Developer",
+    "company": "Proxify AB",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-3",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-13T13:31:24.000Z"
+  },
+  "038da944ee0c3d7c873276fb69f97f3893fcf59e": {
+    "title": "Senior Backend Developer (Python)",
+    "company": "Proxify AB",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-13T12:54:38.000Z"
+  },
+  "3e9662af55424aed2f63fe76a0e43c11cb927564": {
+    "title": "Software engineer",
+    "company": "Sticker Mule",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+    "categories": [
+      "Remote",
+      "USA",
+      "Mid-level",
+      "Frontend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-05-14T09:14:28.000Z"
+  },
+  "de54520f72e3cadd54f54fbba379cc81143f8057": {
+    "title": "Senior QA Engineer",
+    "company": "Cortes 23",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-06-11T18:02:55.000Z"
+  },
+  "9cc83c29f2b726472cf1ed776dee5a9023eaa211": {
+    "title": "Staff Software Engineer (Magic Containers)",
+    "company": "bunny.net",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-05-12T12:34:46.000Z"
+  },
+  "38856532d6e1a5b21c62a1d73eb77c5e6e861611": {
+    "title": "Full-Stack Product Engineer - Agentic First",
+    "company": "Wonderdog",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-09T17:03:38.000Z"
+  },
+  "b2164dc9e44515a62200279dab42e6bbd17de776": {
+    "title": "Senior React Full-stack Developer",
+    "company": "Lemon.io",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5",
+    "categories": [
+      "Remote",
+      "USA",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-08T15:28:25.000Z"
+  },
+  "77614f5d375704e91e174b4a944c3979824da4a3": {
+    "title": "AI Automation Engineer, In-House MarTech Video SaaS",
+    "company": "Vidalytics",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-07T12:49:42.000Z"
+  },
+  "7330c59766e84149c435f1da6c4621ca61f61b81": {
+    "title": "[EUROPE ONLY] GTM MarTech Engineer (Growth & Attribution) at Video MarTech SaaS",
+    "company": "Vidalytics",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-07T12:39:09.000Z"
+  },
+  "4c1bcb3348453b7dbcd6bb8e0eb2d8eb66e91542": {
+    "title": "Senior Independent AI Engineer / Architect",
+    "company": "A.Team",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2024-06-16T18:08:52.000Z"
+  },
+  "a6d665dca200a0a32ede8d9bbd6e4ebafac8eccc": {
+    "title": "Senior Independent Software Developer ($90-$170/hr)",
+    "company": "A.Team",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2024-06-16T17:30:51.000Z"
+  },
+  "302145cd4f3acce83fd2bb759877ab1c35702fc5": {
+    "title": "Lead Product Designer (Crypto Exchange)",
+    "company": "Hyphen Connect Limited",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-lead-product-designer-crypto-exchange",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Mobile",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-05T20:30:56.000Z"
+  },
+  "17d0b1e846e55ae748e576600a68eb19a84e4cc5": {
+    "title": "Senior Shopify Developer (Remote + Flexible)",
+    "company": "Storetasker",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Frontend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2024-05-13T03:14:30.000Z"
   }
 }
