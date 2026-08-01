@@ -9654,5 +9654,47 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-01T02:20:40.000Z"
+  },
+  "713a6e938e36a21bc551ce67a2347b737f0efbb0": {
+    "title": "Product Manager",
+    "company": "Marval Software",
+    "locationRaw": "England, England, United Kingdom",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-marval-software-1135766",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-07-28T17:03:43.000Z"
+  },
+  "a07c47163b8081234df3c4b8dccda346d8a5d41c": {
+    "title": "Senior Product Designer  (m/f/d)",
+    "company": "autoscout24",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-product-designer-261733",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-01T05:55:06.000Z"
+  },
+  "667ae73ae0553dce8a19fc0ee69db6e912e0cb81": {
+    "title": "Software Development Engineer - macOS Endpoint",
+    "company": "beyondtrust",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/beyondtrust/software-development-engineer-macos-endpoint-58404",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-01T06:55:34.000Z"
   }
 }
