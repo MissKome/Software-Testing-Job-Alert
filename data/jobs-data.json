@@ -11534,5 +11534,434 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-02T19:16:05.000Z"
+  },
+  "22da68e10027f0590c6468ee61dfd5154d47568b": {
+    "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement",
+    "company": "databricks",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-staff-software-engineer-unity-catalog-runtime-enforcement-berlin-77410",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T21:15:28.000Z"
+  },
+  "9c17ed962110d82caee9f81cf94e8a281a331808": {
+    "title": "Wordpress Web Developer at CFO Insights",
+    "company": "Cfoinsights",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/wordpress-web-developer-at-cfo-insights-london-205487",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:16:17.000Z"
+  },
+  "c2155d16867ef45ebd1888980180d4255804851b": {
+    "title": "UX designer at CFO Insights",
+    "company": "Cfoinsights",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ux-designer-at-cfo-insights-london-404151",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:16:17.000Z"
+  },
+  "8a474cee29e37968d9197c5bf0553f10918d78a0": {
+    "title": "Research Engineer",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; Remote; San Francisco, California, United States; Seattle, Washington, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/remote-research-engineer-404499",
+    "categories": [
+      "Remote",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:48.000Z"
+  },
+  "4ba4e51d3bd8358f44ce30fb9372ed50df339445": {
+    "title": "Product Engineer",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/product-engineer-london-new-york-new-york-united-states-san-francisco-california-united-states-seattle-washington-united-states-338463",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:48.000Z"
+  },
+  "88780877c79aa1fdf12aa487048ae958bbb4d1d9": {
+    "title": "Platform Engineer (Forward Deployment)",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/platform-engineer-forward-deployment-london-new-york-new-york-united-states-san-francisco-california-united-states-seattle-washington-unite-333083",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:48.000Z"
+  },
+  "75b8e6b599c3be22dc8fbc87aaa69e2bb04bbae6": {
+    "title": "Infrastructure Engineer (Storage)",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/infrastructure-engineer-storage-london-new-york-new-york-united-states-san-francisco-california-united-states-seattle-washington-united-sta-37535",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:48.000Z"
+  },
+  "0ca448151deba088c7a6016c0e4c1c4fe1534a40": {
+    "title": "Infrastructure Engineer (GPU & Compute)",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/infrastructure-engineer-gpu-compute-london-new-york-new-york-united-states-san-francisco-california-united-states-seattle-washington-unit-316286",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:48.000Z"
+  },
+  "d0ed79efa2d75db775e873558531a10e78f1e622": {
+    "title": "Backend Engineer",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/backend-engineer-london-new-york-new-york-united-states-san-francisco-california-united-states-seattle-washington-united-states-298885",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:48.000Z"
+  },
+  "20878b5de8399a6890031c7a4098574d45161d27": {
+    "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
+    "company": "databricks",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/forward-deployed-engineer-emerging-enterprise-dnb-london-1752",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:26.000Z"
+  },
+  "48055aca307e23be646e734f757ac91596c20861": {
+    "title": "Senior Meta Designer - Unannouced Project",
+    "company": "Zyngacareers",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-meta-designer-unannouced-project-london-396386",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:13.000Z"
+  },
+  "98f5645f4da13a5633408f25021159d5187c7b5a": {
+    "title": "Lead UI/UX Designer - Unannounced Project",
+    "company": "Zyngacareers",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/lead-ui-ux-designer-unannounced-project-london-445904",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:13.000Z"
+  },
+  "25609beafc3d4048ddf40df34cd9aa335a6fbd01": {
+    "title": "Staff Backend Engineer",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-backend-engineer-cardiff-402606",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "a95f78dd5a85285d04d2bb4a7a5040e40b64ebd8": {
+    "title": "Staff Analytics Engineer",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-analytics-engineer-cardiff-156117",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "03b7d93d78b4e9da57d3659169422d543e0a7fd9": {
+    "title": "Senior Staff Backend Engineer",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-staff-backend-engineer-cardiff-154449",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "6c53254626681e6f70567ee19ef12555ad303c5a": {
+    "title": "Senior Machine Learning Scientist, Borrowing",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-machine-learning-scientist-borrowing-cardiff-481672",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "89aaca2d053936bb40d4a4c4d1378605db921bd3": {
+    "title": "Senior Backend Engineer",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-backend-engineer-cardiff-96284",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "8e51c6121a06705ecce80f4e6200ea4ac10857a8": {
+    "title": "Machine Learning Manager, Fincrime",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/machine-learning-manager-fincrime-cardiff-337105",
+    "categories": [
+      "Remote",
+      "UK",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "c6cad5834996770fa81ac3a8c23b01895f3822a2": {
+    "title": "Lead Machine Learning Scientist, Search",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-machine-learning-scientist-search-cardiff-387080",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "717e64b60ba4c25ed083008a0fdcf586549dbf47": {
+    "title": "Lead Machine Learning Scientist, FinCrime",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-machine-learning-scientist-fincrime-cardiff-116493",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:06.000Z"
+  },
+  "e5dcad25d1f6292364f030e84adc526fc5609f94": {
+    "title": "Credit Model Validation Manager (Machine Learning & NPV Models)",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/credit-model-validation-manager-machine-learning-npv-models-cardiff-482295",
+    "categories": [
+      "Remote",
+      "UK",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:05.000Z"
+  },
+  "192dc47650cf76063ce4407ba55e3728f486f674": {
+    "title": "Backend Engineer III",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/backend-engineer-iii-cardiff-190708",
+    "categories": [
+      "Remote",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:05.000Z"
+  },
+  "a047a540ce9b1e9cf499960fdbcf2972f68d11e6": {
+    "title": "Data Accountant (12month FTC)",
+    "company": "Inizio",
+    "locationRaw": "Manchester",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/inizio/data-accountant-12month-ftc-manchester-142425",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:15:03.000Z"
+  },
+  "7ce20e18d1fce5403a60ce4af4271ee5a48411bf": {
+    "title": "Senior Full-Stack Engineer",
+    "company": "MyEdSpace",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/myedspace/senior-full-stack-engineer-united-kingdom-253678",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:01:55.000Z"
+  },
+  "f40c7fbae6c654595d80789d01e680b2cc69bc4d": {
+    "title": "Forward Deployed Engineer",
+    "company": "Livekit",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/forward-deployed-engineer-united-kingdom-359259",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:01:41.000Z"
+  },
+  "032e8a29d4e61d58bc4b20d31d2adf4338047792": {
+    "title": "Developer Success Engineer",
+    "company": "Livekit",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/developer-success-engineer-united-kingdom-310066",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:01:41.000Z"
+  },
+  "8051117aa5209136262ae6d4153a2c4ede388dc1": {
+    "title": "Technical Account Manager",
+    "company": "Livekit",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/technical-account-manager-united-kingdom-188570",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:01:41.000Z"
+  },
+  "6767f20d6306e324f4e7fbd997dcf7cd6611bc9d": {
+    "title": "Machine Learning Engineer",
+    "company": "Almedia",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/almedia/machine-learning-engineer-london-84747",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:01:29.000Z"
+  },
+  "06420fe687aebd1e7754a3d6a9a80965af007462": {
+    "title": "Senior Solutions Consultant - Project Manager",
+    "company": "Zip",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zip/senior-solutions-consultant-project-manager-london-108453",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T22:01:24.000Z"
   }
 }
