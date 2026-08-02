@@ -10230,5 +10230,89 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-02T02:51:11.000Z"
+  },
+  "a949201d610563964162b5ba81e8e170f163e6b7": {
+    "title": "Product Manager, Billing Platform",
+    "company": "remotecom",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotecom/product-manager-billing-platform-105747",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T05:55:15.000Z"
+  },
+  "a9c810e41131e6e08350c6d6309467876b145f62": {
+    "title": "Senior Software Engineer, Data",
+    "company": "Circonomit",
+    "locationRaw": "Cologne, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/circonomit/senior-software-engineer-data-cologne-27546",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T05:41:09.000Z"
+  },
+  "2ebf06eb7aed77945a37b2f0510ada32f1271f87": {
+    "title": "Founding Product Manager",
+    "company": "Circonomit",
+    "locationRaw": "Berlin, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/circonomit/founding-product-manager-berlin-140965",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T05:41:09.000Z"
+  },
+  "3856a9e5c6f71992942edd7f5d9c99c5d4fc1c1a": {
+    "title": "Founding Product Manager",
+    "company": "Circonomit",
+    "locationRaw": "Cologne, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/circonomit/founding-product-manager-cologne-442206",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T05:41:09.000Z"
+  },
+  "a3be35d7ffb724a24cb196958e899991167c85ed": {
+    "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-275362",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T05:30:39.000Z"
+  },
+  "68c03b1a6dc47739a629878f49d8841bf12db924": {
+    "title": "AI Solution Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-24542",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T05:30:39.000Z"
   }
 }
