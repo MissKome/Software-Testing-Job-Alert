@@ -10314,5 +10314,1225 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-02T05:30:39.000Z"
+  },
+  "e8db704c92632133a36558bf59858dcdcc40a26f": {
+    "title": "test",
+    "company": "Upedge Job Karle Pvt. Ltd.",
+    "locationRaw": "Greater Madurai Area,",
+    "url": "https://remoteOK.com/remote-jobs/remote-test-upedge-job-karle-pvt-ltd-1135910",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-01T02:17:23.000Z"
+  },
+  "3adcc58fadbcb161e73399106d9d4924eacaedc3": {
+    "title": "Junior UI UX Designer",
+    "company": "Marmend",
+    "locationRaw": "Tallinn,",
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-ui-ux-designer-marmend-1135902",
+    "categories": [
+      "Remote",
+      "Junior",
+      "Product / Design"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-07-30T09:46:39.000Z"
+  },
+  "de6fb6b7f9d61c55717364199a0f7c3e7f1d4894": {
+    "title": "System Validation Engineer - Stuttgart",
+    "company": "Applied",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/system-validation-engineer-stuttgart-415289",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "a3773e344b89a253300905ef64b0468878d4bdef": {
+    "title": "Software Integration Engineer",
+    "company": "Applied",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/software-integration-engineer-stuttgart-186555",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "470d6a14de8fd2f8d375b3f11bb34d3fecf2cbc8": {
+    "title": "Middleware Engineer",
+    "company": "Applied",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/middleware-engineer-stuttgart-261864",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "7a0c63b1a4cf261d96d835bbc53e039ea40ac856": {
+    "title": "Forward Deployed Engineer (EMEA)",
+    "company": "Applied",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/forward-deployed-engineer-emea-munchen-98796",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "0fdccd937e4dac525702ca5e69025df8e3593c4f": {
+    "title": "Software Engineer - Embedded Systems",
+    "company": "Applied",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/software-engineer-embedded-systems-stuttgart-359271",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "a47dba570506e9023933cc7752ab4729d10e3764": {
+    "title": "Solution Engineer - Vehicle OS",
+    "company": "Applied",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/solution-engineer-vehicle-os-stuttgart-330249",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "3e79e16ff8752d0908b29dac98c38ee9ffc674bc": {
+    "title": "Solution Engineer - Tooling (Vehicle Intelligence)",
+    "company": "Applied",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/solution-engineer-tooling-vehicle-intelligence-stuttgart-403956",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "f94903034f96a3cd570d69eaf723f2c2996cf5dc": {
+    "title": "Solution Engineer",
+    "company": "Applied",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/solution-engineer-stuttgart-370128",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "1ef2c4f5d9ff26cc6b3b886985616b04032fdb9a": {
+    "title": "Solution Engineer - Tooling (Vehicle Intelligence)",
+    "company": "Applied",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/solution-engineer-tooling-vehicle-intelligence-munchen-306671",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "fc7d0e44b37ef944accca9020724235e1a55d1e4": {
+    "title": "Solution Engineer",
+    "company": "Applied",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/solution-engineer-munchen-320478",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "58c04de041117a1cb039780268ce318bf0ea235f": {
+    "title": "Solution Engineer - Vehicle OS",
+    "company": "Applied",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/solution-engineer-vehicle-os-munchen-455786",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:57.000Z"
+  },
+  "390f3728798d79a4df2572c52fba006f4cb3420b": {
+    "title": "Platform Engineer",
+    "company": "Zauber Technology GmbH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/zauber-technology-gmbh/platform-engineer-berlin-446964",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:49.000Z"
+  },
+  "97dbdcb22d92e8032e634ad49afeafa6544b11f7": {
+    "title": "Founding Engineer",
+    "company": "Zauber Technology GmbH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/zauber-technology-gmbh/founding-engineer-berlin-201607",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:49.000Z"
+  },
+  "9d362b9077a26df54fbf636a02981ffb122d457d": {
+    "title": "Forward Deployed Engineer",
+    "company": "Zauber Technology GmbH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/zauber-technology-gmbh/forward-deployed-engineer-berlin-204150",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:49.000Z"
+  },
+  "3bac3a0cb01fd073ce85ac3c6abc1219aa2d75b9": {
+    "title": "Senior DevOps Engineer (AWS Platform & Backend Support)",
+    "company": "Ostrom",
+    "locationRaw": "Berlin / Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/ostrom/senior-devops-engineer-aws-platform-backend-support-berlin-80317",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Backend",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:40.000Z"
+  },
+  "abd0430ce8f8f62cb754c375dc25951fc6d6fa88": {
+    "title": "(Senior) Technical Product Manager Energy",
+    "company": "GALVANY",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/galvany/senior-technical-product-manager-energy-berlin-285788",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:23.000Z"
+  },
+  "9e791a2c2f1c6c0a2a426cbecc5948c078ca8080": {
+    "title": "(Senior) Product Designer - Mobile (m/w/d)",
+    "company": "GALVANY",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/galvany/senior-product-designer-mobile-berlin-29536",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:23.000Z"
+  },
+  "fb109b8f47bd3616cb24073543c9a10ab38f376a": {
+    "title": "(Senior) Data Engineer (m/w/d)",
+    "company": "GALVANY",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/galvany/senior-data-engineer-berlin-262882",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:23.000Z"
+  },
+  "217442654720b782d59fe2e8ad3647c7015f9343": {
+    "title": "(Senior) Backend Engineer (m/w/d)",
+    "company": "GALVANY",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/galvany/senior-backend-engineer-berlin-61026",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:23.000Z"
+  },
+  "4ad3f1047c83ddd963100150bcf419e8848f8a7b": {
+    "title": "Customer Success - DACH",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/customer-success-dach-germany-483408",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "8340a7e1531e3381fd63af7f80fe23338d830860": {
+    "title": "Account Executive Lead - North America - Mid-Market",
+    "company": "Elevenlabs",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-lead-north-america-mid-market-323066",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "a32384c9963e16f1041c58880fd3e2d6fc2212a1": {
+    "title": "Account Executive - ElevenCreative - Germany",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/account-executive-elevencreative-germany-429663",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "80eb7313df7b9b3a70bdaadecc861b2e4e12cfaa": {
+    "title": "B2B Marketing Lead - DACH",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/b2b-marketing-lead-dach-germany-411447",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "5263d15432874efaae8350e4a9840016bac420d7": {
+    "title": "Customer Success Lead - Western Europe",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/customer-success-lead-western-europe-germany-487616",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "037927aaf387a3df9f291a9775304f68086a9aaa": {
+    "title": "Sales Development - DACH",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/sales-development-dach-germany-426202",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "34939b45b3c0fd55af8ea48412027574402c9ecc": {
+    "title": "Enterprise Demand Generation",
+    "company": "Elevenlabs",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-enterprise-demand-generation-99326",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "50b0bc555ce501775116cf330f34691e07c792e7": {
+    "title": "Deployment Strategist - Germany",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/deployment-strategist-germany-35730",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "9fc319e1a0943cf9f5fd11bfea8d36872ad207a8": {
+    "title": "Enterprise Solutions Engineer - Germany",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/enterprise-solutions-engineer-germany-296934",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "85e6b6c4296106ceddcc2c566babad337819674a": {
+    "title": "Strategic Account Executive - Germany",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/strategic-account-executive-germany-456949",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "2f8f1058711aec94679f14707e4d353416a407e1": {
+    "title": "Events Manager - Europe",
+    "company": "Elevenlabs",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/events-manager-europe-germany-309605",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:41:13.000Z"
+  },
+  "9f7ba55fd0e0cca2c07e48800dd45a223eccc231": {
+    "title": "Software Engineer, Infrastructure",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-infrastructure-berlin-85375",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "d5cf1a8a74eae6ec5e3a146282637208115f11e8": {
+    "title": "Head of Marketing",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-marketing-berlin-227430",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "d389cedc585f6dec2f7aea9304762b37cd9380a9": {
+    "title": "Operations Intern → Full-Time",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/operations-intern-full-time-berlin-196142",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Internship",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "a1afea32d8f813a90e4e71222b34ae0ef1b4e916": {
+    "title": "Staff Engineer (Founding)",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-staff-engineer-founding-81038",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "0bc78d893676fe7320a7766f9ab4f89f28553949": {
+    "title": "Product Designer",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-designer-berlin-314371",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Junior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "625056bb03790572858fd27b0aced20f51904dda": {
+    "title": "Forward Deployed Engineer",
+    "company": "Clera",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/forward-deployed-engineer-munich-368714",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "76f12971afc411662a769c786c06dc58c4f8000c": {
+    "title": "Applied AI Engineer – AI & Automation",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-333875",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "3ad2d20d4d6a68df5d8ade9086f983f7c6c83517": {
+    "title": "Founding Engineer – Backend & Platform",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-3594",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "381c94b1c23d52426d40fd9f114c9792e5b2c6c1": {
+    "title": "Founding Engineer – Product & Process",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-product-process-berlin-106568",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "fe2b78f5cc6f834631e0316da8c8737cd77dfd69": {
+    "title": "Founding Product Engineer",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-product-engineer-180777",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "b6b91f30f8ed14abdb665b2896a2b58e7aa45b39": {
+    "title": "AI Engineer – Model Training & Deployment",
+    "company": "Clera",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-engineer-model-training-deployment-munich-224273",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Junior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "7c5de0844f5c74b482728f6fa4b25e93873e187a": {
+    "title": "Mobile Platform Engineer",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/mobile-platform-engineer-berlin-77985",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Backend",
+      "DevOps",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "5117c317adcdb142edbde6a0bb1aecad75664fe4": {
+    "title": "Backfill Test Role",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-backfill-test-role-430860",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "USA",
+      "Europe",
+      "Junior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "b5cb7fcdb0d75014579b9c7d61a5b5db205f0e74": {
+    "title": "Founding Full Stack Engineer",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-engineer-398288",
+    "categories": [
+      "Remote",
+      "USA",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "abf08618f258a6293a9bc02caf9619cc7a6122e8": {
+    "title": "Founding Product Engineer (Full-Stack / LLM)",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-product-engineer-full-stack-llm-berlin-100860",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "ddb5903e6e534e3de79f0667dcce8d24f663b9e8": {
+    "title": "Founding ML Engineer – Demand Generation",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-ml-engineer-demand-generation-364258",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "USA",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "289b01c4a4c8ec62c1135b9b3c2ea6c435ba360f": {
+    "title": "Founding Product Engineer",
+    "company": "Clera",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-product-engineer-munich-342177",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "70638812ff87af0f62cd35085da22fe11cee8962": {
+    "title": "Product Engineer (Full-Stack)",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-full-stack-berlin-498021",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "af1473fc473c5b31341175985a4d47aa35b9bd82": {
+    "title": "GTM Engineer",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/gtm-engineer-berlin-90859",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "88ae3f2a47a427f7e72b0644722b1a87e780e60d": {
+    "title": "Founding Product Engineer",
+    "company": "Clera",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-product-engineer-munich-203112",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "e70ec1bea8fdd7521ac00439d536f90ef06b63a6": {
+    "title": "Founding Machine Learning Engineer",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-machine-learning-engineer-282981",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "1645d5846236f1776362eb76be87eb020d1d181b": {
+    "title": "Product Engineer",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-411390",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "077c8b0c821a2e2022f87ce448307e48d4eaff92": {
+    "title": "Senior / Staff Product Designer",
+    "company": "Clera",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-staff-product-designer-munich-386334",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "ea89bae0bd75bc03dc63942919eb5ee0e65ab3ce": {
+    "title": "Technical Co-Founder",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/technical-co-founder-berlin-242290",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "b41d7c9fd437e0488a656e490394aacd130ba425": {
+    "title": "Sales Development Representative (English-Speaking)",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-sales-development-representative-english-speaking-348657",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "e7849ea874d2701d10c1ad327013d7c33d9f3c87": {
+    "title": "Senior EDI Developer",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-edi-developer-402844",
+    "categories": [
+      "Remote",
+      "USA",
+      "Junior",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "6efc9060112eb7492d48e8fb0f99c37c7408effa": {
+    "title": "Founder's Associate",
+    "company": "Clera",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founders-associate-berlin-479947",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "7b6eaa00947ce41c0727856e329582561166e653": {
+    "title": "Senior/Staff Backend Engineer",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-senior-staff-backend-engineer-278947",
+    "categories": [
+      "Remote",
+      "USA",
+      "Senior",
+      "Backend",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "4efb531dbb5c79d47d3e0fadd91b3def20766b77": {
+    "title": "Founding Full-Stack iOS Engineer",
+    "company": "Clera",
+    "locationRaw": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-ios-engineer-155372",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Backend",
+      "Full-stack",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T20:40:54.000Z"
+  },
+  "1f7422e0e337bde504764c3df1e8cfc39d94dacf": {
+    "title": "Wordpress Web Developer at HRtechX",
+    "company": "Hrtechx",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/wordpress-web-developer-at-hrtechx-london-57774",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:17:07.000Z"
+  },
+  "9fc700ea03d365c193cdc2878cbc883c03dcb5fa": {
+    "title": "UX designer at HRtechX",
+    "company": "Hrtechx",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ux-designer-at-hrtechx-london-344430",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:17:07.000Z"
+  },
+  "f56a203cf22c0d3f0887d2c793dc33c199472ff8": {
+    "title": "Tech Lead Manager",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/tech-lead-manager-london-443296",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "4d39c41c72b1e31e2212f0f6d3ec9ab1a4bc0001": {
+    "title": "Site Reliability Engineer",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/site-reliability-engineer-london-499262",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "58a6967fd1ebe05fb17015bf713e7f37338b4d60": {
+    "title": "(Senior) Backend Engineer, Marketplace",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-294207",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "2ec139d0e9ccbba817b001e9a93c1f034935d6ba": {
+    "title": "(Senior) Backend Engineer, Maps",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-31539",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "a2ac64aab402a683ef60db508b65949f6fb683a4": {
+    "title": "Product Manager, UX",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/product-manager-ux-london-484030",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Mobile",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "b5d047f11c18cb4f5a17cc4397f6988a59f6017b": {
+    "title": "Product Manager, Technical",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/product-manager-technical-london-258503",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Data / Analytics",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "858fe9433bc8e5efca278ffbd7e32280b2e651fd": {
+    "title": "Full-Stack Engineer",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/full-stack-engineer-london-149631",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "457f2c54949ce9e9bc8815b5fb0b2b23f271518a": {
+    "title": "Director of Engineering",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/director-of-engineering-london-450159",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "677391c02507a5e57f61947f08d043df60f2339e": {
+    "title": "Data Scientist",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/data-scientist-london-374113",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "16a80000631d0742b589b65c6d3c336274bd1c2a": {
+    "title": "Associate Data Scientist - Operations Research",
+    "company": "Wheely",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/associate-data-scientist-operations-research-london-294637",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Junior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:53.000Z"
+  },
+  "fb0db3607b91ed4b98c6b26eea92e3d05548f4ae": {
+    "title": "Wordpress Web Developer at United Media",
+    "company": "Unitedmedia",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/wordpress-web-developer-at-united-media-london-15527",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:44.000Z"
+  },
+  "69da8a794fdc406238ae292ce6756a4b91b3969e": {
+    "title": "UX Designer at United Media",
+    "company": "Unitedmedia",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-437411",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:44.000Z"
+  },
+  "5189761c811ceeafcf90a01c23e2425c6685dc52": {
+    "title": "Application Security Engineer",
+    "company": "Pokemoncareers",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pokemoncareers/application-security-engineer-london-442103",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:21.000Z"
+  },
+  "2be5717766924b1a5fea85864db94991ad6c35d6": {
+    "title": "Staff Software Engineer - Authentication & Authorization",
+    "company": "Ripple",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-software-engineer-authentication-authorization-london-206387",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:05.000Z"
+  },
+  "b2a6466b02522e1e6f3940db01ff9db6fe3cc16b": {
+    "title": "Staff DevOps Engineer",
+    "company": "Ripple",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-devops-engineer-london-315603",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:05.000Z"
+  },
+  "4ba2b045f9233a0fd23a66396c94087bb56c2231": {
+    "title": "Senior Software Engineer, Risk",
+    "company": "Ripple",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-risk-london-173316",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:05.000Z"
+  },
+  "5446fe4f258704eb392b3cadb655d1dbf8731429": {
+    "title": "Senior Software Engineer, Banking Connectivity",
+    "company": "Ripple",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-banking-connectivity-london-364783",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-02T19:16:05.000Z"
   }
 }
