@@ -17125,5 +17125,400 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-03T15:40:11.000Z"
+  },
+  "aecf3d974bc42403a2607ac8037f68827fc0f2a7": {
+    "title": "AI Software Engineer (m/f/d)",
+    "company": "pplwise",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/pplwise/ai-software-engineer-munich-212006",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T17:41:03.000Z"
+  },
+  "f0472a01916be25d1ceb67d5c626d2a1fba879c1": {
+    "title": "Tech Lead (Agent Frontend) (m/w/d)",
+    "company": "Recare Deutschland GmbH",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-agent-frontend-berlin-217593",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T17:30:49.000Z"
+  },
+  "7edd8e663256675910467c49d9dc95af711e7c81": {
+    "title": "Software Engineer (Frontend) (m/w/d)",
+    "company": "Recare Deutschland GmbH",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-frontend-berlin-42694",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T17:30:49.000Z"
+  },
+  "a6f1b7a3709992a6ceeb70eebd825ee24dc38b3a": {
+    "title": "Customer Lifecycle Manager (all genders)",
+    "company": "Helpling GmbH & Co. KG",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/helpling-gmbh-co-kg/customer-lifecycle-manager-all-genders-berlin-11557",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T17:00:26.000Z"
+  },
+  "11c7729ca748c6fe2cfa3f9ec9c1219ea2d0c24d": {
+    "title": "Sr Software Engineer I",
+    "company": "Couchbaseinc",
+    "locationRaw": "Manchester",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/couchbaseinc/sr-software-engineer-i-manchester-125640",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:17:01.000Z"
+  },
+  "93926e51bbbf362073b799f0c46fc0b0c7bbdd21": {
+    "title": "Staff/Senior Product Designer, Mobile",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/staff-senior-product-designer-mobile-329978",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "161c164321a7635848b9764d9901f502e5ada143": {
+    "title": "Staff Engineer, iOS",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/staff-engineer-ios-364234",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "15b893b3d7d6b2f7b5ebc4f03d232b863f6d9f0d": {
+    "title": "Staff Cloud Platform Engineer - Cloud Developer Experience",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/staff-cloud-platform-engineer-cloud-developer-experience-91688",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "4d1b52c117cadd9415ab49badbcc48163cc14338": {
+    "title": "Staff Cloud Platform Engineer - Cloud Developer Experience",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/staff-cloud-platform-engineer-cloud-developer-experience-238166",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "2b892f2b14e43bb6c2dff8375dbc8ffd794f7943": {
+    "title": "Staff Android Engineer",
+    "company": "Alphasense",
+    "locationRaw": "London, Greater London; Remote - Europe",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/remote-staff-android-engineer-114277",
+    "categories": [
+      "Remote",
+      "UK",
+      "USA",
+      "Canada",
+      "Europe",
+      "Senior",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "57aceb9fe2c100c5a62e5f4b544ed3854fd27c59": {
+    "title": "Sr. Product Manager, M&A Transactions and Valuations",
+    "company": "Alphasense",
+    "locationRaw": "London, Greater London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/sr-product-manager-ma-transactions-and-valuations-london-greater-london-420863",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Canada",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "a5c60db3a2cac40cd55e6f86b5337415363310df": {
+    "title": "Senior/Staff Product Designer",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/senior-staff-product-designer-140526",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "b97e4766bb381ffac86b3f16bbd0fdb1f82d2132": {
+    "title": "Senior Staff Engineer, iOS",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/senior-staff-engineer-ios-105730",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "8ba3b198e2f242d831ba5661226de3fc818fbd9d": {
+    "title": "Senior Staff Engineer, Android",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/senior-staff-engineer-android-168325",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "a52822fc2c3aaca427ef0aa4131700c666571638": {
+    "title": "Senior/Staff Design Engineer",
+    "company": "Alphasense",
+    "locationRaw": "London, Greater London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/senior-staff-design-engineer-london-greater-london-474916",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Canada",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "c8c2328cb3a3a8d9a519a6984bff5ddb345e5ca2": {
+    "title": "Principal Software Engineer - Product Platforms",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/principal-software-engineer-product-platforms-314636",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "49a54e05cb368c33229693421c89d1cb8cb930f7": {
+    "title": "Principal Design Engineer",
+    "company": "Alphasense",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/principal-design-engineer-358630",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Canada",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:16:55.000Z"
+  },
+  "e7f32cdd6efb7b5fc904ebb58fc1de9a51bf33ac": {
+    "title": "Senior Software Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-london-346270",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:16.000Z"
+  },
+  "72cc07fa39eccac8a081372a81825d04a14e3926": {
+    "title": "Senior Mission Software Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-mission-software-engineer-london-87818",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:15.000Z"
+  },
+  "2a60ff7544c73902eebc8f9c216b8faff3352aae": {
+    "title": "Senior Mechanical Design Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-mechanical-design-engineer-london-380832",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:15.000Z"
+  },
+  "930e1f61057ef1290e9e60111cc6d86780c49f05": {
+    "title": "Senior Flight Test Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Llanbedr",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-flight-test-engineer-llanbedr-92967",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:15.000Z"
+  },
+  "0685ec52f744c3207eaae808725f8cc49286abca": {
+    "title": "Senior CFD Analyst",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-cfd-analyst-london-383239",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:14.000Z"
+  },
+  "220221f2499006b942819b67cb8c3a79686ab0fa": {
+    "title": "Product Security Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/product-security-engineer-london-443623",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:13.000Z"
+  },
+  "4c7f8a1f9e9306019e08a860c014f83eaaac31cc": {
+    "title": "Mission Software Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/mission-software-engineer-london-147554",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:13.000Z"
+  },
+  "138970673aafffc5a6785359386f9532e5fae692": {
+    "title": "Lead Mission Software Engineer, Connected Warfare",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/lead-mission-software-engineer-connected-warfare-london-210334",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:12.000Z"
+  },
+  "f92ab2dca2182bcd73252625df64eab9e068d007": {
+    "title": "DevOps Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/devops-engineer-london-94410",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-03T16:15:11.000Z"
   }
 }
