@@ -29834,5 +29834,105 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-07T14:30:33.000Z"
+  },
+  "8020d6f7d3fd8576875374127e9c14bc1a0382ea": {
+    "title": "Software Engineer II",
+    "company": "Pingidentity",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/software-engineer-ii-184501",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-07T21:55:20.000Z"
+  },
+  "62182c1979d3e6f8673cd53b815c1a925549a556": {
+    "title": "Senior Product Manager - AI",
+    "company": "prolific",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/senior-product-manager-ai-137878",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-07T21:55:19.000Z"
+  },
+  "abbc71e3468a8458ff88635d0995683e8973207c": {
+    "title": "Senior Systems Engineer",
+    "company": "Spire",
+    "locationRaw": "Glasgow, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/senior-systems-engineer-glasgow-82126",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-07T21:45:22.000Z"
+  },
+  "6313b12f4f3170972934e9b211685ecb41e986cf": {
+    "title": "AI Engineer, Enablement (London)",
+    "company": "LangChain",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/langchain/ai-engineer-enablement-london-297405",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-07T21:40:20.000Z"
+  },
+  "f8f63b337c5eedaa6aea300d0a01af14487449ae": {
+    "title": "Software Engineer | Identity & Access Management | Full-Stack",
+    "company": "Deepl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/software-engineer-identity-access-management-full-stack-london-346936",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-07T21:40:19.000Z"
+  },
+  "ca2e3558e73717396b34bfb17c74b21e49ae4568": {
+    "title": "Senior Site Reliability Engineer",
+    "company": "Deepl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-site-reliability-engineer-london-73115",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-07T21:40:19.000Z"
+  },
+  "3d371e43af70c21a6935ef4795bb65bbee40dd15": {
+    "title": "Solutions Engineer - EMEA",
+    "company": "Redpanda Data",
+    "locationRaw": "UK - Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-solutions-engineer-emea-238236",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-07T21:40:18.000Z"
   }
 }
