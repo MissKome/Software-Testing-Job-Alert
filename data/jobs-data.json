@@ -30062,5 +30062,595 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-07T23:30:16.000Z"
+  },
+  "5833082b9a04d6c30debc71289d2ea561bc0ee1e": {
+    "title": "Test",
+    "company": "Compact Home Lifts",
+    "locationRaw": "Collingwood,",
+    "url": "https://remoteOK.com/remote-jobs/remote-test-compact-home-lifts-1136290",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-07T02:12:23.000Z"
+  },
+  "bd4bc8cffaf0b1217a53aaa06a167c68a257363d": {
+    "title": "Product Manager, Courier Delivery Experience",
+    "company": "Wolt - English",
+    "locationRaw": "Berlin, Berlin, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/product-manager-courier-delivery-experience-berlin-471911",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T06:45:21.000Z"
+  },
+  "35806914dea11873c2d84eada90d8efe318ea165": {
+    "title": "Flight Control Automation Engineer (m/f/d)",
+    "company": "Quantum-Systems GmbH",
+    "locationRaw": "Gilching, Bayern, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-223927",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T05:30:12.000Z"
+  },
+  "fd5dbf0b4ac43bea976403cf479af2c408fa1e24": {
+    "title": "Development Engineer Production – Focus Software (f/m/d)",
+    "company": "Quantum-Systems GmbH",
+    "locationRaw": "Gilching, Bayern, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/development-engineer-production-focus-software-gilching-395919",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T05:30:11.000Z"
+  },
+  "29076c8da720bd34a9885d3b98ff4c359bbbacb3": {
+    "title": "Go to Market Engineer / RevOps Engineer",
+    "company": "Impossiblecloud",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/go-to-market-engineer-revops-engineer-hamburg-419698",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T05:26:04.000Z"
+  },
+  "012bb39067b75c0bf341b3415dcb8e48f7ff96f2": {
+    "title": "Senior Product Manager II, Menu Planning (all genders)",
+    "company": "hellofresh",
+    "locationRaw": "Berlin, Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-manager-ii-menu-planning-all-genders-berlin-berlin-341246",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:55:21.000Z"
+  },
+  "adf9e17bf09399c370645d9fa18adacac8babdf5": {
+    "title": "Senior Product Designer, New Ventures (f/m/x)",
+    "company": "hellofresh",
+    "locationRaw": "Berlin, Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-designer-new-ventures-berlin-berlin-382449",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:55:21.000Z"
+  },
+  "4e41a96e85d9de330711c90bb93321a6e745398e": {
+    "title": "Senior Frontend Platform Engineer",
+    "company": "N8N",
+    "locationRaw": "Berlin Office",
+    "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-frontend-platform-engineer-berlin-249395",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:40:24.000Z"
+  },
+  "f574e911ece3bd0614fda77ed4433c6c79785eb1": {
+    "title": "Senior Backend Engineer",
+    "company": "Qwello.eu",
+    "locationRaw": "Munich, Bavaria",
+    "url": "https://www.arbeitnow.com/jobs/companies/qwelloeu/senior-backend-engineer-munich-bavaria-355652",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Junior",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:25:32.000Z"
+  },
+  "43ff01b3e5b58a619b184af16fdb591846cbbfc4": {
+    "title": "Senior Full-Stack Engineer (Backend + Frontend)",
+    "company": "Soda Data Nv",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-4455",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:20:21.000Z"
+  },
+  "4a6ed1f1f5702d3cdde6d7cb567c6c5dd6416cbb": {
+    "title": "Senior Frontend Engineer (Full-stack)",
+    "company": "Soda Data Nv",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-476687",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:20:21.000Z"
+  },
+  "89bd994bb91c23ab98f9a689758c4350a75887e5": {
+    "title": "Senior Backend + Infrastructure Engineer (Platform)",
+    "company": "Soda Data Nv",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-203231",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "Full-stack",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:20:21.000Z"
+  },
+  "279b367999658565443a051863f47b6a4ae58a07": {
+    "title": "Software-Entwickler (m/w/d)",
+    "company": "Everbrent GmbH",
+    "locationRaw": "Köln",
+    "url": "https://www.arbeitnow.com/jobs/companies/everbrent-gmbh/software-entwickler-koln-204650",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T02:09:28.000Z"
+  },
+  "8437e9a3902d92a0cdf8fb4c4fe940addf57a122": {
+    "title": "Chief Technology Officer",
+    "company": "Wave",
+    "locationRaw": "London, England, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wave/chief-technology-officer-london-86509",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Africa",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T07:45:29.000Z"
+  },
+  "d4fd0a143d3a98fe39a03a76e0868472ad2eece9": {
+    "title": "Staff Software Engineer, Inference",
+    "company": "Coreweaveu",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-software-engineer-inference-london-124549",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T06:55:39.000Z"
+  },
+  "3c3accdf7ddf58f09c8197e8a09295ed6743ae6c": {
+    "title": "Software Engineer",
+    "company": "Janestreet",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/software-engineer-london-9716",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T06:55:28.000Z"
+  },
+  "90eea63c52419847447dd21cad1aaca7c13c2ff9": {
+    "title": "Enterprise Mobility Platform Engineer",
+    "company": "Janestreet",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/enterprise-mobility-platform-engineer-london-254613",
+    "categories": [
+      "Remote",
+      "UK",
+      "Mid-level",
+      "DevOps",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T06:55:27.000Z"
+  },
+  "0873bdb229911171b84b6c21a9508f5629bca840": {
+    "title": "Enterprise Solutions Engineer, Service Management",
+    "company": "asana",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/asana/enterprise-solutions-engineer-service-management-munich-250199",
+    "categories": [
+      "Hybrid",
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:55:37.000Z"
+  },
+  "a2e7eb8322cedc1277644b3f3b287cb5d1e395da": {
+    "title": "Senior Software Engineer, Custody Services",
+    "company": "Robinhood",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/robinhood/senior-software-engineer-custody-services-london-354666",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:55:30.000Z"
+  },
+  "8bc2200c64491cb006daf832f4417d9601e9cfc3": {
+    "title": "Senior Software Engineer, Training & Experimentation",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-training-experimentation-london-new-york-new-york-united-states-san-francisco-california-united-states-207359",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:55:24.000Z"
+  },
+  "69614c7cefa5b8cefe0c29a51b94edc1311aba4c": {
+    "title": "Senior Software Engineer, Core Platform",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-core-platform-london-new-york-new-york-united-states-san-francisco-california-united-states-44495",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:55:24.000Z"
+  },
+  "016cd50596509facd210a94515f701251f05ebb8": {
+    "title": "Senior Software Engineer, Agents",
+    "company": "Lightningai",
+    "locationRaw": "London; New York, New York, United States; San Francisco, California, United States",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-software-engineer-agents-london-new-york-new-york-united-states-san-francisco-california-united-states-357130",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:55:24.000Z"
+  },
+  "2c3024460a098e71a1d56e2adaf8291bc48aebb7": {
+    "title": "Senior Creative Strategist",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-creative-strategist-london-437859",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "e4d2ebfd43ffda9bd0f3951636cdad698c6d0776": {
+    "title": "Senior Frontend Engineer (Web & App)",
+    "company": "Quantum",
+    "locationRaw": "Maidstone (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-frontend-engineer-web-app-maidstone-145082",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Mobile",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "db1586b10b204a4863819f5e86102f9700629649": {
+    "title": "Customer Service & Operations Manager",
+    "company": "Quantum",
+    "locationRaw": "Maidstone (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/customer-service-operations-manager-maidstone-187833",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "9892b150bab8ea37fab1af359c4151b45cbed660": {
+    "title": "Head of Data Engineering and Machine Learning",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/head-of-data-engineering-and-machine-learning-london-316217",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "fe58cfc224cf880473a22efd13a1dd34c61411dd": {
+    "title": "Financial Analyst",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/financial-analyst-london-141308",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "3ec05e463b654d00524b790b15ce64a0c3656f28": {
+    "title": "Management Accountant",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/management-accountant-london-362838",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "4cdb610cd8a7c65c69e27a6ed40116c35f8454ab": {
+    "title": "Technical CRM Executive",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/technical-crm-executive-london-400541",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "a41e5532dafbd64fa7a7621e14fd07cc93c70249": {
+    "title": "Senior AI Engineer",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-ai-engineer-london-278859",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "3b21734351272e80c1b1c0ec2b54bfc692ea06d8": {
+    "title": "Senior Full Stack Engineer",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-full-stack-engineer-london-449519",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "6cd231fcdc8cdd2b4fbbf572bf0e319a81335910": {
+    "title": "Senior Data Engineer",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/senior-data-engineer-london-382561",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "953684aa13713ed9003b417a237f6b80db63f6e0": {
+    "title": "Graduate Commercial Insights Analyst",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-commercial-insights-analyst-london-45236",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Junior",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "b671161411ed967505e4a05848ec69d4f2e6d392": {
+    "title": "Paid Social Specialist",
+    "company": "Quantum",
+    "locationRaw": "London (hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/paid-social-specialist-london-59180",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T03:40:24.000Z"
+  },
+  "20ed6bbe4a717afd8ecb514f3c17aa8052dbf740": {
+    "title": "Senior Full Stack Engineer",
+    "company": "Mark43",
+    "locationRaw": "Manchester",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mark43/senior-full-stack-engineer-manchester-413946",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T00:55:40.000Z"
+  },
+  "c47cca2622c4ad3de3165fa0258b704a10394608": {
+    "title": "Security Analytics Engineer",
+    "company": "sonyinteractiveentertainmentglobal",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/security-analytics-engineer-london-95133",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T00:55:20.000Z"
+  },
+  "6cdb5d3ff99bac406b7e6836149fbbf6361ed116": {
+    "title": "Security Engineer (Corporate Security)",
+    "company": "Isomorphiclabs",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/isomorphiclabs/security-engineer-corporate-security-london-402052",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Data / Analytics",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T00:55:20.000Z"
+  },
+  "3a850f84e1f8e0f365814abb5c3f29565e4364b4": {
+    "title": "Lead Data Scientist",
+    "company": "Theinsidejob",
+    "locationRaw": "solihull",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/theinsidejob/lead-data-scientist-solihull-60901",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T00:55:18.000Z"
+  },
+  "f9f7a07862f35228989ed4e7f9d46977ec5fdb4a": {
+    "title": "Lead Data Engineer",
+    "company": "Theinsidejob",
+    "locationRaw": "solihull",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/theinsidejob/lead-data-engineer-solihull-7246",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-08T00:55:18.000Z"
   }
 }
