@@ -32596,5 +32596,92 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-09T12:55:10.000Z"
+  },
+  "c4792fc9cf0930587228063fb143fbbcaa82e37f": {
+    "title": "Founding Product Engineer",
+    "company": "Clera",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-product-engineer-munich-237254",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-09T17:40:24.000Z"
+  },
+  "331705a65c681f7032e6895414c09a5977bdff72": {
+    "title": "Senior Robotic Systems Engineer",
+    "company": "Clera",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/senior-robotic-systems-engineer-munich-468497",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-09T17:40:24.000Z"
+  },
+  "53dedb0e6645f703c7034d7de11fc60c5f548dab": {
+    "title": "IT Application Manager (m/w/d)",
+    "company": "FoxTalent",
+    "locationRaw": "Freiburg im Breisgau",
+    "url": "https://www.arbeitnow.com/jobs/companies/foxtalent/it-application-manager-freiburg-im-breisgau-7195",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-09T17:30:30.000Z"
+  },
+  "950e71065d9c0bae28575a2dd7dd41876f8548c2": {
+    "title": "Software Test Engineer (m/w/d)",
+    "company": "FoxTalent",
+    "locationRaw": "Nuremberg",
+    "url": "https://www.arbeitnow.com/jobs/companies/foxtalent/software-test-engineer-nuremberg-68217",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-09T17:30:28.000Z"
+  },
+  "92b9f0f22bdc0007d95a3183210d7341c52e9764": {
+    "title": "IT Support",
+    "company": "FoxTalent",
+    "locationRaw": "Paderborn",
+    "url": "https://www.arbeitnow.com/jobs/companies/foxtalent/it-support-paderborn-424594",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-09T17:30:27.000Z"
+  },
+  "db8ac6d20568178b3c97530cb02293c1828bfa90": {
+    "title": "Senior Mendix Engineer",
+    "company": "Mendix",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-268177",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-09T17:05:18.000Z"
   }
 }
