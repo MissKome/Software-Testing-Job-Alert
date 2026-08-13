@@ -40191,5 +40191,91 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-13T03:04:51.000Z"
+  },
+  "111990c387b5cc2a926f3b160da8782b6dd16a69": {
+    "title": "Senior Product Manager (BAD Product)",
+    "company": "jetbrains",
+    "locationRaw": "Berlin; Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-product-manager-bad-product-berlin-munich-114399",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T05:55:25.000Z"
+  },
+  "961fd860454b851957ab0f25116a2fdf22b08f57": {
+    "title": "QA Engineer (IJ Platform / Remote Development)",
+    "company": "jetbrains",
+    "locationRaw": "Berlin; Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/qa-engineer-ij-platform-remote-development-berlin-munich-214174",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T05:55:24.000Z"
+  },
+  "2adc98126720031454a9f50f4980a5b2b749c067": {
+    "title": "IT Support Specialist (f/m/d)",
+    "company": "Productsup",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/productsup/it-support-specialist-berlin-59133",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T05:30:39.000Z"
+  },
+  "058e8356da28484343979a56466b736038dacc61": {
+    "title": "Senior Data Analytics Engineer",
+    "company": "Dotmatics",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/senior-data-analytics-engineer-285756",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T06:55:25.000Z"
+  },
+  "ce9f3c8e6934286f2e2084bd0328654204869dbe": {
+    "title": "Staff Engineer for IT Automation & AI transformation (Remote)",
+    "company": "SoSafe",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-for-it-automation-ai-transformation-remote-london-192874",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T06:40:19.000Z"
+  },
+  "d81e3d6dad0af75b99179cb06c76a4ac1dc55748": {
+    "title": "Sales Operations Manager",
+    "company": "Street Group",
+    "locationRaw": "Manchester",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/sales-operations-manager-manchester-221564",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T06:40:13.000Z"
   }
 }
