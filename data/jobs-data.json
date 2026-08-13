@@ -40277,5 +40277,75 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-13T06:40:13.000Z"
+  },
+  "ce0ea7e586ac33e566a3401b74443d1b1901efc8": {
+    "title": "Azure Cloud Engineer",
+    "company": "Market Cloud",
+    "locationRaw": "Eschborn",
+    "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/azure-cloud-engineer-eschborn-294110",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T07:30:30.000Z"
+  },
+  "3d1def51113621008a18048ba7808cfbe995c231": {
+    "title": "Digital Designer (m/w/d)",
+    "company": "benuta GmbH",
+    "locationRaw": "Bonn",
+    "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/digital-designer-bonn-181678",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T07:30:29.000Z"
+  },
+  "a4a56ad687b845372ca5f9042f1e29a5d58b6266": {
+    "title": "Consultant (m/w/d) Kubernetes & Cloud Native",
+    "company": "Liquid Reply GmbH",
+    "locationRaw": "Dortmund",
+    "url": "https://www.arbeitnow.com/jobs/companies/liquid-reply-gmbh/consultant-kubernetes-cloud-native-dortmund-250251",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T07:30:29.000Z"
+  },
+  "cc32ef61e0d0899544135a86745759005cb81d6d": {
+    "title": "Junior Netzwerk Engineer* // in Köln // bis zu 50.000€ (*m/w/d)",
+    "company": "NXT Hero GmbH",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/junior-netzwerk-engineer-in-koln-bis-zu-50000eur-cologne-369398",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Junior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T07:00:44.000Z"
+  },
+  "b861a4cd3598073289b2d59e7aa4fa50faff9a90": {
+    "title": "Senior Cloud Infrastructure Engineer / OpenStack Engineer (m/w/d)",
+    "company": "NXT Hero GmbH",
+    "locationRaw": "Leipzig",
+    "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/senior-cloud-infrastructure-engineer-openstack-engineer-leipzig-70791",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-13T07:00:43.000Z"
   }
 }
