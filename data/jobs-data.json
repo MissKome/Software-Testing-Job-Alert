@@ -439,19 +439,6 @@
     "source": "remotive",
     "postedAt": "2026-07-02T07:39:11.000Z"
   },
-  "5839dd9358817bd06dc08d7652883116ec64f023": {
-    "title": "Communications Manager",
-    "company": "Lemon.io",
-    "locationRaw": "LATAM, Europe",
-    "url": "https://remotive.com/remote-jobs/communications/communications-manager-2090985",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior"
-    ],
-    "source": "remotive",
-    "postedAt": "2026-06-30T08:40:42.000Z"
-  },
   "9029c8663d7139595c7e2c1f45a4e02d718b73c3": {
     "title": "The GREEN Program",
     "company": "Jizr",
@@ -42707,5 +42694,64 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-14T00:40:12.000Z"
+  },
+  "8ad8d1227169028360cf491e203fe2aa98476047": {
+    "title": "Technical Account Manager B2B MCPTT / Mobilfunk (m/w/d)",
+    "company": "prettyTELCO GmbH",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/technical-account-manager-b2b-mcptt-mobilfunk-cologne-413232",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-14T08:00:42.000Z"
+  },
+  "c1b0140b64202a12a90fb9f9e14c32b3bcb007e9": {
+    "title": "Technical Account Manager B2B  M2M-Mobilfunk (m/w/d)",
+    "company": "prettyTELCO GmbH",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/technical-account-manager-b2b-m2m-mobilfunk-cologne-200416",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-14T08:00:41.000Z"
+  },
+  "d5dc9db657ed09b14166b2de9c5c0f3c0c65cbc2": {
+    "title": "Senior Typescript Developer (f/m/d)",
+    "company": "Sidestream",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-467948",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-14T08:00:39.000Z"
+  },
+  "133ee6cbef989e47b46d51fb838e6a1549a8225f": {
+    "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
+    "company": "Sidestream",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-355602",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Senior",
+      "Frontend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-14T08:00:39.000Z"
   }
 }
