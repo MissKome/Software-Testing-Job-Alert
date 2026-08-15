@@ -45581,5 +45581,34 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-15T18:30:43.000Z"
+  },
+  "e9ff8e4ea687797b4faec7b78dfe5d42e5dc3ece": {
+    "title": "Fullstack Engineer, Privy",
+    "company": "Stripe",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Frontend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-22T07:02:37.000Z"
+  },
+  "29293f3835418262e1eada29aae715bed9c4dbd1": {
+    "title": "Creative Director",
+    "company": "Coinbase",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-creative-director",
+    "categories": [
+      "Remote",
+      "Canada",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-07-22T07:02:20.000Z"
   }
 }
