@@ -43849,5 +43849,32 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-15T03:40:08.000Z"
+  },
+  "2f9cd90855a284f71aa302ebd055be82070a295d": {
+    "title": "Technician",
+    "company": "Lazure Hotel &amp; Marina",
+    "locationRaw": "Herceg-Novi,",
+    "url": "https://remoteOK.com/remote-jobs/remote-technician-lazure-hotel-amp-marina-1136732",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-12T00:00:00.000Z"
+  },
+  "3909df1615e656f9f858999d4898a517ea607911": {
+    "title": "Customer Support Driver",
+    "company": "Vp Rail",
+    "locationRaw": "Exeter,",
+    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-driver-vp-rail-1136761",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-10T12:52:58.000Z"
   }
 }
