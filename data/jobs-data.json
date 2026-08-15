@@ -45610,5 +45610,81 @@
     ],
     "source": "weworkremotely",
     "postedAt": "2026-07-22T07:02:20.000Z"
+  },
+  "95ca609a6ee3e0253fa28f0af8a82bf5bb28ceab": {
+    "title": "Founding Engineer",
+    "company": "Sanovio",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/sanovio/founding-engineer-munich-380048",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-15T20:40:31.000Z"
+  },
+  "db5111752f3e2fe7dd7dea9cf679c80996fa99c7": {
+    "title": "Software Engineering Intern (Full-Stack)",
+    "company": "Sanovio",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/sanovio/software-engineering-intern-full-stack-munich-452906",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-15T20:40:31.000Z"
+  },
+  "dd14640e61c65d501bdc0e120b1995a64c59f778": {
+    "title": "AI Engineering Intern",
+    "company": "Sanovio",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/sanovio/ai-engineering-intern-munich-474623",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Frontend",
+      "Backend",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-15T20:40:31.000Z"
+  },
+  "cf4d3600740be3cb4b6b6c599ceb614a462a49ad": {
+    "title": "Senior Product Manager | Capital Management (f/m/d)",
+    "company": "bunch",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-product-manager-capital-management-berlin-31654",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-15T20:40:22.000Z"
+  },
+  "fab972b0ddfd5d605f2dcdd048bc0cfe541d7b32": {
+    "title": "Performance Marketing Manager - Maternity Cover (m/f/d)",
+    "company": "Yepoda",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/yepoda/performance-marketing-manager-maternity-cover-berlin-281333",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-15T20:40:21.000Z"
   }
 }
