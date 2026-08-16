@@ -427,18 +427,6 @@
     "source": "remotive",
     "postedAt": "2026-07-02T11:45:47.000Z"
   },
-  "2c04301bb8e52db0e7167bf2ca05ae9fa1ec8365": {
-    "title": "Customer Operations & Writing Specialist",
-    "company": "Clerky, Inc.",
-    "locationRaw": "Worldwide",
-    "url": "https://remotive.com/remote-jobs/customer-service/customer-operations-writing-specialist-2090942",
-    "categories": [
-      "Onsite",
-      "Mid-level"
-    ],
-    "source": "remotive",
-    "postedAt": "2026-07-02T07:39:11.000Z"
-  },
   "9029c8663d7139595c7e2c1f45a4e02d718b73c3": {
     "title": "The GREEN Program",
     "company": "Jizr",
@@ -45818,5 +45806,296 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-16T00:09:08.000Z"
+  },
+  "527d42f7f3cc21c06adc99934ade4984cfa31bdf": {
+    "title": "Product Manager",
+    "company": "Shopper1st",
+    "locationRaw": "Nirsa,",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-manager-shopper1st-1136807",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-11T00:48:23.000Z"
+  },
+  "7967f3bdad8147217d406ecc3488d0bef2408c43": {
+    "title": "Senior Java Software Engineer",
+    "company": "1Global",
+    "locationRaw": "Berlin, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/1global/senior-java-software-engineer-berlin-1939",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T08:20:23.000Z"
+  },
+  "42d5fd91fb88611c8cada8f7078f72a7dcbeeb87": {
+    "title": "Data Analyst (m/f/d)",
+    "company": "Metro Markets GmbH",
+    "locationRaw": "Düsseldorf",
+    "url": "https://www.arbeitnow.com/jobs/companies/metro-markets-gmbh/data-analyst-dusseldorf-370003",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T02:09:31.000Z"
+  },
+  "175ce29449d0816340467ddf5bd4dce6fde37cb5": {
+    "title": "Werkstudent IT-Administration & Security (m/w/d)",
+    "company": "Vivira Health Lab",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/vivira-health-lab/werkstudent-it-administration-security-berlin-415872",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T02:09:30.000Z"
+  },
+  "70e47dbddbc5f41b45002e01c79c1a4a696a2d74": {
+    "title": "Werkstudent (m/w/d) Strategy & Business Development (AI-Taskforce)",
+    "company": "Yoummday GmbH",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/werkstudent-strategy-business-development-ai-taskforce-munchen-407715",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T02:09:29.000Z"
+  },
+  "4f3ec9bd42cb27845a331fca40d2f4b54b533904": {
+    "title": "Platform & DevOps Engineer (m/w/d)",
+    "company": "Yoummday GmbH",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-98477",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T02:09:29.000Z"
+  },
+  "2988a1cc002a4242fbfd9e79b3c522c5506e543c": {
+    "title": "Senior Firmware Engineer",
+    "company": "Graphcore",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-firmware-engineer-bristol-115220",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:55:20.000Z"
+  },
+  "9d47ce3eb3b055448fe2e6ee24661529292544fd": {
+    "title": "Financial Auditor – Product & Methodology",
+    "company": "Cortea AI",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cortea-ai/financial-auditor-product-methodology-london-431862",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:15.000Z"
+  },
+  "f9a911feca5d11d8e1f5e96508208b913e8d43e8": {
+    "title": "Senior Back-End Engineer - Ledger Platform",
+    "company": "iwoca",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-back-end-engineer-ledger-platform-london-73229",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Backend",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:11.000Z"
+  },
+  "2b35ad3bc51e8f71e60400730800d10bf848e278": {
+    "title": "Back-End Engineer - Repeats",
+    "company": "iwoca",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/back-end-engineer-repeats-london-58882",
+    "categories": [
+      "Hybrid",
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:11.000Z"
+  },
+  "9976e21edeebaf945a70ab2ad3d2bdd35cd96479": {
+    "title": "Senior Back-end Engineer - Customer Operations Platform",
+    "company": "iwoca",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-back-end-engineer-customer-operations-platform-london-308225",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:11.000Z"
+  },
+  "9905fb7d97a69f2cdf5b92116b86b59568a8975f": {
+    "title": "Senior Application Security Manager",
+    "company": "Pleo",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-application-security-manager-united-kingdom-356151",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:06.000Z"
+  },
+  "e3bf1d535392b37b5d61534615c8fa4b4d1b0bef": {
+    "title": "Senior Application Security Manager",
+    "company": "Pleo",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-application-security-manager-london-273782",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:06.000Z"
+  },
+  "4f9d48f9211d2332b5f9ad42213a36d8f33006c9": {
+    "title": "Senior Applied AI Engineer",
+    "company": "Pleo",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-applied-ai-engineer-london-218725",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:06.000Z"
+  },
+  "b23436dfdd1fd15aa9aca13f9473da212b4bf74f": {
+    "title": "Senior Applied AI Engineer",
+    "company": "Pleo",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-applied-ai-engineer-united-kingdom-144957",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T06:40:06.000Z"
+  },
+  "c5f8846c82cac16f79188137c164bfec10dd8454": {
+    "title": "Software Engineer (Commodities Data Team)",
+    "company": "Drweng",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/drweng/software-engineer-commodities-data-team-london-233227",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Canada",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T03:55:44.000Z"
+  },
+  "e9303694ff6a6573f21abf6a7e6c5459eafed871": {
+    "title": "Avionics Software Engineer",
+    "company": "Lodestarspace",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lodestarspace/avionics-software-engineer-london-206201",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T03:55:13.000Z"
+  },
+  "5223060e02d65a9da38b793d821ec0e3972fd82a": {
+    "title": "Senior Product Manager",
+    "company": "Trainline",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-product-manager-london-395973",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T03:40:23.000Z"
+  },
+  "e35913ea7ea1ad9ccb721b902dd78ad96358de5d": {
+    "title": "Sports Trader",
+    "company": "Midnite",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/sports-trader-united-kingdom-219520",
+    "categories": [
+      "Remote",
+      "UK",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T03:40:16.000Z"
+  },
+  "5ce3cdafea418569c6a45bdb263712a12e3ca0f1": {
+    "title": "Principal Product Manager- Conversational AI",
+    "company": "Hopper",
+    "locationRaw": "England - Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hopper/remote-principal-product-manager-conversational-ai-260822",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-16T03:40:14.000Z"
   }
 }
