@@ -389,18 +389,6 @@
     "source": "remotive",
     "postedAt": "2026-07-07T09:04:10.000Z"
   },
-  "396dbd4e9edf9e4058860099e8069a3d370013fe": {
-    "title": "Freelance Writer",
-    "company": "IAPWE",
-    "locationRaw": "Worldwide",
-    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-    "categories": [
-      "Onsite",
-      "Senior"
-    ],
-    "source": "remotive",
-    "postedAt": "2026-07-04T16:53:04.000Z"
-  },
   "9029c8663d7139595c7e2c1f45a4e02d718b73c3": {
     "title": "The GREEN Program",
     "company": "Jizr",
@@ -49726,5 +49714,141 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-18T14:30:39.000Z"
+  },
+  "8bd714e8d3a2dc3bc25439c954509c78a8452614": {
+    "title": "Automation & AI Specialist (m/w/d)",
+    "company": "WorkflowX",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/workflowx/automation-ai-specialist-munchen-229852",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:30:39.000Z"
+  },
+  "a4edde0e9fc534741848007df89315ebc97c0143": {
+    "title": "Senior UX/UI Designer - Freelance (m/f/d)",
+    "company": "New Monday GmbH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/senior-ux-ui-designer-freelance-berlin-206505",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:30:38.000Z"
+  },
+  "e86869731066d6ce7d7c6e944d841658b81254dd": {
+    "title": "Senior Software Developer & Development Coordinator (m/w/d) – .NET & AI-gestützte Produktentwicklung",
+    "company": "QualityHosting GmbH",
+    "locationRaw": "Frankfurt",
+    "url": "https://www.arbeitnow.com/jobs/companies/qualityhosting-gmbh/senior-software-developer-development-coordinator-net-ai-gestutzte-produktentwicklung-frankfurt-459907",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:20:27.000Z"
+  },
+  "edafcf750780218350bbb1833e323dce872fe3ad": {
+    "title": "Senior Paid Marketing Strategist",
+    "company": "typeform",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/typeform/senior-paid-marketing-strategist-366827",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:15:48.000Z"
+  },
+  "ebbc8ac4b118c099c5e4297e77be45d2ad2133d8": {
+    "title": "IT Support Disponent (m/w/d)",
+    "company": "IT Fabrik Systemhaus GmbH & Co.KG",
+    "locationRaw": "Bitburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/it-fabrik-systemhaus-gmbh-cokg/it-support-disponent-bitburg-185164",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:00:27.000Z"
+  },
+  "d63914d7bc7268a3deb19bea918ced1d3896c89e": {
+    "title": "Reliability Engineer",
+    "company": "hellofresh",
+    "locationRaw": "Derby",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/reliability-engineer-derby-224788",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:55:41.000Z"
+  },
+  "2ee83b5cbbf7b12b67139d0a753f480a3bf8f503": {
+    "title": "Senior Data Scientist",
+    "company": "Geniussports",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-data-scientist-london-414675",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:55:05.000Z"
+  },
+  "6ed1d91d5e6115a2b857a8b33dd723b3b210b4d3": {
+    "title": "Project Delivery Technician",
+    "company": "Hawkeyeinnovations",
+    "locationRaw": "Basingstoke",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/project-delivery-technician-sony-business-europe-viables-industrial-estate-jays-cl-basingstoke-rg22-4sb-43689",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:40:19.000Z"
+  },
+  "d2a1a5dbfc0fc74b7f0f41497a6941b514b7c7d4": {
+    "title": "Senior Full Stack Engineer - (HawkAI)",
+    "company": "Hawkeyeinnovations",
+    "locationRaw": "Budapest, Hungary",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-full-stack-engineer-hawkai-budapest-311397",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:40:19.000Z"
+  },
+  "3ae89d0bc975ed830ba914c77a94736f584f7e01": {
+    "title": "Sr Product Manager - Hybridisation",
+    "company": "Kraken",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-product-manager-hybridisation-london-335113",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T15:40:15.000Z"
   }
 }
