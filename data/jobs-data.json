@@ -49559,5 +49559,90 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-18T12:40:21.000Z"
+  },
+  "967412a853021d05cb3e7c75078f67d256a43a15": {
+    "title": "Werkstudent (m/w/d) Product Marketing",
+    "company": "Checkmk GmbH",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/checkmk-gmbh/werkstudent-product-marketing-munich-364701",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T14:09:45.000Z"
+  },
+  "8e8f0acf6728e78f9d1e7b865f0864d3f0598bc0": {
+    "title": "Senior Software Developer (m/f/d) in CI",
+    "company": "Checkmk GmbH",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/checkmk-gmbh/senior-software-developer-in-ci-munich-52426",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T14:09:45.000Z"
+  },
+  "ab252ee6116c41f07b0dc7c08f1f6eacc053ebef": {
+    "title": "Frontend-Entwickler & Design-Technologist*",
+    "company": "AMS Gruppe",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/ams-gruppe/frontend-entwickler-design-technologist-berlin-2718",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T14:00:24.000Z"
+  },
+  "d561f7ac5277f6e371118502421ea0741dcd9960": {
+    "title": "Senior Data Scientist, Workforce Management Analytics",
+    "company": "Wolt - English",
+    "locationRaw": "Berlin, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-data-scientist-workforce-management-analytics-berlin-224838",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T13:45:23.000Z"
+  },
+  "ce3a2c0767ced62877836fa51cc065e3a3067a5d": {
+    "title": "Werkstudent Webentwicklung (m/w/d)",
+    "company": "Die Gruppe Werbeagentur GmbH",
+    "locationRaw": "Leinfelden-Echterdingen",
+    "url": "https://www.arbeitnow.com/jobs/companies/die-gruppe-werbeagentur-gmbh/werkstudent-webentwicklung-leinfelden-echterdingen-445402",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T13:30:52.000Z"
+  },
+  "115664129801c1feb6b3b8435e1ef72b624b49c5": {
+    "title": "Backend Engineer",
+    "company": "kwiff",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kwiff/backend-engineer-london-324322",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Backend",
+      "Mobile",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-18T14:00:26.000Z"
   }
 }
