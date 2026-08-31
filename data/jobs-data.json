@@ -6979,20 +6979,6 @@
     "source": "weworkremotely",
     "postedAt": "2026-07-21T14:57:31.000Z"
   },
-  "9c78bffdbef1addc2f06eea7df2a51b46245b365": {
-    "title": "Web Designer",
-    "company": "Steady Vision",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/steady-vision-web-designer",
-    "categories": [
-      "Remote",
-      "USA",
-      "Mid-level",
-      "Product / Design"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-16T21:08:09.000Z"
-  },
   "ee143c245d411da446884b09be177401d51c86b1": {
     "title": "Senior Full-Stack PHP Developer - Alpha Online (m/w/d)",
     "company": "caronsale",
@@ -73287,5 +73273,409 @@
     ],
     "source": "weworkremotely",
     "postedAt": "2026-08-12T12:18:51.000Z"
+  },
+  "2ca4fc2878fc35a05437088e56cf22d81236239c": {
+    "title": "MOT Tester",
+    "company": "Mr Clutch Autocentres",
+    "locationRaw": "Oxford,",
+    "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-30T03:32:53.000Z"
+  },
+  "fefa1343027b2964e03fc88562a8ebd861139726": {
+    "title": "Wireperson",
+    "company": "TRANT ENGINEERING LIMITED",
+    "locationRaw": "Southampton,",
+    "url": "https://remoteOK.com/remote-jobs/remote-wireperson-trant-engineering-limited-1137221",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-30T03:30:01.000Z"
+  },
+  "e6dae4768cce4973dad16d4d616b1150c9b20e0b": {
+    "title": "Working Student Customer Care (m/f/d)",
+    "company": "Chrono24",
+    "locationRaw": "Karlsruhe",
+    "url": "https://www.arbeitnow.com/jobs/companies/chrono24/working-student-customer-care-karlsruhe-205112",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T23:09:21.000Z"
+  },
+  "07331bf4d541051000e7a8d559a1493902d96277": {
+    "title": "Maintenance System Engineering Intern",
+    "company": "Tozero",
+    "locationRaw": "Munich HQ (Karlsfeld)",
+    "url": "https://www.arbeitnow.com/jobs/companies/tozero/maintenance-system-engineering-intern-munich-hq-karlsfeld-156560",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Internship",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T23:09:14.000Z"
+  },
+  "d58a431b3dd80c4510aa460ed5e1c1f584a82d4f": {
+    "title": "Head of Integrity Data and Innovations (m-f-d)",
+    "company": "Fsc",
+    "locationRaw": "Bonn, Germany (Hybrid)",
+    "url": "https://www.arbeitnow.com/jobs/companies/fsc/head-of-integrity-data-and-innovations-m-f-d-bonn-germany-hybrid-166030",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T23:09:10.000Z"
+  },
+  "ba63d1bffe9e0f32f61785eb808151153767efac": {
+    "title": "Frontend Engineer (React / TypeScript)",
+    "company": "Persohap GmbH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/frontend-engineer-react-typescript-berlin-126910",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T22:30:29.000Z"
+  },
+  "91e51bb102cbc7af821b8b83741602838bf7eba7": {
+    "title": "Senior Google Ads Manager (m/w/d) in Münster",
+    "company": "bd operations GmbH",
+    "locationRaw": "Münster",
+    "url": "https://www.arbeitnow.com/jobs/companies/bd-operations-gmbh/senior-google-ads-manager-in-munster-362993",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:30:46.000Z"
+  },
+  "66f27bcc797ad2aed0aa1c50f3ba5bdcd03ffb8d": {
+    "title": "Senior Google Ads Manager (m/w/d) in Augsburg",
+    "company": "bd operations GmbH",
+    "locationRaw": "Augsburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/bd-operations-gmbh/senior-google-ads-manager-in-augsburg-343847",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:30:46.000Z"
+  },
+  "78e568573351089e6cbf5829d4b306a5a213645f": {
+    "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-9315",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:30:07.000Z"
+  },
+  "dd6b5b7cafe8dad58825082d01a88895eef86b81": {
+    "title": "Senior Java Fullstack Developer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Kaarst, Nordrhein-Westfalen, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-kaarst-468933",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:30:07.000Z"
+  },
+  "19c51c2f44aef97c15c10bf9f58be2d829b2b919": {
+    "title": "Senior Java Fullstack Developer mit technischem Fokus (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Kaarst, Nordrhein-Westfalen, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-mit-technischem-fokus-kaarst-96334",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:30:07.000Z"
+  },
+  "d3a72c43a87047e077b546e04944760e347afdfe": {
+    "title": "AI Solution Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-280706",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:30:07.000Z"
+  },
+  "93ecfd964b648b90fe0a16b690be5ef12b2dc26b": {
+    "title": "Senior Java Backend Developer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-314599",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:30:07.000Z"
+  },
+  "209befef53675b445df991a683b42613ee02ca69": {
+    "title": "Senior Analytics Engineer (all genders)",
+    "company": "Eraneos",
+    "locationRaw": "Hamburg, München, Düsseldorf, remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-analytics-engineer-all-genders-341906",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:47.000Z"
+  },
+  "573a088e453ef9703cef4b43e426d601af3ff007": {
+    "title": "Senior AI Engineer (all genders)",
+    "company": "Eraneos",
+    "locationRaw": "Hamburg, München, Düsseldorf, remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-ai-engineer-all-genders-447613",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:47.000Z"
+  },
+  "ee986e68386975be280fa6be1cfe6947dba749fc": {
+    "title": "Principal Cybersecurity (all genders)",
+    "company": "Eraneos",
+    "locationRaw": "Hamburg, München, Düsseldorf, remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-186416",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:47.000Z"
+  },
+  "9b5f7398446a0a1d3c71116a915c31faaad08662": {
+    "title": "Management Consultant Enterprise Architecture (all genders)",
+    "company": "Eraneos",
+    "locationRaw": "Hamburg, München, Düsseldorf, remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-management-consultant-enterprise-architecture-all-genders-134969",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Senior",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:47.000Z"
+  },
+  "2b5cf07c7bfb56d92b31fcee0f8ea7c75c9f27d0": {
+    "title": "Senior Cloud Consultant - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
+    "company": "Auvaria",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-cloud-consultant-data-ai-engineer-4-days-week-german-speaking-hamburg-123240",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:40.000Z"
+  },
+  "b42a19253c12385759ce5edceebe538d70356ab3": {
+    "title": "Trainee Frontend Development (m/w/d)",
+    "company": "Brandung",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:05.000Z"
+  },
+  "3271607e45f9095ad54de4dcb41dd93a69ec3fc4": {
+    "title": "Staff Engineer (m/f/d)",
+    "company": "Solactive",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/solactive/staff-engineer-berlin-17712",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:02.000Z"
+  },
+  "aa2a1e9f5fce21f638ebd1a6f3be5b6f25bf3d2e": {
+    "title": "Principal Software Developer (f/m/d) - Market Data",
+    "company": "Solactive",
+    "locationRaw": "Frankfurt am Main",
+    "url": "https://www.arbeitnow.com/jobs/companies/solactive/principal-software-developer-market-data-frankfurt-am-main-326325",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-30T20:09:02.000Z"
+  },
+  "ee22580a9f81a5bceb3c3f0199e4a34144ff827b": {
+    "title": "Engineering Lead",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-lead-london-464473",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T00:40:11.000Z"
+  },
+  "db92b76f7496b226144719bdf8a20e459b9f7e1e": {
+    "title": "Technical Lead",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-lead-london-83306",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T00:40:11.000Z"
+  },
+  "cf217ec7f7be3cd6f9c30f62b119e7a0fc231564": {
+    "title": "Principal Software Engineer",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/principal-software-engineer-london-46993",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T00:40:11.000Z"
+  },
+  "e542281a2ca61b46cf4ed1dcd92f60f8c5ed2d5e": {
+    "title": "Lead Software Engineer",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-software-engineer-london-155087",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T00:40:11.000Z"
+  },
+  "5675b905d685f3ef4d1e7d90db942456f5233d03": {
+    "title": "Staff Software Engineer",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/staff-software-engineer-london-432971",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T00:40:11.000Z"
+  },
+  "ed6d4e7fd6a5478f85b0eef7a89f379d6912baed": {
+    "title": "Technical Product Manager - AI Finance App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-finance-app-london-239660",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T00:40:11.000Z"
+  },
+  "750ba9ca7ff7759e4255c3c0bc5ab7cbf9e88126": {
+    "title": "Python Backend Development Talent with RAG and Agentic AI Experience",
+    "company": "Toptal",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-12T18:38:32.000Z"
   }
 }
