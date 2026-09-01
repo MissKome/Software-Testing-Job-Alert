@@ -74300,5 +74300,385 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-31T06:55:19.000Z"
+  },
+  "d92fba2b367b64e737b0cfd81e44d1e84bdfe043": {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "locationRaw": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-08-30T21:00:01.000Z"
+  },
+  "d502745994b3eb0b98f321a97e1b3cb8857111d6": {
+    "title": "Staff Product Engineer",
+    "company": "intercom",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/intercom/staff-product-engineer-berlin-223858",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:34:05.000Z"
+  },
+  "ed8cb8fbb5ca2f44117457a3377008cf2bb082f5": {
+    "title": "Principal Engineer",
+    "company": "intercom",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/intercom/principal-engineer-berlin-32078",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:34:05.000Z"
+  },
+  "39a90bee84517d326d0f6ddde1295f1bd5153d73": {
+    "title": "Director, CDx Regulatory Consultant",
+    "company": "Precisionmedicinegroup",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/precisionmedicinegroup/remote-director-cdx-regulatory-consultant-483451",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:55:29.000Z"
+  },
+  "c029e7fad5b31e12ee2dd23502448d577f0b6678": {
+    "title": "Core Developer - Platform",
+    "company": "Parity",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-core-developer-platform-407467",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:40:18.000Z"
+  },
+  "dd14203f0444d546d73d5dbc98b088b232ec6ad9": {
+    "title": "Core Developer - Node",
+    "company": "Parity",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-core-developer-node-248414",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:40:18.000Z"
+  },
+  "b4684b5aa472be3c304bb88c7985fa09170cd194": {
+    "title": "Senior Experience Engineer",
+    "company": "Parity",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-senior-experience-engineer-442761",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:40:18.000Z"
+  },
+  "f4fffb57b8f6d5458231cde18fadb2391c1c96c7": {
+    "title": "Senior Security Engineer - Remote",
+    "company": "Parity",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/parity/senior-security-engineer-remote-359025",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Data / Analytics",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:40:18.000Z"
+  },
+  "d81b3db288169f80cc6a7959223e2006c4197311": {
+    "title": "Engineering Manager, Search Engine (all genders)",
+    "company": "Distribusion Technologies",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-engineering-manager-search-engine-all-genders-berlin-282985",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:30:22.000Z"
+  },
+  "87b03b63913b1020d8605269289ba1ed5e1f0cdb": {
+    "title": "Analytics Engineer, Data Platform",
+    "company": "Emma – The Sleep Company",
+    "locationRaw": "Frankfurt",
+    "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/analytics-engineer-data-platform-frankfurt-156939",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:24:48.000Z"
+  },
+  "271e90eb0c4a603f1b59a400053574cfc80aee32": {
+    "title": "DevOps Engineer – Release & Deployment (m/w/d)",
+    "company": "GRAYOAK",
+    "locationRaw": "Frankfurt am Main",
+    "url": "https://www.arbeitnow.com/jobs/companies/grayoak/devops-engineer-release-deployment-frankfurt-am-main-35890",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:09:22.000Z"
+  },
+  "44dc370be949f0b46a5ccec35e20ea0b981b26e3": {
+    "title": "Data Engineer",
+    "company": "Aevi",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/aevi/data-engineer-germany-230003",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:04:27.000Z"
+  },
+  "1f5804b6085be7bc8a1f2cd5a4baf5ac52972c35": {
+    "title": "Software Development Engineers in Test (Python)",
+    "company": "Xm",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-software-development-engineers-in-test-python-130060",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:04:06.000Z"
+  },
+  "cda316c00192862c4a53ba09d5c3c00e5643f18d": {
+    "title": "Site Reliability Engineers (SRE)",
+    "company": "Xm",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-site-reliability-engineers-sre-252482",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:04:06.000Z"
+  },
+  "254d447ddc0c586b3dac8dc0d35bf19d78a394bf": {
+    "title": "QA Software Test Automation Engineers (Java)",
+    "company": "Xm",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-204520",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T20:04:06.000Z"
+  },
+  "a623f2dc451e177dd718e90ebcf1b232f6a83948": {
+    "title": "Staff Software Engineer - Physical AI",
+    "company": "Coreweave",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/staff-software-engineer-physical-ai-london-246734",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:55:42.000Z"
+  },
+  "6cdb242b5b527ca729a97888d8beaad60595d2fa": {
+    "title": "Senior Specialist Field Engineer - Networking",
+    "company": "Coreweave",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-specialist-field-engineer-networking-london-24388",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:55:41.000Z"
+  },
+  "d154039defe73a41fb926154f55338857cf48e59": {
+    "title": "Senior Software Engineer - Physical AI",
+    "company": "Coreweave",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweave/senior-software-engineer-physical-ai-london-128249",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:55:41.000Z"
+  },
+  "b60600482753c1ad9ba7aeaa9f2f3f8721fb9e2e": {
+    "title": "Principal Product Manager (Strategic Account Interactions) - Security Solutions",
+    "company": "Elastic",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/principal-product-manager-strategic-account-interactions-security-solutions-91900",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:55:17.000Z"
+  },
+  "4f5ce15281c8d251da730b3f758b417161920f5b": {
+    "title": "Forward Deployed Engineer",
+    "company": "Hexa",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hexa/remote-forward-deployed-engineer-116806",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:40:05.000Z"
+  },
+  "82ae217337ec988e70367d349f107797c82dad69": {
+    "title": "Software Engineer (.NET C#)",
+    "company": "TransPerfect",
+    "locationRaw": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-95674",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:30:05.000Z"
+  },
+  "bfb4560b17083ac05b510fa3032a63cb4d64575c": {
+    "title": "Senior Backend Developer (C# .NET)",
+    "company": "TransPerfect",
+    "locationRaw": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-backend-developer-c-net-london-195475",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:30:05.000Z"
+  },
+  "9943f35753dfafefc3ada5950818a1732685c9db": {
+    "title": "Senior QA Engineer | London",
+    "company": "TransPerfect",
+    "locationRaw": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-88979",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Junior",
+      "Senior",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:30:05.000Z"
+  },
+  "1b3d52d81cad704802cb00d88fb31c2df58a1840": {
+    "title": "Senior Software Engineer (C# .NET) | London",
+    "company": "TransPerfect",
+    "locationRaw": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-software-engineer-c-net-london-319508",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:30:04.000Z"
+  },
+  "29b33be4823b767ed3ef8dc6487a59713a81e8fc": {
+    "title": "Product Owner",
+    "company": "Objectway",
+    "locationRaw": "LONDON",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/objectway/product-owner-london-90614",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:04:06.000Z"
+  },
+  "3d388c9c69a96dd1a8cb25f5e70acee749abb60e": {
+    "title": "Product Manager – Wealth Management",
+    "company": "Objectway",
+    "locationRaw": "LONDON",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/objectway/product-manager-wealth-management-london-215372",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Canada",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-08-31T21:04:06.000Z"
   }
 }
