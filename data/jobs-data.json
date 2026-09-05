@@ -81382,5 +81382,696 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-05T12:55:04.000Z"
+  },
+  "79756f3ab908272a7ef378fb62a2073f4fd57593": {
+    "title": "Senior Commercial Sales Representative (German Speaker)",
+    "company": "Sentinellabs",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/sentinellabs/senior-commercial-sales-representative-german-speaker-179252",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T14:55:14.000Z"
+  },
+  "db5a95aba267f9f6512d89bee4216267206bf6f8": {
+    "title": "Senior Talent Acquisition Manager | GTM & Operations (f/m/d)",
+    "company": "bunch",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-talent-acquisition-manager-gtm-operations-berlin-386055",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T14:40:07.000Z"
+  },
+  "1f84673b2a6f77c42b3804fcd4e7aafd7a36515d": {
+    "title": "Python Backend Engineer (m/f/x)",
+    "company": "Makersite GmbH",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T14:30:32.000Z"
+  },
+  "9a97f0b17f56e4dd2c970ac57b1b41d31ef2f641": {
+    "title": "Senior Data Scientist (m/f/x)",
+    "company": "Makersite GmbH",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-143991",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T14:30:32.000Z"
+  },
+  "0177a4ded67a2872e87c1255a5ada1c76caa4de2": {
+    "title": "Head of Product (m/w/d)",
+    "company": "Doonails",
+    "locationRaw": "Köln",
+    "url": "https://www.arbeitnow.com/jobs/companies/doonails/head-of-product-koln-432145",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T14:04:28.000Z"
+  },
+  "a0036b416bb348e78293d0feec7554fb17342fbf": {
+    "title": "Senior Product Manager (f/m/d)",
+    "company": "Apaleo",
+    "locationRaw": "München, Bavaria, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/apaleo/senior-product-manager-munchen-175208",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:45:26.000Z"
+  },
+  "d39b44bca38d50d996424a5458b10b18b6280bbd": {
+    "title": "Senior Systems Engineer",
+    "company": "Graphcore",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-bristol-461847",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T15:55:15.000Z"
+  },
+  "1d60ff4c8b43a5c7e1208675cbb3199e1228e966": {
+    "title": "Senior Software Engineer",
+    "company": "Graphcore",
+    "locationRaw": "Cambridge",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-cambridge-296220",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T15:55:15.000Z"
+  },
+  "6a2b0688ed2a3d0d8441f998fa44598a97d9a92c": {
+    "title": "Sr. Software Engineer, Investor Solutions",
+    "company": "Addepar1",
+    "locationRaw": "Edinburgh",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T15:55:15.000Z"
+  },
+  "b78b0351bf13fd5311f49fa0f57fdc009e20c001": {
+    "title": "Sr. Software Engineer - AI/ML - AI Platform",
+    "company": "Addepar1",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T15:55:15.000Z"
+  },
+  "a1ef54fd7a9217b368b77a2b198a937cf04d4a0d": {
+    "title": "Value Engineer",
+    "company": "Legora",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/value-engineer-london-3330",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T15:40:09.000Z"
+  },
+  "f41539567d4644f03f41875b1abe8e5441dc04ec": {
+    "title": "Solution Architect / Solution Engineer",
+    "company": "Vivenu",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/vivenu/solution-architect-solution-engineer-paris-329717",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T16:04:49.000Z"
+  },
+  "b1a5bb046d8613f03568c0275eaa912737afdf98": {
+    "title": "Senior Product Manager",
+    "company": "Brevo",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-product-manager-paris-france-485850",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T16:04:21.000Z"
+  },
+  "9d891403898c563d75f21f45fd7ca8c40bf544ea": {
+    "title": "Senior AI Engineer (Forward-Deployed)",
+    "company": "Brevo",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/brevo/senior-ai-engineer-forward-deployed-paris-france-491177",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T16:04:21.000Z"
+  },
+  "9c30e57b49d5bbfb5cebad12e69f31458d50cf0e": {
+    "title": "Senior Platform Engineer - ARTESCA",
+    "company": "Scality",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/scality/senior-platform-engineer-artesca-paris-france-464086",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T16:04:11.000Z"
+  },
+  "b0199f671a383c64a8ae745dd861d556ffe1fb7f": {
+    "title": "Customer Solutions Engineer Paris",
+    "company": "Scality",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/scality/customer-solutions-engineer-paris-paris-france-424712",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T16:04:11.000Z"
+  },
+  "c9ce3c048ed3140372f510209d48cf84c67839cd": {
+    "title": "Software Engineer Java",
+    "company": "mirakllabs",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-java-paris-374073",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "274c275d35870800c523b2a4c31640e1c0bd8abc": {
+    "title": "Senior AI Engineer",
+    "company": "mirakllabs",
+    "locationRaw": "Bordeaux",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-bordeaux-91121",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "bbad444947830153404f3feffa58995ad4c3dc6c": {
+    "title": "Senior AI Engineer",
+    "company": "mirakllabs",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-ai-engineer-paris-72618",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "f34ba3f763a33eb35b2e6e6c66505813b15d80e1": {
+    "title": "Product Manager - Fulfillment (Freelance)",
+    "company": "mirakllabs",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-freelance-paris-345312",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "74726d399a213f2e945f94d37b62b670b013051e": {
+    "title": "Product Manager  - Fulfillment (Freelance)",
+    "company": "mirakllabs",
+    "locationRaw": "Bordeaux",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-freelance-bordeaux-213850",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "dc4e3d8394c23a34fd01991a45fda62dd72264b8": {
+    "title": "Product Manager - Fulfillment (12-month contract)",
+    "company": "mirakllabs",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-12-month-contract-paris-271339",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "df3429c2444fd806be668e4160737275c5f236b4": {
+    "title": "Product Manager - Fulfillment (12-month contract)",
+    "company": "mirakllabs",
+    "locationRaw": "Bordeaux",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-fulfillment-12-month-contract-bordeaux-441604",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "f6ee080786670fc3fd378004dc9e4b94e1471339": {
+    "title": "Product Manager - Financial Services",
+    "company": "mirakllabs",
+    "locationRaw": "Bordeaux",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-financial-services-bordeaux-175531",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "d61ace5f2675f2f8dbcb0ee0dd7e0cdd1f82eb80": {
+    "title": "Product Manager - Financial Services",
+    "company": "mirakllabs",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-financial-services-paris-167341",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "491c1a66d111855edb5a291dec635080f6885912": {
+    "title": "Lead AI engineer",
+    "company": "mirakllabs",
+    "locationRaw": "Bordeaux",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-bordeaux-353267",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "c12c45010fba3b89dcff9c7058c536461352ad33": {
+    "title": "Lead AI engineer",
+    "company": "mirakllabs",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/lead-ai-engineer-paris-356902",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "c6429bc7b66257465909e37363b8844e2025de51": {
+    "title": "Cybersecurity & AI Engineer Automation (F/H)",
+    "company": "mirakllabs",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/cybersecurity-ai-engineer-automation-f-h-paris-270282",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:15.000Z"
+  },
+  "06c32187f041cd9b01ce2d0f09a3768507620178": {
+    "title": "Senior Consultant - Risque de marché et de contrepartie H/F",
+    "company": "capco",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.fr/jobs/companies/capco/senior-consultant-risque-de-marche-et-de-contrepartie-h-f-872",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:09.000Z"
+  },
+  "8183121fce262bbccb59dbf5adc336d1053c977b": {
+    "title": "Lead AI Engineer, Agentic Systems - Capco AI Lab",
+    "company": "capco",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.fr/jobs/companies/capco/lead-ai-engineer-agentic-systems-capco-ai-lab-162419",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:09.000Z"
+  },
+  "0d580323410e2f80197de80f75411d08f798065a": {
+    "title": "Security Engineer - Product",
+    "company": "wizinc",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/wizinc/security-engineer-product-paris-419205",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:07.000Z"
+  },
+  "f03dd7dafb808a9620659fb01113fdf588aebd21": {
+    "title": "Senior Consulting Engineer",
+    "company": "mongodb",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mongodb/senior-consulting-engineer-225454",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:55:05.000Z"
+  },
+  "0d2595ea49dd1136ac48c2436c7a2aa9efedc369": {
+    "title": "Senior Analytics / Data Engineer - Enterprise Data Platform",
+    "company": "Filigran",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-analytics-data-engineer-enterprise-data-platform-france-419837",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:11.000Z"
+  },
+  "e0a4d3567cd579c21269ed304a2a4326e1f3b6ce": {
+    "title": "Senior Product Manager - OpenCRQ",
+    "company": "Filigran",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-product-manager-opencrq-france-346989",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:11.000Z"
+  },
+  "e16ed82f46965c205ce71925ca049e68906e6bbd": {
+    "title": "Senior Product Owner - XTM Integrations",
+    "company": "Filigran",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-product-owner-xtm-integrations-france-251564",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:11.000Z"
+  },
+  "2b96ffaddad519d72ebb6cb9dc096fbfe34b0105": {
+    "title": "Senior Software Engineer (python) - XTM One",
+    "company": "Filigran",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-software-engineer-python-xtm-one-france-183856",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:11.000Z"
+  },
+  "fc1cf8050e55dcf69e763f6bce4c00c631f1cbcb": {
+    "title": "Senior Software Engineer — Platform & Distributed Systems (XTM Foundation)",
+    "company": "Filigran",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-software-engineer-platform-distributed-systems-xtm-foundation-france-426377",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:11.000Z"
+  },
+  "cc0de187f5c1757094820194e04353278918c2cd": {
+    "title": "Senior Software Engineer - OpenGRC",
+    "company": "Filigran",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-software-engineer-opengrc-france-227487",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:11.000Z"
+  },
+  "de4958fa4df81523948fd5462500e90947a153e0": {
+    "title": "Product Manager (PO/PM)",
+    "company": "Dedale Intelligence",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/product-manager-po-pm-paris-481225",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:06.000Z"
+  },
+  "07eefc0266cbb5394b968fe499cf449f20618fae": {
+    "title": "IT Support Intern",
+    "company": "Dedale Intelligence",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/it-support-intern-paris-187259",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Internship",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:06.000Z"
+  },
+  "2ce71ce123bc6b3c6fa246fb8d82ab48dd104fdd": {
+    "title": "Senior Software Engineer",
+    "company": "Dedale Intelligence",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/dedale-intelligence/senior-software-engineer-paris-139544",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:06.000Z"
+  },
+  "4ae941491a78f0fcd687184b5ca2c9f197b714fa": {
+    "title": "Staff Solutions Engineer",
+    "company": "Kong",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/kong/staff-solutions-engineer-paris-338369",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:05.000Z"
+  },
+  "f79cf007547e9a0f71e159adbcf5eeff00a5127e": {
+    "title": "Senior Solutions Engineer",
+    "company": "Kong",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/kong/senior-solutions-engineer-paris-47949",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:05.000Z"
+  },
+  "8949761fe385ad7cb7c5094382da325e2c36102b": {
+    "title": "Growth Hacker - AI Native (French fluent)",
+    "company": "Paradox",
+    "locationRaw": "Office Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/paradox/growth-hacker-ai-native-french-fluent-paris-78085",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:04.000Z"
+  },
+  "9a4859375fcc75c65d2cd9971e3263e7f17b0de9": {
+    "title": "🇫🇷 Growth Manager - EdTech (French fluent)",
+    "company": "Paradox",
+    "locationRaw": "Office Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/paradox/growth-manager-edtech-french-fluent-paris-385518",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:40:04.000Z"
+  },
+  "bef2099abd0173b482db7cb7578d451287c376d5": {
+    "title": "Senior Optical Characterization Engineer(gn) @ Photonic Chip Venture, Besançon, France",
+    "company": "atlantic.vc",
+    "locationRaw": "Besançon, Bourgogne-Franche-Comté, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/atlanticvc/senior-optical-characterization-engineergn-at-photonic-chip-venture-besancon-france-47653",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T13:30:32.000Z"
   }
 }
