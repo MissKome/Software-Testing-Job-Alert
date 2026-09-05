@@ -82558,5 +82558,746 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-05T16:30:05.000Z"
+  },
+  "f27d21aabc31bdc3323df217b84cbf9aac51786a": {
+    "title": "Senior Engineer - Proxmox (m/w/d) - Remote",
+    "company": "Swissitsecuritygroup",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/swissitsecuritygroup/senior-engineer-proxmox-remote-103659",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T20:55:14.000Z"
+  },
+  "5e02d47d07e64f7becaeaa98a644c243d913a635": {
+    "title": "Staff Backend Engineer (.NET) (f/m/d)",
+    "company": "Apaleo",
+    "locationRaw": "München, Bavaria, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/apaleo/staff-backend-engineer-net-munchen-448619",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T20:45:24.000Z"
+  },
+  "5df77409d2c078168e4328c3c62bece4f92ae6d7": {
+    "title": "Werkstudent*in Information Security Awareness & Automation",
+    "company": "QAware GmbH",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/qaware-gmbh/werkstudentin-information-security-awareness-automation-munchen-415208",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T20:09:54.000Z"
+  },
+  "ba7397e35203e2689b12a9d2f8376189249ffdac": {
+    "title": "Senior Implementation Specialist Digital Analytics (w/m/d)",
+    "company": "FELD M",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/feld-m/senior-implementation-specialist-digital-analytics-munich-123058",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T20:09:52.000Z"
+  },
+  "6491a1f01c5df19e69960c3c5b7840ba5d99587e": {
+    "title": "Azure Infrastructure Engineer (m/w/d) in Köln",
+    "company": "GRÜNE'S LEIHHÄUSER GmbH & Co. KG",
+    "locationRaw": "Büro Köln",
+    "url": "https://www.arbeitnow.com/jobs/companies/grunes-leihhauser-gmbh-co-kg/azure-infrastructure-engineer-in-koln-buro-koln-463655",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T20:09:34.000Z"
+  },
+  "d443831ab3a552ef95d755ff9528141b655f845a": {
+    "title": "Quality Manager – Quality Control & Quality Assurance (all genders)",
+    "company": "YOSHI",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/yoshi/quality-manager-quality-control-quality-assurance-all-genders-berlin-74154",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T20:09:31.000Z"
+  },
+  "c9172dabdc4c86bfca028f973995507fcf1d04fd": {
+    "title": "Senior Software Engineer - Transaction Processing (Java, AWS, DynamoDB)",
+    "company": "Ppro",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/ppro/senior-software-engineer-transaction-processing-java-aws-dynamodb-berlin-202235",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T20:04:51.000Z"
+  },
+  "7c75228b0129819a9d4f7dc9186dd2392869c64a": {
+    "title": "Senior Operations Manager (H/F)",
+    "company": "Teampicnic",
+    "locationRaw": "Moissy-Cramayel, Seine-et-Marne",
+    "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/senior-operations-manager-h-f-moissy-cramayel-seine-et-marne-243562",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:21.000Z"
+  },
+  "fc0e945b35216c7a16d87cbbbafc4c68bda6ec9a": {
+    "title": "Commercial & Analytics Projects - Mid-level (H/F)",
+    "company": "Teampicnic",
+    "locationRaw": "Paris, Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/commercial-analytics-projects-mid-level-h-f-paris-paris-319931",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:21.000Z"
+  },
+  "ea01a11a7a56778c4898c15105b068056cd3f6ec": {
+    "title": "Technical Escalations Engineer 2 (Database Monitoring) - EMEA",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/technical-escalations-engineer-2-database-monitoring-emea-paris-88394",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "da3d3ab525e72ec9964e96d020f505051544f270": {
+    "title": "Staff Software Engineer - Security Agent",
+    "company": "Datadog",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-staff-software-engineer-security-agent-448040",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "f23687b538b0138cd099b711c7a9291fa183bfcd": {
+    "title": "Staff Software Engineer - Security Agent",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/staff-software-engineer-security-agent-paris-151153",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "55f2d296e5be62c575cc3d0aff7f7eacf52d4b3a": {
+    "title": "Staff Engineer - Data Semantics",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/staff-engineer-data-semantics-paris-365153",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "e04fc4b1f48a524678bf1ac0ae7fed4d750b6df7": {
+    "title": "Staff Engineer - Data Platform Experience",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/staff-engineer-data-platform-experience-paris-460067",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "0456ae33d361c0b90b8cf4204790215b4aeaa0c1": {
+    "title": "Staff Engineer, Compute",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/staff-engineer-compute-paris-312198",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "61614d963750ccc625866755b3706b4fb12f3883": {
+    "title": "Services Architect 3 - Paris/London",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/services-architect-3-paris-london-90858",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "fb226a7f15191ee01d76413edf11beef9d27939c": {
+    "title": "Senior Software Engineer - Security Libraries",
+    "company": "Datadog",
+    "locationRaw": "Bordeaux; Lyon; Nantes; Paris; Sophia Antipolis",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-security-libraries-bordeaux-lyon-nantes-paris-sophia-antipolis-153314",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "a68645d60120fd4f57c218a5d88748f1aa0bfd71": {
+    "title": "Senior Software Engineer - REDAPL Graph Engine",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-redapl-graph-engine-paris-120616",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "cdeebc6b56ce39eadef1b9dabdee763eb75022df": {
+    "title": "Senior Software Engineer - REDAPL Graph Engine",
+    "company": "Datadog",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-software-engineer-redapl-graph-engine-422891",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "db6906cdfd2a37e6b21abc704dce739818e21b89": {
+    "title": "Senior Software Engineer - Incident Insights & Readiness",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-incident-insights-readiness-paris-107340",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "b2ebab7936ffcc9474ab722ad9ee30302f5a07ba": {
+    "title": "Senior Software Engineer - Backend",
+    "company": "Datadog",
+    "locationRaw": "Bordeaux; Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-backend-bordeaux-paris-335697",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "3ee695a4b032fa7fe87cbe313edbc38ad7e8eb05": {
+    "title": "Senior Software Engineer - Action Platform",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-action-platform-paris-218090",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "b666efc8b445b43b97123c8a4550f925d2725b44": {
+    "title": "Senior Sales Engineer - Paris",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-sales-engineer-paris-69103",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "b1d2115e48d3af0083b03a1d4c6e2c9402da6d85": {
+    "title": "Senior Sales Engineer - Majors (France)",
+    "company": "Datadog",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-sales-engineer-majors-france-272891",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "1aa35c9b1a58b5a63bce8745ec3b415075c31fba": {
+    "title": "Senior Product Manager - Application Performance Monitoring",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-product-manager-application-performance-monitoring-paris-336708",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "615cb41cd09876a1f781560cac4e027e7c3b6485": {
+    "title": "Senior Platform Security Engineer",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-platform-security-engineer-paris-146911",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "b98df8a01226d2f12fa1191161bbac93f72f2f07": {
+    "title": "Senior Applied Scientist - AI Platform",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-applied-scientist-ai-platform-paris-338469",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "ae338a499a0b5333b727d5baed4cfe4cc994e04d": {
+    "title": "Senior Applied Scientist",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-applied-scientist-paris-44776",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "f7a2ec16d22bb9911d50ae6639c13677f91763ed": {
+    "title": "Senior AI Engineer – Notebooks",
+    "company": "Datadog",
+    "locationRaw": "Bordeaux; Remote; Lyon; Montpellier; Nantes; Paris; Sophia Antipolis",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-388076",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "ae26842c1bcaea6086eb1f25a31bc7261687687a": {
+    "title": "Product Manager II, AI & Data Security",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/product-manager-ii-ai-data-security-paris-363600",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "424e9457e4190c95bfcce7feeaae37676ec78947": {
+    "title": "Partner Solutions Architect (EMEA)",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/partner-solutions-architect-emea-paris-226025",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "87a560ef922be97ba1cbb521a4337f9a1a649e25": {
+    "title": "Manager I, Engineering - Applied AI/ML Product Analytics Suite",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-applied-ai-ml-product-analytics-suite-paris-4842",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "ccc495b3ca7be7cdb955c57a225da45e7ab2c733": {
+    "title": "Director, Product Management - Cloud Security and Shared Capabilities",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/director-product-management-cloud-security-and-shared-capabilities-paris-248576",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "54b7c73f9397367a6a31cb8fe7b5e78d4fa55633": {
+    "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/ai-research-scientist-datadog-ai-research-dair-paris-233987",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "b04601916c88c66562a8766efdae74565c11ecf9": {
+    "title": "AI Research Engineer - Datadog AI Research (DAIR)",
+    "company": "Datadog",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/ai-research-engineer-datadog-ai-research-dair-paris-174212",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:15.000Z"
+  },
+  "37d73912ae57a6119231d9bfe7339b8831aaa489": {
+    "title": "Senior Software Engineer",
+    "company": "Artefact",
+    "locationRaw": "9th arrondissement of Paris, 75009, Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-software-engineer-9th-arrondissement-of-paris-75009-paris-360066",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:09.000Z"
+  },
+  "600f186a9d76c761255d223f7518007dfc074e41": {
+    "title": "Senior Data Scientist",
+    "company": "Artefact",
+    "locationRaw": "9th arrondissement of Paris, 75009, Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/artefact/senior-data-scientist-9th-arrondissement-of-paris-75009-paris-17575",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:09.000Z"
+  },
+  "387c83f78df69f3da12d67b413f76f5e9325a0d1": {
+    "title": "Lead Software Engineer - Paris",
+    "company": "Artefact",
+    "locationRaw": "9th arrondissement of Paris, 75009, Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/artefact/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-43874",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:09.000Z"
+  },
+  "32172a67def15907453909489e765aaf527feda3": {
+    "title": "Data Scientist Manager",
+    "company": "Artefact",
+    "locationRaw": "9th arrondissement of Paris, 75009, Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/artefact/data-scientist-manager-9th-arrondissement-of-paris-75009-paris-41499",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:09.000Z"
+  },
+  "11467b98ab78c7e5b2a31576237c80bb5e087c98": {
+    "title": "Technical Project Manager / IT Infrastructure Engineer",
+    "company": "Nebius",
+    "locationRaw": "Béthune, Pas-de-Calais",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/technical-project-manager-it-infrastructure-engineer-bethune-pas-de-calais-242593",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "c7e784458cc9a0f9c34f1e668f66e2e943e9dd4e": {
+    "title": "Technical Project Manager / IT Infrastructure Engineer",
+    "company": "Nebius",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/technical-project-manager-it-infrastructure-engineer-paris-381159",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "a2e3d78e3dd6af597a24cb5ce519b0ce8e668ee7": {
+    "title": "Technical Product Manager - Soperator",
+    "company": "Nebius",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/technical-product-manager-soperator-170798",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Full-stack",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "ba4d8a76194042b2f9ea5c0a05a4f2e370549faa": {
+    "title": "Senior Public Affairs Specialist",
+    "company": "Nebius",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/senior-public-affairs-specialist-paris-29225",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "c12f77f2673b9416c526e5e7ede6573f2c4541f7": {
+    "title": "Key Customers Solutions Architect EMEA",
+    "company": "Nebius",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/key-customers-solutions-architect-emea-472731",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "a8614a9e5813bed41a7ab6668dace03b66980cbf": {
+    "title": "Director, Solutions Architecture EMEA",
+    "company": "Nebius",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/director-solutions-architecture-emea-416241",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "3b426d63e246b74ad275ce28059922e83236fff1": {
+    "title": "Data Center IT Infrastructure Engineer",
+    "company": "Nebius",
+    "locationRaw": "Béthune, Pas-de-Calais",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/data-center-it-infrastructure-engineer-bethune-pas-de-calais-142272",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "e405959df64d41d0edf18c32880c17a7f9074205": {
+    "title": "AI/ML Specialist Solutions Architect",
+    "company": "Nebius",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.fr/jobs/companies/nebius/ai-ml-specialist-solutions-architect-286604",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:55:08.000Z"
+  },
+  "cd1c62ef96b7ff9bc8d25700e3c5f232f2ac1765": {
+    "title": "Product Engineer",
+    "company": "0G",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/0g/remote-product-engineer-4093",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:40:12.000Z"
+  },
+  "df38c814cadeefd7b0cad8939822d4e27054818b": {
+    "title": "Brand Design Lead",
+    "company": "0G",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/0g/remote-brand-design-lead-298308",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:40:12.000Z"
+  },
+  "bef266d06e79504ef4b2c036ec439b1dd9a3800c": {
+    "title": "Technical Delivery Manager - Paris",
+    "company": "Legora",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/legora/technical-delivery-manager-paris-292239",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:40:10.000Z"
+  },
+  "6f58057415cba85e7e25e91043d6b222872bb53b": {
+    "title": "Solutions Engineer - Paris",
+    "company": "Legora",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/legora/solutions-engineer-paris-496539",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:40:10.000Z"
+  },
+  "a0f2b559756cb17a2ca91f4edec54b48f507eb22": {
+    "title": "Legal Engineer, Law Firms",
+    "company": "Legora",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/legora/legal-engineer-law-firms-paris-493036",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:40:10.000Z"
+  },
+  "49a512cc04d0f2a688114f6909d7d51e62b1e70f": {
+    "title": "Legal Engineer, In-House",
+    "company": "Legora",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/legora/legal-engineer-in-house-paris-361583",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-05T19:40:10.000Z"
   }
 }
