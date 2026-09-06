@@ -57785,64 +57785,6 @@
     "source": "weworkremotely",
     "postedAt": "2026-07-24T05:20:50.000Z"
   },
-  "f458411b02e98f22ede039795c2bdd4a56650c73": {
-    "title": "Product Manager – Progressive Web Apps (PWA)",
-    "company": "Jobgether",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/jobgether-product-manager-progressive-web-apps-pwa",
-    "categories": [
-      "Remote",
-      "UK",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-23T13:29:40.000Z"
-  },
-  "cc9d3003629501743c2eed3a3c3b6a66f49ea2f6": {
-    "title": "Senior Software Developer - Ad Tech",
-    "company": "REDspace",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
-    "categories": [
-      "Remote",
-      "Canada",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-23T13:29:27.000Z"
-  },
-  "f71610fc62604d1d748e95abe7ca195f2e76c420": {
-    "title": "Senior Web Developer/Software Engineer",
-    "company": "cFive Solutions",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
-    "categories": [
-      "Remote",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-23T13:29:27.000Z"
-  },
-  "775fe9768fe70efaaecfc1000f6f5b26f8c1e769": {
-    "title": "Web Developer Intern",
-    "company": "Business Web Solutions",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
-    "categories": [
-      "Remote",
-      "Internship",
-      "QA / Testing",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-23T13:29:27.000Z"
-  },
   "d41922c2d5c9a402eecb1cc6a76f706adeb79d9c": {
     "title": "Project Systems Specialist",
     "company": "Dart",
@@ -86136,5 +86078,257 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-06T07:04:49.000Z"
+  },
+  "8460223f6d57a8db8e6f2f85ca7c85554f0a2467": {
+    "title": "Tech Lead (m/f/d)",
+    "company": "Superchat",
+    "locationRaw": "Berlin, Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/superchat/tech-lead-berlin-berlin-420831",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T11:55:15.000Z"
+  },
+  "9f4398d25673ac046c4858fa9b114baf3ca6a584": {
+    "title": "Technical Product Manager, Integrations",
+    "company": "Prior Labs",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-379113",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T11:40:08.000Z"
+  },
+  "84fd0117ecbcda68b8569dd80845bd33710db732": {
+    "title": "Senior Performance Marketing Manager (m|w|d) - CSS",
+    "company": "idealo internet GmbH",
+    "locationRaw": "Berlin, Berlin, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-performance-marketing-manager-mwd-css-berlin-73910",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T11:30:21.000Z"
+  },
+  "a98511c0d429f0a55f70bcfb95f5eb82267dc222": {
+    "title": "(Senior) DevOps Engineer (m/f/x)",
+    "company": "Aer Group",
+    "locationRaw": "Berlin Boppstr.",
+    "url": "https://www.arbeitnow.com/jobs/companies/aer-group/senior-devops-engineer-berlin-boppstr-258760",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T11:09:33.000Z"
+  },
+  "9bde4b47b92d3038d98726eaca77d8aa45d07d1a": {
+    "title": "Working Student IT",
+    "company": "Hypatos Gmbh",
+    "locationRaw": "Germany, Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/hypatos-gmbh/working-student-it-germany-berlin-392490",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T11:09:32.000Z"
+  },
+  "078b59036c1166b6c831a60b909f385587d48633": {
+    "title": "Senior Java Engineer (m/f/d)",
+    "company": "Xempus AG",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/xempus-ag/senior-java-engineer-munchen-171261",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T11:09:22.000Z"
+  },
+  "28c1be6a2051941ea225ea408c5a4db466ac4935": {
+    "title": "Consultant Data Analyst Marketing - F/H",
+    "company": "Wundermanthompson",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-data-analyst-marketing-f-h-paris-81857",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:55:16.000Z"
+  },
+  "ffaaf1bafcc15b5605a7382df72a024db5eb44db": {
+    "title": "Email Marketing Manager (FitMe)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-email-marketing-manager-fitme-421444",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "3fbe7454a06ec3b5f0e298f634d1423ec65dad4f": {
+    "title": "Billing Manager (FitMe)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-billing-manager-fitme-281438",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "b4dafb868b02dc9d892426def4ecb5517b7682ef": {
+    "title": "User Acquisition Manager (Radiotech)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-user-acquisition-manager-radiotech-407234",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "46b301cc1c077bc7663a6bebd43ea15450b16b1b": {
+    "title": "Creative Marketing Manager (FitMe)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-marketing-manager-fitme-282873",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "12917507cd00d9960ed30dc5db3323ce2b82fc2d": {
+    "title": "Product Marketing Manager (Testora)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-product-marketing-manager-testora-383033",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "69087eaf63ec53fafa1a9a2cc6a13cb6f2dc6c1f": {
+    "title": "Creative Production Lead (Radiotech)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-production-lead-radiotech-185726",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "35b5e9e71c19dd60fadb56c805565ddd17f5f108": {
+    "title": "Product Manager (Radiotech)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-product-manager-radiotech-9082",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Mobile",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "9efb0bef8ae8a2eea8792b8f1c4a441638b784ca": {
+    "title": "Creative Producer (Radiotech)",
+    "company": "Gismart",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-producer-radiotech-456495",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:11.000Z"
+  },
+  "63bb7e83f412455af3d6cb12b3407f354d3bdfb8": {
+    "title": "Knit - Lead Product Manager",
+    "company": "Eleve Talent",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-lead-product-manager-308888",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:10.000Z"
+  },
+  "b3f2421b22853e016911ee4c6573bb5e2cd62f3e": {
+    "title": "Ingénieur FPGA / FPGA Engineer",
+    "company": "Exegy",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/exegy/ingenieur-fpga-fpga-engineer-paris-364670",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-06T10:40:03.000Z"
   }
 }
