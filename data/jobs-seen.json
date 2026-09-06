@@ -73243,5 +73243,445 @@
     "postedAt": "2026-09-06T05:27:38.443Z",
     "title": "Research Engineer,  Robotics",
     "company": "Mistral.ai"
+  },
+  "5bb4fe465c63ada8c08ac66a27f6feaa7031c7cb": {
+    "postedAt": "2026-09-06T06:44:21.183Z",
+    "title": "Global Director of Logistics & Fulfilment",
+    "company": "toogoodtogo"
+  },
+  "205c019d646c41bde21d86053bce7d192cbd67b2": {
+    "postedAt": "2026-09-06T06:44:21.183Z",
+    "title": "Staff Forward Deployed Engineer",
+    "company": "databricks"
+  },
+  "1e5f3fb2250d4748e619b651726e34d01944f143": {
+    "postedAt": "2026-09-06T06:44:21.184Z",
+    "title": "Werkstudent (Mensch) Markt und Mediaforschung",
+    "company": "wppmedia"
+  },
+  "2780fd70a85b8f7b27b06e76afa8868d9a8566e6": {
+    "postedAt": "2026-09-06T06:44:21.184Z",
+    "title": "Senior Digital Media Planner (Mensch)",
+    "company": "wppmedia"
+  },
+  "fcfb5dc1193d067a47cce71cc457c998a016dae4": {
+    "postedAt": "2026-09-06T06:44:21.184Z",
+    "title": "Senior Digital Campaign Manager (Mensch)",
+    "company": "wppmedia"
+  },
+  "81cdf7d265a02c6ecc499de67e2098761c1cd018": {
+    "postedAt": "2026-09-06T06:44:21.184Z",
+    "title": "Senior Digital Campaign Manager (Mensch)",
+    "company": "wppmedia"
+  },
+  "95be163f917945a384529f5719cb04def4c2a11b": {
+    "postedAt": "2026-09-06T06:44:21.185Z",
+    "title": "Working Student - Brand Communications",
+    "company": "Clovirtualfashion"
+  },
+  "20fe66b94d6e891292f7ec560fbbfa5102ad5ccb": {
+    "postedAt": "2026-09-06T06:44:21.186Z",
+    "title": "Software Engineer — Software Platform & Middleware (Early Career)",
+    "company": "Apex Ai"
+  },
+  "1c1083a9effd9256384653bd5e9bc2b4850b234d": {
+    "postedAt": "2026-09-06T06:44:21.186Z",
+    "title": "Senior Software Engineer — Software Platform & Middleware",
+    "company": "Apex Ai"
+  },
+  "ead2dd891ffbc1f002c41bd13df226caa270d793": {
+    "postedAt": "2026-09-06T06:44:21.186Z",
+    "title": "Senior Application Engineer",
+    "company": "Apex Ai"
+  },
+  "486cf9eaca6a9320eb1891aad701371c732d35a4": {
+    "postedAt": "2026-09-06T06:44:21.186Z",
+    "title": "Senior Bid & Pursuit Manager / Proposal Manager (m/w/d) – Cloud, Data & AI Consulting",
+    "company": "Synvert"
+  },
+  "1ec4d23091842de6cadf2a531c1b011f658caba2": {
+    "postedAt": "2026-09-06T06:44:21.186Z",
+    "title": "Werkstudent Vertrieb (m/w/d)",
+    "company": "Shyftplan"
+  },
+  "5556658a5209c4734e12f9321bc8dfb868c9132b": {
+    "postedAt": "2026-09-06T06:44:21.187Z",
+    "title": "Werkstudent (m/w/d) Marketing & Digital Experiences",
+    "company": "And E"
+  },
+  "2ad21c28ad56255061687f83c1becbfec50c1ade": {
+    "postedAt": "2026-09-06T06:44:21.187Z",
+    "title": "Werkstudent - B2B Sales (m/w/d)",
+    "company": "Tawo Gmbh"
+  },
+  "a22fe7e4da5f80853923f1ea855ec3372f1b51bf": {
+    "postedAt": "2026-09-06T06:44:21.187Z",
+    "title": "Werkstudent Projektmanagement & Operations (m/w/d)",
+    "company": "Probis Software Gmbh"
+  },
+  "c14ae930067a27495479d9832fc3622a35d543be": {
+    "postedAt": "2026-09-06T06:44:21.187Z",
+    "title": "Technical Project Manager – Software Development (m/w/d)",
+    "company": "Athereon"
+  },
+  "09ed2d86aa6afefe3adb2ef0f5b25ddf3d35b503": {
+    "postedAt": "2026-09-06T06:44:21.187Z",
+    "title": "(Senior) Software Developer Frontend / React (m/w/d)",
+    "company": "Athereon"
+  },
+  "58e9a1ea8e41489221134762b9854c2000fce963": {
+    "postedAt": "2026-09-06T06:44:21.188Z",
+    "title": "Talent Acquisition Manager (m/w/d)",
+    "company": "Feld Energy"
+  },
+  "aae02947865f2b751f89b6f8ec74cd1b3a25141b": {
+    "postedAt": "2026-09-06T06:44:21.188Z",
+    "title": "Projektmanager / Projektentwickler (m/w/d) PV / Green Energy",
+    "company": "Feld Energy"
+  },
+  "acb2b3bf781cf146f07579f57431b78cc52fcf41": {
+    "postedAt": "2026-09-06T06:44:21.188Z",
+    "title": "Werkstudent Data QA & Algorithm Benchmarking (m/w/d)",
+    "company": "Syte Gmbh"
+  },
+  "587d88255e31bce22bfdb0e5ce3994d431271168": {
+    "postedAt": "2026-09-06T06:44:21.188Z",
+    "title": "Werkstudent Marketing & Sales - B2B Software (w/m/d)",
+    "company": "Simovative"
+  },
+  "f1007ec96d908db1b5ce856406a9c2805e585bdd": {
+    "postedAt": "2026-09-06T06:44:21.188Z",
+    "title": "Solutions Engineer - Italian Speaking",
+    "company": "Algolia"
+  },
+  "08833641b4f86b9cd79acdc2924be98e24c8daa2": {
+    "postedAt": "2026-09-06T06:44:21.188Z",
+    "title": "Senior Software Engineer, Understanding",
+    "company": "Algolia"
+  },
+  "c857c81becac831d27d7063e5236fc9bee5185b5": {
+    "postedAt": "2026-09-06T06:44:21.189Z",
+    "title": "Senior Software Engineer - Search Platform",
+    "company": "Algolia"
+  },
+  "b6a3163282e1176df8a57d1050b4fafe492e3223": {
+    "postedAt": "2026-09-06T06:44:21.189Z",
+    "title": "Senior Software Engineer - Search Infrastructure",
+    "company": "Algolia"
+  },
+  "fca25fc336d559936e2beb687394b9c5c025e477": {
+    "postedAt": "2026-09-06T06:44:21.189Z",
+    "title": "Commercial Account Executive, DACH",
+    "company": "Algolia"
+  },
+  "dbed22abb5fa285d641f7a75ad25f7365985fcd9": {
+    "postedAt": "2026-09-06T06:44:21.189Z",
+    "title": "Senior Partner Solutions Architect",
+    "company": "Elastic"
+  },
+  "f8ddb6da151d6c878f8e98b887464e686646873b": {
+    "postedAt": "2026-09-06T06:44:21.190Z",
+    "title": "Forward Deployed Engineer",
+    "company": "Lumaai"
+  },
+  "7e400059c2709b67c092c508fc14269147d2c7f8": {
+    "postedAt": "2026-09-06T06:44:21.190Z",
+    "title": "Chef de projet Marketing d'Influence (H/F/X) - France (Paris)",
+    "company": "Sunday Natural"
+  },
+  "150d68e70d1540e74b499dc7b11f39f8042e3e63": {
+    "postedAt": "2026-09-06T06:44:21.190Z",
+    "title": "Spontaneous Application",
+    "company": "Comand Ai"
+  },
+  "20f861a0660652c160729e1a1daf0f0302dc762e": {
+    "postedAt": "2026-09-06T06:44:21.190Z",
+    "title": "Business Strategist - France",
+    "company": "Comand Ai"
+  },
+  "5e6ec07c66030968e28fe4fce780dafa9b5cfb59": {
+    "postedAt": "2026-09-06T06:44:21.190Z",
+    "title": "Software Engineer",
+    "company": "Comand Ai"
+  },
+  "3e713ecf3b6c7b55712b06cb31ca313e1b91ba63": {
+    "postedAt": "2026-09-06T06:44:21.191Z",
+    "title": "Computer Vision Engineer",
+    "company": "Comand Ai"
+  },
+  "abaf53de7698e8271529a62d424ad502c1b52dbc": {
+    "postedAt": "2026-09-06T06:44:21.191Z",
+    "title": "Forward Deployed Engineer",
+    "company": "Comand Ai"
+  },
+  "190013270f7a79b8544042c287d1d0be1ed3e0d0": {
+    "postedAt": "2026-09-06T06:44:21.191Z",
+    "title": "Founder Associate Intern @Hexa (WTF Studio)",
+    "company": "Hexa"
+  },
+  "06d1e9bf2b77d73477c054977bf3d56e2d99f3ce": {
+    "postedAt": "2026-09-06T06:44:21.191Z",
+    "title": "Product Lead @Panora",
+    "company": "Hexa"
+  },
+  "d3c938e9e33d18cc77d6875a062a274748570b07": {
+    "postedAt": "2026-09-06T06:44:21.191Z",
+    "title": "Business Developer @Plato (backed Hexa)",
+    "company": "Hexa"
+  },
+  "4c5f3405ff1259928a033f501371eeb6e667e997": {
+    "postedAt": "2026-09-06T06:44:21.192Z",
+    "title": "Forward Deployed Engineer",
+    "company": "Hexa"
+  },
+  "cdc259b360a37717d12083b9d15c9a5748201b4c": {
+    "postedAt": "2026-09-06T06:44:21.192Z",
+    "title": "Software Engineer @Panora (backed by Hexa)",
+    "company": "Hexa"
+  },
+  "711d7388cc809d1d212ece8ea9aef73b53800f20": {
+    "postedAt": "2026-09-06T06:44:21.192Z",
+    "title": "Lead Data Engineer @Panora (backed by Hexa)",
+    "company": "Hexa"
+  },
+  "a3594989c5189e51d1031d8a072ae538f89982f5": {
+    "postedAt": "2026-09-06T06:44:21.192Z",
+    "title": "Founding Sales @Plato (backed by Hexa)",
+    "company": "Hexa"
+  },
+  "69ee33aada665c2981831ce5acd2a0eabeb4fc06": {
+    "postedAt": "2026-09-06T06:44:21.192Z",
+    "title": "Founding Product Designer @Panora (backed by Hexa)",
+    "company": "Hexa"
+  },
+  "fe341784b802b1375da012a8fca3fdc570b000a0": {
+    "postedAt": "2026-09-06T06:44:21.192Z",
+    "title": "Founding Sales @Panora (backed by Hexa)",
+    "company": "Hexa"
+  },
+  "030d91fadddde46a6a1dd524965ad9147acac5ab": {
+    "postedAt": "2026-09-06T06:44:21.192Z",
+    "title": "Acoustic Researcher",
+    "company": "Hexa"
+  },
+  "c38fc9ee0968172a44d0d824cc5b82001989151c": {
+    "postedAt": "2026-09-06T06:44:21.193Z",
+    "title": "AI Applied Researcher",
+    "company": "Hexa"
+  },
+  "1d1bc2d4780f4580c039c88f5b0152542b09545e": {
+    "postedAt": "2026-09-06T06:44:21.193Z",
+    "title": "Founding GTM @Verso (backed by Hexa)",
+    "company": "Hexa"
+  },
+  "76ffa2633281ffe70d7a4c5385fe12dd66115ad2": {
+    "postedAt": "2026-09-06T06:44:21.193Z",
+    "title": "VP Finance and Investments",
+    "company": "Hexa"
+  },
+  "cf1d00d2fa99679a2acaa08a9dd9787307a72d9d": {
+    "postedAt": "2026-09-06T06:44:21.193Z",
+    "title": "Founding Sales @Verso (backed by Hexa)",
+    "company": "Hexa"
+  },
+  "6b3f313e4e7352c8f61ee45076644593ed0a2e04": {
+    "postedAt": "2026-09-06T06:44:21.193Z",
+    "title": "People Operations Lead - Europe",
+    "company": "Capimoney"
+  },
+  "5b2633de5ae601146a447acad2016b4ed684c5e9": {
+    "postedAt": "2026-09-06T06:44:21.193Z",
+    "title": "Structural Engineer UAV H/F",
+    "company": "Alta Ares"
+  },
+  "8d7714ccefc174cf2e4cfcd49974b8166e919a98": {
+    "postedAt": "2026-09-06T06:44:21.194Z",
+    "title": "Pyrotechnics Engineer H/F",
+    "company": "Alta Ares"
+  },
+  "e3ffe3c4b94320f8389a70bde401bcd18114e46e": {
+    "postedAt": "2026-09-06T06:44:21.194Z",
+    "title": "Intelligence Économique & Développement Commercial - Alternance",
+    "company": "Alta Ares"
+  },
+  "ce5c854d69589a0f42e216f0c37c583160cca59b": {
+    "postedAt": "2026-09-06T06:44:21.194Z",
+    "title": "Logistics Manager H/F",
+    "company": "Alta Ares"
+  },
+  "76ab227ec9f6a92656fce58d188c0c3e09275227": {
+    "postedAt": "2026-09-06T06:44:21.194Z",
+    "title": "Legal Intern",
+    "company": "Alta Ares"
+  },
+  "ce298fdb69517c9d4aa4d813a90f91b562b9b3da": {
+    "postedAt": "2026-09-06T06:44:21.194Z",
+    "title": "Legal & IP Counsel",
+    "company": "Alta Ares"
+  },
+  "9e148390c4553de3b4da7f7cae46ebb72b0e5d9b": {
+    "postedAt": "2026-09-06T06:44:21.194Z",
+    "title": "Junior Payroll Specialist H/F",
+    "company": "Alta Ares"
+  },
+  "7ed8bc0fd888784872d5c43b100054f7c0314bc7": {
+    "postedAt": "2026-09-06T06:44:21.194Z",
+    "title": "GNC Engineer H/F",
+    "company": "Alta Ares"
+  },
+  "7edd961a9d62bd6a315be0e13878d322dc09d565": {
+    "postedAt": "2026-09-06T06:44:21.195Z",
+    "title": "MLOps Engineer",
+    "company": "Alta Ares"
+  },
+  "358a48844f1013698b370852c8b0272fb23ac3e9": {
+    "postedAt": "2026-09-06T06:44:21.195Z",
+    "title": "MAVLink & Autopilot Engineer",
+    "company": "Alta Ares"
+  },
+  "d8b85cbc0a10c323beec2353a56dbe5114c92755": {
+    "postedAt": "2026-09-06T06:44:21.195Z",
+    "title": "Sensor & C2 Integration Engineer",
+    "company": "Alta Ares"
+  },
+  "fd9632253b85f004ada8a50c4b9fef6ec4d4054c": {
+    "postedAt": "2026-09-06T06:44:21.195Z",
+    "title": "Internship - Public Affairs & Partnership",
+    "company": "Alta Ares"
+  },
+  "43ba890cdf164edfdf59af74f4f5cefd30075e46": {
+    "postedAt": "2026-09-06T06:44:21.195Z",
+    "title": "Defense Sales FR - H/F",
+    "company": "Alta Ares"
+  },
+  "bdc6f02ce5ba8eea50b1eaf54deb5cc58fdb1861": {
+    "postedAt": "2026-09-06T06:44:21.195Z",
+    "title": "Data Engineer H/F",
+    "company": "Alta Ares"
+  },
+  "f4288d5e750b7e4eb717b50ac15c61766b1bfdf7": {
+    "postedAt": "2026-09-06T06:44:21.195Z",
+    "title": "Technicien Monteur-Câbleur H/F",
+    "company": "Alta Ares"
+  },
+  "a247302bffdc95d8ca50e3b7d845bc7741a2b242": {
+    "postedAt": "2026-09-06T06:44:21.196Z",
+    "title": "Project Manager – Programs",
+    "company": "Alta Ares"
+  },
+  "0bea2dc6df337b9ceb0b078a599490815ed7b03a": {
+    "postedAt": "2026-09-06T06:44:21.196Z",
+    "title": "DevOps Intern",
+    "company": "Alta Ares"
+  },
+  "1e37d185d99f4bce2c24292fbe16a6ee5ef96aca": {
+    "postedAt": "2026-09-06T06:44:21.196Z",
+    "title": "Client Delivery Lead (Energy markets experience)",
+    "company": "Kraken"
+  },
+  "ff21630034450a3c2029538173e29fa823b6a2a8": {
+    "postedAt": "2026-09-06T06:44:21.196Z",
+    "title": "Technical Account Manager",
+    "company": "Kraken"
+  },
+  "57927e05c04f7015bcee6188a67f83f795f5b68d": {
+    "postedAt": "2026-09-06T06:44:21.196Z",
+    "title": "Client Delivery Lead - Billing",
+    "company": "Kraken"
+  },
+  "ceb7ae488dcb50a36912308fc1e586d10906da88": {
+    "postedAt": "2026-09-06T06:44:21.196Z",
+    "title": "Client Enablement & Coaching Lead",
+    "company": "Kraken"
+  },
+  "b33de8895dd3ce2e843dfc63e912aa3cdc2f6e3f": {
+    "postedAt": "2026-09-06T06:44:21.196Z",
+    "title": "Client Data & Analytics Lead (f/m/d)",
+    "company": "Kraken"
+  },
+  "9df28f15051bd4efe8db6b44aece87d1ad3332a1": {
+    "postedAt": "2026-09-06T06:44:21.197Z",
+    "title": "IT Support Analyst",
+    "company": "Trainline"
+  },
+  "6df9dfd833055adbc6afadba914b0f6054dd1efb": {
+    "postedAt": "2026-09-06T06:44:21.197Z",
+    "title": "Consultant(e) Développement Fullstack Java / Vue.js (dominante Back) Expérimenté (réf.: 398) H/F",
+    "company": "AUBAY S.A."
+  },
+  "bfa1324427e521ca9d46e5d23178c255f2df01c2": {
+    "postedAt": "2026-09-06T06:44:21.197Z",
+    "title": "Customs AI Integration & Automation Engineer (France)",
+    "company": "Customs Support Group"
+  },
+  "ffd3c3a6ba746bc9f21f580eae75dfd575a8263f": {
+    "postedAt": "2026-09-06T06:44:21.197Z",
+    "title": "Tech Lead Marketplace Experience (m/w/d)",
+    "company": "Bridgemaker GmbH"
+  },
+  "14fa5152a5407260cfb52673558a687e47fb9a66": {
+    "postedAt": "2026-09-06T06:44:21.197Z",
+    "title": "Tech Lead Grower Experience (m/w/d)",
+    "company": "Bridgemaker GmbH"
+  },
+  "27f969fa60c66f28bbec7c1feb4375923faa2b0b": {
+    "postedAt": "2026-09-06T06:44:21.197Z",
+    "title": "Solution Architect H/F",
+    "company": "Thiga"
+  },
+  "1a3d7531e603383a582f4492779bb1689ee65c0e": {
+    "postedAt": "2026-09-06T06:44:21.198Z",
+    "title": "Product Owner / Product Manager Senior (H/F)",
+    "company": "Thiga"
+  },
+  "79b83c8a6042cc969a0c30adc554be80c1d9eb2c": {
+    "postedAt": "2026-09-06T06:44:21.198Z",
+    "title": "Product Owner / Product Manager (H/F)",
+    "company": "Thiga"
+  },
+  "b32cc7c00bf743537e060d93fb18b47932fed0c7": {
+    "postedAt": "2026-09-06T06:44:21.198Z",
+    "title": "Product Ops IA / Product Manager Ops - (H/F)",
+    "company": "Thiga"
+  },
+  "ed46414d1aa7e0a36cc42f9c7d0d9ba15a783462": {
+    "postedAt": "2026-09-06T06:44:21.198Z",
+    "title": "Lead Product Manager & Coach Produit H/F",
+    "company": "Thiga"
+  },
+  "63a720acfa79b81f24220c0e1d511cf1db543a20": {
+    "postedAt": "2026-09-06T06:44:21.198Z",
+    "title": "Head of Product Transformation / Consultant·e en Organisation Produit H/F",
+    "company": "Thiga"
+  },
+  "7430737c1253787ba2d80834391d17f001f6b726": {
+    "postedAt": "2026-09-06T06:44:21.199Z",
+    "title": "Freelance Product Designers",
+    "company": "Thiga"
+  },
+  "b2df8ba68b308a73c3ae018280160c09ef5e0d48": {
+    "postedAt": "2026-09-06T06:44:21.199Z",
+    "title": "Data Product Manager H/F",
+    "company": "Thiga"
+  },
+  "4850da2eaca0a0e13bf75a7e9ca87c948c8a2b82": {
+    "postedAt": "2026-09-06T06:44:21.199Z",
+    "title": "Consultant.e Product Designer",
+    "company": "Thiga"
+  },
+  "443cb755d15edbf35a9d828b6b21fa10fc791ea0": {
+    "postedAt": "2026-09-06T06:44:21.199Z",
+    "title": "Senior QA Engineer",
+    "company": "Odaseva"
+  },
+  "d80af23d28f6a26bbf9f7daad0f374327c678356": {
+    "postedAt": "2026-09-06T06:44:21.199Z",
+    "title": "Front-end Developer Junior",
+    "company": "Odaseva"
+  },
+  "454546c6e7d8ac55993953949db0d1cddb061d5d": {
+    "postedAt": "2026-09-06T06:44:21.199Z",
+    "title": "Data Engineer",
+    "company": "Odaseva"
   }
 }
