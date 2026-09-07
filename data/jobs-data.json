@@ -57609,153 +57609,6 @@
     "source": "weworkremotely",
     "postedAt": "2026-07-24T14:03:46.000Z"
   },
-  "92dc636f4d123ea4db6ebada846ddbab42df70de": {
-    "title": "Backend Customer Success Engineer (Kotlin Ecosystem)",
-    "company": "JetBrains",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem",
-    "categories": [
-      "Remote",
-      "USA",
-      "Mid-level",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:01:22.000Z"
-  },
-  "2876d1ec9843a2cebd9fc12d730e87000fad5134": {
-    "title": "Backend Engineer, Flag Delivery",
-    "company": "LaunchDarkly",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery",
-    "categories": [
-      "Remote",
-      "USA",
-      "Senior",
-      "Backend",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:01:12.000Z"
-  },
-  "5d96dd14c931982886c357a917c145ef7abc889b": {
-    "title": "Senior Staff Software Engineer, Legal Automation",
-    "company": "Coinbase",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-legal-automation",
-    "categories": [
-      "Remote",
-      "USA",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:01:02.000Z"
-  },
-  "398dca4155ae57d94222a3c8a028ab9abf1e7d43": {
-    "title": "AI Transformation Owner, CRO",
-    "company": "GitLab",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-cro",
-    "categories": [
-      "Remote",
-      "USA",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:01:02.000Z"
-  },
-  "aeb44d5cb49bfdd6c5f530b5e5dcdbe42ec100e8": {
-    "title": "Senior Staff Software Engineer, Finance Automation",
-    "company": "Coinbase",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-finance-automation",
-    "categories": [
-      "Remote",
-      "USA",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:00:51.000Z"
-  },
-  "6d9e8643070f1d9bc837ecc3b82962f840f388d7": {
-    "title": "Senior Software Engineer, Identity",
-    "company": "Twilio",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-identity",
-    "categories": [
-      "Remote",
-      "USA",
-      "Senior",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:00:51.000Z"
-  },
-  "54f4d63ad42de8f811d23f1083edfe1010a474c1": {
-    "title": "AI Engineer",
-    "company": "GitLab",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer",
-    "categories": [
-      "Remote",
-      "USA",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:00:48.000Z"
-  },
-  "731890ae91114f298aa8bcd927b14fab9356adf0": {
-    "title": "Senior Software Engineer, Fraud",
-    "company": "Twilio",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud",
-    "categories": [
-      "Remote",
-      "USA",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T07:00:48.000Z"
-  },
-  "14323b1e6757e4aa0c9737b7a9b863fb3120c84d": {
-    "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
-    "company": "Reddit",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/reddit-ads-conversion-modeling-machine-learning-engineering-manager",
-    "categories": [
-      "Remote",
-      "USA",
-      "Senior",
-      "QA / Testing",
-      "Data / Analytics"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T05:21:03.000Z"
-  },
-  "737a4491b0fb2a6ee4c9e95862768e05d2865efe": {
-    "title": "Senior Software Engineer, Data Layer",
-    "company": "Coinbase",
-    "locationRaw": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer",
-    "categories": [
-      "Remote",
-      "USA",
-      "Senior",
-      "QA / Testing",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "weworkremotely",
-    "postedAt": "2026-07-24T05:20:50.000Z"
-  },
   "d41922c2d5c9a402eecb1cc6a76f706adeb79d9c": {
     "title": "Project Systems Specialist",
     "company": "Dart",
@@ -87321,5 +87174,282 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-06T16:30:03.000Z"
+  },
+  "666ff005e73b8dd507b7fab00255ef3d39719212": {
+    "title": "Performance Marketing Manager (m/w/d) - Berlin",
+    "company": "VARM",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/varm/performance-marketing-manager-berlin-479831",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T06:30:46.000Z"
+  },
+  "f4e720ef8ca943b09995d23d4d75ecd9de6e8798": {
+    "title": "Senior BI Developer (m/w/d)",
+    "company": "PRIME HR Agentur®",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/prime-hr-agentur/senior-bi-developer-munich-306496",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T06:30:46.000Z"
+  },
+  "cbff345bfccdfe7dc36dc5ee226c84064eb620c4": {
+    "title": "Network & Infrastructure Engineer (gn)",
+    "company": "Workidentity",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/workidentity/network-infrastructure-engineer-gn-hamburg-236342",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T05:09:55.000Z"
+  },
+  "71683bd7b9341b70616a1d59c04e4617860114c8": {
+    "title": "Werkstudent Technical Operations (m/w/d)",
+    "company": "Wirelane",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/wirelane/werkstudent-technical-operations-munchen-76050",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T05:09:47.000Z"
+  },
+  "13d98379c53adfc07e476862d437fd1374ebb0ea": {
+    "title": "Embedded Software Engineer IoT & Connectivity (m/w/d)",
+    "company": "Wirelane",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/wirelane/embedded-software-engineer-iot-connectivity-munchen-402243",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T05:09:47.000Z"
+  },
+  "9bceb1db22f7e985a4910b5765dd3f76a7fb9373": {
+    "title": "Technical Product Manager (m/w/d)",
+    "company": "ucm.agency",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/ucmagency/technical-product-manager-berlin-217600",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T05:09:43.000Z"
+  },
+  "75a20750d8986027a253b3f3165fd3fb69a27b04": {
+    "title": "DevOps Engineer Application Management Services (m/w/d)",
+    "company": "European IT Consultancy EITCO GmbH",
+    "locationRaw": "Berlin/Bonn/Essen",
+    "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/devops-engineer-application-management-services-berlin-bonn-essen-68664",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T05:09:26.000Z"
+  },
+  "db1ef8b0a41198bba5dff39cd04bb8672972ffd5": {
+    "title": "Senior Business Developer (m/w/d)",
+    "company": "LANCH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/lanch/senior-business-developer-berlin-37569",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T05:09:16.000Z"
+  },
+  "7ee535d2bbfd9cbda55ab930216736ab8a6f67df": {
+    "title": "Softwaretester (m/w/d) – Healthcare SaaS",
+    "company": "DMRZ",
+    "locationRaw": "Düsseldorf",
+    "url": "https://www.arbeitnow.com/jobs/companies/dmrz/softwaretester-healthcare-saas-dusseldorf-210306",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T05:09:08.000Z"
+  },
+  "7b5b57db76ac14ee9069a38bcb93b7a2629556e6": {
+    "title": "(Senior) Operations Specialist E-Commerce & Retail (m/w/d)",
+    "company": "Wortmann KG Internationale Schuhproduktionen",
+    "locationRaw": "Detmold, Nordrhein-Westfalen, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/senior-operations-specialist-e-commerce-retail-detmold-163437",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:30:20.000Z"
+  },
+  "3c643febf19b158bb3e2980aec4861fa5ee2bbba": {
+    "title": "Senior Performance Marketing Manager: Google Ads (m/w/d) - voll remote",
+    "company": "Digital Career Institute",
+    "locationRaw": "deutschlandweit/germany-wide",
+    "url": "https://www.arbeitnow.com/jobs/companies/digital-career-institute/senior-performance-marketing-manager-google-ads-voll-remote-deutschlandweit-germany-wide-298109",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:49.000Z"
+  },
+  "2181b1d7b80e9a812ba5f2de714e8d583ddfe731": {
+    "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
+    "company": "Ineratec Gmbh 1",
+    "locationRaw": "Karlsruhe",
+    "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-395232",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:42.000Z"
+  },
+  "1eb1a91089f5c5d27f20ab47544df66817bd6605": {
+    "title": "AI Engineer - Dealflow (m/w/d)",
+    "company": "Flex Capital Management Gmbh",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/flex-capital-management-gmbh/ai-engineer-dealflow-berlin-483749",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:35.000Z"
+  },
+  "35cee529e47e0af423ca88ee447f7efdd8ed02dd": {
+    "title": "Senior Fullstack Engineer (all genders)",
+    "company": "Reev",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/reev/senior-fullstack-engineer-all-genders-munchen-25560",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:20.000Z"
+  },
+  "f89008ea93c0b6ce6c5c98077067ce1e7b11694d": {
+    "title": "Senior Frontend Software Engineer - Angular (m/f/x)",
+    "company": "neoshare",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/neoshare/senior-frontend-software-engineer-angular-berlin-198663",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:08.000Z"
+  },
+  "efe99c33f9953ef435c82df37581cfe52f0bf124": {
+    "title": "Head of AI Engineering (f/m/x)",
+    "company": "neoshare",
+    "locationRaw": "Frankfurt am Main",
+    "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-332298",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:08.000Z"
+  },
+  "7ecde7c54e60f14c018621ca97a3b557b0d814ea": {
+    "title": "Head of AI Engineering (f/m/x)",
+    "company": "neoshare",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-berlin-267386",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:08.000Z"
+  },
+  "5b66f12a1b73d286c3689e0595067c90edf5d061": {
+    "title": "Working Student Application Software Engineer",
+    "company": "Isarsoft",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/isarsoft/working-student-application-software-engineer-munich-231205",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:04.000Z"
+  },
+  "39c6ee4fbe67792238d7521dd9e2560a6f514de4": {
+    "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+    "company": "Unitelabs",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-363975",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-07T02:09:02.000Z"
+  },
+  "eba01fb615b09e3bbaa2614e927147514f6e8689": {
+    "title": "Senior DevOps Engineer (m/f/d)",
+    "company": "Myneva",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-18T20:32:02.000Z"
   }
 }
