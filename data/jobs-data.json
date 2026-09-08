@@ -88579,5 +88579,468 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-08T00:40:13.000Z"
+  },
+  "d3eaa874f66dc5c6d71e6fb169b3b38ec60057f8": {
+    "title": "Full Stack Developer",
+    "company": "typeform",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/typeform/full-stack-developer-98052",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:55:07.000Z"
+  },
+  "45ea54498f0fd37ff4d829db2cc1eab3fa66da02": {
+    "title": "Senior Value Engineer - CPG/Retail",
+    "company": "celonis",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-value-engineer-cpg-retail-munich-225258",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:55:02.000Z"
+  },
+  "06b99b33b1a9d8fe181748f6ae37b5ccafda1460": {
+    "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail",
+    "company": "celonis",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-cpg-retail-munich-431813",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:55:02.000Z"
+  },
+  "0dcd13fd6da2ae05f3073ba69374c939f3d30fcd": {
+    "title": "Senior Management & Technology Consultant - CPG/Retail",
+    "company": "celonis",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-management-technology-consultant-cpg-retail-munich-88496",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:55:02.000Z"
+  },
+  "ddf20220255d97cb7bbc231f4bee401bac5857d0": {
+    "title": "Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail",
+    "company": "celonis",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-digital-transformation-process-optimisation-consultant-cpg-retail-munich-255931",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:55:02.000Z"
+  },
+  "1e31012081ae2bb76163c189e29ed6fa0eec892a": {
+    "title": "Growth Lead B2C & B2B (f/m/d)",
+    "company": "Zenjob",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/zenjob/growth-lead-b2c-b2b-berlin-141796",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:40:06.000Z"
+  },
+  "40887445d5f121dd383fa356ca597c925e4f9d94": {
+    "title": "(Senior) DevOps Engineer (F/M/*)",
+    "company": "Amber",
+    "locationRaw": "Aachen",
+    "url": "https://www.arbeitnow.com/jobs/companies/amber/senior-devops-engineer-f-m-aachen-392700",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:40:04.000Z"
+  },
+  "eb4c41a409195ab1994e61c1681e88a1641f68a3": {
+    "title": "(Senior) Business Development Representative France (f/m/d)",
+    "company": "Zeit Ai",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/zeit-ai/senior-business-development-representative-france-munich-353259",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Junior",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:40:02.000Z"
+  },
+  "7edc4b0b97e009108f1e714c52376746f4f36f21": {
+    "title": "Product Engineer (Backend/AI) @Briink",
+    "company": "Merantix",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-284171",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:09:24.000Z"
+  },
+  "8809229c0904fc22637a205c20aeb61378dd5442": {
+    "title": "AI Engineer (m/w/d)",
+    "company": "adorsys GmbH",
+    "locationRaw": "Nürnberg",
+    "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-317112",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T05:09:13.000Z"
+  },
+  "e1900f71fcd899ea78f1d76fb7e8116292dd6e22": {
+    "title": "Staff Mobile Engineer - Retail",
+    "company": "wolt",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/wolt/staff-mobile-engineer-retail-berlin-341622",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:55:16.000Z"
+  },
+  "36b2f6d7a42a3c02da1ae3db1c797fd58996718d": {
+    "title": "Manager, Solutions Architect - CEUR",
+    "company": "gitlab",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-manager-solutions-architect-ceur-151754",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:55:08.000Z"
+  },
+  "27b201937e8ef3548e72214b8b1b3e8ba92894b6": {
+    "title": "Product Manager",
+    "company": "remotewoman",
+    "locationRaw": "Canada, France, Spain or the UK",
+    "url": "https://www.arbeitnow.com/jobs/companies/remotewoman/product-manager-canada-france-spain-or-the-uk-230135",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Canada",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Backend",
+      "DevOps",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:55:07.000Z"
+  },
+  "3dcf5a6baff46af1042fc6ee998111e57ce768b3": {
+    "title": "Senior Software Engineer",
+    "company": "Gridfuse",
+    "locationRaw": "Leipzig",
+    "url": "https://www.arbeitnow.com/jobs/companies/gridfuse/senior-software-engineer-leipzig-224405",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:40.000Z"
+  },
+  "0d9a85491f657c58d7beb1534db8627b372cd8bf": {
+    "title": "Senior Data Engineer (m/f/d)",
+    "company": "Dishdigital",
+    "locationRaw": "Düsseldorf",
+    "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/senior-data-engineer-dusseldorf-44649",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:33.000Z"
+  },
+  "35b46ef26a4e655ada2c6eab01f2acc58048a852": {
+    "title": "Data Engineer (m/f/d)",
+    "company": "Dishdigital",
+    "locationRaw": "Düsseldorf",
+    "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/data-engineer-dusseldorf-159968",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:33.000Z"
+  },
+  "a47d0b804aef1908c7bcd69243a02cad64e4f080": {
+    "title": "Senior QA Engineer (all genders)",
+    "company": "Contabo",
+    "locationRaw": "Remote (Germany)",
+    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-qa-engineer-all-genders-26349",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:30.000Z"
+  },
+  "9c09d176e8b126737c8a3a353aac3ce66e6f6091": {
+    "title": "Senior Product Manager Service Subscriptions (m/w/d)",
+    "company": "Thermondo",
+    "locationRaw": "Berlin (Zentrale)",
+    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-product-manager-service-subscriptions-berlin-zentrale-363336",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:27.000Z"
+  },
+  "78dc78df41b639537db1f5d31951e16b37887cdc": {
+    "title": "Senior Product Manager Service Cockpit (m/w/d)",
+    "company": "Thermondo",
+    "locationRaw": "Berlin (Zentrale)",
+    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-product-manager-service-cockpit-berlin-zentrale-126977",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:27.000Z"
+  },
+  "0aa4218c87d07b9f6444661974249582f9a23af0": {
+    "title": "Product Manager Customer Care (f/m/d) | Fixed-Term Parental Leave Cover",
+    "company": "Thermondo",
+    "locationRaw": "Berlin (Zentrale)",
+    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-111052",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:27.000Z"
+  },
+  "e3ee46e3ea1398ef521890ca9eadb6d9ed223234": {
+    "title": "(Senior) AI Product Engineer (m/w/d)",
+    "company": "Legalhero",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-155259",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T02:09:14.000Z"
+  },
+  "b16e03c6d99d17f885d9617d6c263c28acc603fe": {
+    "title": "Lead Software Engineer(Java)",
+    "company": "Arq",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/lead-software-engineerjava-london-464579",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:08.000Z"
+  },
+  "6c6cff64e392f20073f8ece5f5cf8937f8db2af6": {
+    "title": "Software Engineer  (Java)",
+    "company": "Arq",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-london-309539",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:08.000Z"
+  },
+  "373a4b5c664a4590612e372300e05194c1f36ad6": {
+    "title": "Senior Software Engineer  (Java)",
+    "company": "Arq",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/senior-software-engineer-java-london-426547",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:08.000Z"
+  },
+  "718ba86f2252696d5031c8faecb8029da3a1c0e6": {
+    "title": "Engineering Lead",
+    "company": "9Fin",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/engineering-lead-london-362696",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:06.000Z"
+  },
+  "f71d5402afb3b6a9d0e20e414c11aa44d8b1c937": {
+    "title": "Game Art Lead",
+    "company": "Midnite",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/game-art-lead-united-kingdom-493848",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:06.000Z"
+  },
+  "9a8e39af20a07f89797fbde18597d1b2abcbeb72": {
+    "title": "Group product manager",
+    "company": "Seccl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/group-product-manager-london-335983",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:05.000Z"
+  },
+  "541cd4dea6614a221392c7766ece9134a1b83d61": {
+    "title": "Platform engineer",
+    "company": "Seccl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/platform-engineer-london-95885",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:05.000Z"
+  },
+  "001dbbef8ad67405db8fe9983f50cb3cf97aa1a6": {
+    "title": "Senior software engineer (Node.js/TypeScript)",
+    "company": "Seccl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-nodejs-typescript-london-160643",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T03:40:05.000Z"
+  },
+  "df2fef58e17b7a8330e8e715ee5ca3dd10ad0faf": {
+    "title": "Product Manager confirmé H/F - SaaS - Fintech",
+    "company": "N2JSoft",
+    "locationRaw": "Poste à distance",
+    "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-product-manager-confirme-h-f-saas-fintech-lyon-122525",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-08T04:30:25.000Z"
+  },
+  "7a872efbc96eea4bf33a5742d5cd4bd48357b2a9": {
+    "title": "Senior Product Designer, AI",
+    "company": "Zeta Global",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
+    "categories": [
+      "Remote",
+      "USA",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-18T20:32:19.000Z"
+  },
+  "923aba9fe9e374c073090d72a07554e368f3f5bb": {
+    "title": "Senior Product Designer, Agentic AI Applications",
+    "company": "Zeta Global",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
+    "categories": [
+      "Remote",
+      "USA",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-18T20:32:19.000Z"
   }
 }
