@@ -2480,21 +2480,6 @@
     "source": "remoteok",
     "postedAt": "2026-07-28T11:20:38.000Z"
   },
-  "4d0bea4de5cc2c060e43cbe7ff0fb9e1132b4f32": {
-    "title": "AI Intern",
-    "company": "CertifyOS",
-    "locationRaw": "Pune",
-    "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-    "categories": [
-      "Remote",
-      "Internship",
-      "QA / Testing",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "remoteok",
-    "postedAt": "2026-07-28T08:00:03.000Z"
-  },
   "57fced60e134aa39c6794c68be234fe234a5635d": {
     "title": "Platform Engineer (m/w/d) mit Schwerpunkt Cloud",
     "company": "Riege Software",
@@ -94590,5 +94575,755 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-11T04:55:10.000Z"
+  },
+  "654492dc2d747d278c3817616cde5799352e6ee5": {
+    "title": "UI / UX Designer TEAMBOX (m/w/d) - Hamburg",
+    "company": "everii Group GmbH",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-teambox-hamburg-312888",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T10:00:28.000Z"
+  },
+  "ea7c1aa5fbfebcab87b8bf00ec62d9a757d24b49": {
+    "title": "UI / UX Designer untermStrich (m/w/d) - Hamburg",
+    "company": "everii Group GmbH",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-untermstrich-hamburg-403191",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T10:00:28.000Z"
+  },
+  "25ce676fdf912464d0e0084b28ac12a87c868e59": {
+    "title": "Senior Product Manager - Salesforce & Internal Enablement (all genders)",
+    "company": "Aroundhome",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/aroundhome/senior-product-manager-salesforce-internal-enablement-all-genders-berlin-333662",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:30:26.000Z"
+  },
+  "f075f4e67c415223dddbf5a1b421c077c2bc2a61": {
+    "title": "Senior Product Manager - Salesforce & Internal Enablement (all genders)",
+    "company": "Aroundhome",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/aroundhome/senior-product-manager-salesforce-internal-enablement-all-genders-berlin-468908",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:30:25.000Z"
+  },
+  "7fe743fe03cc513788f5f0884ca57a80c1b668da": {
+    "title": "Lead Agentic Engineer (w/m/d)",
+    "company": "Ole KG",
+    "locationRaw": "Bielefeld",
+    "url": "https://www.arbeitnow.com/jobs/companies/ole-kg/lead-agentic-engineer-bielefeld-204944",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:00:42.000Z"
+  },
+  "b1b315c5490dce6e40852408f554c9b5ed83fe34": {
+    "title": "UI/UX Designer als E-Mail Marketer (m/w/d)",
+    "company": "Rügamer & Steiner Consulting GmbH",
+    "locationRaw": "Düsseldorf",
+    "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/ui-ux-designer-als-e-mail-marketer-dusseldorf-273882",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:00:41.000Z"
+  },
+  "d43d70922603d0e2e6be73f8b675b26a4a85c49c": {
+    "title": "IT Helpdesk Engineer",
+    "company": "Superhuman",
+    "locationRaw": "Hub - Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/superhuman/it-helpdesk-engineer-berlin-357903",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:40:09.000Z"
+  },
+  "7f586239897c09d18affae84c70c3a237d32bb5a": {
+    "title": "Senior AI Product Engineer",
+    "company": "Cosuno",
+    "locationRaw": "Berlin/Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-ai-product-engineer-berlin-51652",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:40:02.000Z"
+  },
+  "9622e7dc39f60412b891a242785dee138325ef7c": {
+    "title": "(Senior) Technical Project Manager",
+    "company": "Omegga",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/omegga/senior-technical-project-manager-munich-167943",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:40:02.000Z"
+  },
+  "474f3e623d550b939d8246bc4b51e7ef2ade7964": {
+    "title": "Senior Solutions Architect / Sales Engineer (m/f/d)",
+    "company": "TYTAN Technologies GmbH",
+    "locationRaw": "Munich, Bayern, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-solutions-architect-sales-engineer-munich-333544",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:30:09.000Z"
+  },
+  "e71fd5884d8027817e7b1bb8dfa7eee9d321a442": {
+    "title": "Senior Backend Engineer",
+    "company": "Emma – The Sleep Company",
+    "locationRaw": "Frankfurt",
+    "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/senior-backend-engineer-frankfurt-477176",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:24:20.000Z"
+  },
+  "8de06dddd7feb699dcc1c196760c3b4b05708700": {
+    "title": "Senior UI/UX Designer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Mainz",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-mainz-492581",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "d5bd10a42286b2bd55247bbd4c859837515b42f8": {
+    "title": "Senior UI/UX Designer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Köln",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-koln-300084",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "89f2962e973a1a28849da7a043d7a9b931e81afa": {
+    "title": "Senior UI/UX Designer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-hamburg-306045",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "fec3c7611287db65cfde30b0da1141a9e6fc8918": {
+    "title": "Senior UI/UX Designer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-munchen-246314",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "ce08063ea693a368b9391f4c0fc0a9d87a2c4aaa": {
+    "title": "Senior UI/UX Designer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-berlin-169734",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "642db6e12ad6758354bbde78d6af5d6e98465f63": {
+    "title": "Senior Project Manager - Digital Communications (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-digital-communications-all-genders-stuttgart-338299",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "1b32213e4c81c00c48e3f455f134658bc8cc9469": {
+    "title": "Senior Project Manager - Digital Communications (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Bremen",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-digital-communications-all-genders-bremen-22356",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "d93b73950eba44bdc926b295ea19e7824937655b": {
+    "title": "Senior Project Manager - Digital Communications (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Mainz",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-digital-communications-all-genders-mainz-177541",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "c0072bade8dfa7f91ee7e40b6715ef344431d3e0": {
+    "title": "Senior Project Manager - Digital Communications (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Köln",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-digital-communications-all-genders-koln-392733",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "a91d6b7308011569890ad56a4d5d036cad4e3967": {
+    "title": "Senior Project Manager - Digital Communications (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-digital-communications-all-genders-hamburg-155266",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "ae1a5ea3dd9b1460cfb620a83bdd8f874194a814": {
+    "title": "Senior Project Manager - Digital Communications (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-project-manager-digital-communications-all-genders-berlin-67059",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "7fa375a4c87792f39a529e6ad9c9a88643b70291": {
+    "title": "Senior Frontend Angular Developer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-260713",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "2a23ea7b26d1f4f9fdda61c4ad912462953d1a91": {
+    "title": "Senior Frontend Angular Developer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-munchen-351018",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "8276ca775e151ddc8c56379fcab8c967ef212675": {
+    "title": "Senior Frontend Angular Developer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Mainz",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-mainz-407624",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "ee8d8abf2143795f4c565d322087bd81372ab6eb": {
+    "title": "Senior Frontend Angular Developer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Köln",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-koln-158076",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "0d4f47bd4fddcf6bbf9dc7e6a194808fc2834d11": {
+    "title": "Senior Frontend Angular Developer (all genders)",
+    "company": "Init Ag",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-berlin-407181",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:39.000Z"
+  },
+  "f3bd886938070e178a03534a362478db0b0ae7ae": {
+    "title": "Product Engineer (m/f/d)",
+    "company": "Buying Labs Gmbh 1",
+    "locationRaw": "Hamburg HQ",
+    "url": "https://www.arbeitnow.com/jobs/companies/buying-labs-gmbh-1/product-engineer-hamburg-hq-189755",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:32.000Z"
+  },
+  "04470754860bea226eb249794796ccc2d05eadf2": {
+    "title": "Senior Sales Consultant Smart Grids (all genders)",
+    "company": "Envelio",
+    "locationRaw": "Cologne / Remote from Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-sales-consultant-smart-grids-all-genders-368896",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:09:02.000Z"
+  },
+  "21b30b6905a7ce425b88db7ec72ae353c92ea595": {
+    "title": "Technical Account Manager B2B MCPTT / Mobilfunk (m/w/d)",
+    "company": "prettyTELCO GmbH",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/technical-account-manager-b2b-mcptt-mobilfunk-cologne-307007",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:00:33.000Z"
+  },
+  "e62866a489ba6b4499333ec71797736938a2666c": {
+    "title": "Technical Account Manager B2B  M2M-Mobilfunk (m/w/d)",
+    "company": "prettyTELCO GmbH",
+    "locationRaw": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/technical-account-manager-b2b-m2m-mobilfunk-cologne-329167",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T08:00:32.000Z"
+  },
+  "a33ed94732d4ca480e4e5e158f46c4a1e6f71821": {
+    "title": "Senior Infrastructure Software Engineer",
+    "company": "Lightningai",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/senior-infrastructure-software-engineer-london-187242",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:55:39.000Z"
+  },
+  "7c755cc84271122c20629f9ccea39e1e1b423c1a": {
+    "title": "Senior Field Marketing Manager",
+    "company": "Pingidentity",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/senior-field-marketing-manager-306613",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:55:07.000Z"
+  },
+  "b4c192afc2f3f4dee626ffdd81ef9625b5ff6704": {
+    "title": "Lead Copywriter",
+    "company": "Fyxer",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/lead-copywriter-london-173935",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:40:08.000Z"
+  },
+  "fa545e591aec142fdc0fac7adaf18a81a8866309": {
+    "title": "Staff Product Manager",
+    "company": "Fyxer",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/staff-product-manager-london-258827",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Full-stack",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T09:40:08.000Z"
+  },
+  "2cd52ec69b088ecedd055fab95959689b2e86105": {
+    "title": "Senior Machine Learning Engineer, Search & Recommendations",
+    "company": "Roku",
+    "locationRaw": "Cambridge",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-machine-learning-engineer-search-recommendations-cambridge-381724",
+    "categories": [
+      "Onsite",
+      "Canada",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:55:41.000Z"
+  },
+  "196f776a514f4bf6cb6b909023110e4470b9070c": {
+    "title": "Systems Security Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/systems-security-engineer-sydney-australia-258028",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:55:40.000Z"
+  },
+  "37fee2e218190df5b5e7c1d1bb6a04e5033cf451": {
+    "title": "Platform Engineer",
+    "company": "Kaluza",
+    "locationRaw": "Bristol; London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/platform-engineer-bristol-london-74897",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:55:24.000Z"
+  },
+  "6d88696d38a9ef085a5b45fad3ea77a2585b9311": {
+    "title": "Platform Engineer",
+    "company": "Kaluza",
+    "locationRaw": "Bristol; London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/platform-engineer-bristol-london-247513",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:55:24.000Z"
+  },
+  "be91f71b5c712e466ca35ff7694615d48440d893": {
+    "title": "Platform Engineer",
+    "company": "Kaluza",
+    "locationRaw": "Bristol; London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/platform-engineer-bristol-london-44162",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:55:24.000Z"
+  },
+  "99ceae99996feefd1c7f43cce3e618b7885f4b05": {
+    "title": "Senior Staff Analog Mixed-Signal Design and Modelling Engineer",
+    "company": "ionq",
+    "locationRaw": "Oxford",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-staff-analog-mixed-signal-design-and-modelling-engineer-oxford-67550",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:55:22.000Z"
+  },
+  "88254b1f042f73a1c85517b16b7289fe1d86bc89": {
+    "title": "Software Engineer  (Java Backend)",
+    "company": "Arq",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-backend-london-89196",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:13.000Z"
+  },
+  "119db0f46eba35e3aaa7c273e0b4abdc4e74fa44": {
+    "title": "C++ Unreal Engineer",
+    "company": "Hawkeyeinnovations",
+    "locationRaw": "Budapest, Hungary",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/c-unreal-engineer-budapest-374303",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:12.000Z"
+  },
+  "daca79150fa44c03c450615ae7a3ef76752c7c29": {
+    "title": "Senior Compliance Director – UK",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/senior-compliance-director-uk-london-221817",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "73327e79cf201f9526246f3cb1fb3ac0b17a2e15": {
+    "title": "Regulatory Compliance Director",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/regulatory-compliance-director-london-10545",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "88ba7cbd8539840fc0b27cf8caa2dfb77f5934c0": {
+    "title": "SMF16 Compliance Oversight Director",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/smf16-compliance-oversight-director-london-358739",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "48f371cd76f7c694f5fa7b403c4651f747ba7d42": {
+    "title": "Compliance Director – SMF16",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/compliance-director-smf16-london-242104",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "9f61d7bd23c92a8beb6b3d4f542d31d6ced79db0": {
+    "title": "Frontend Engineer",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-london-303387",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "fb0b2289b1fa3b79add5ee415128a3db0fe364b6": {
+    "title": "Head of Compliance and Risk (UK)",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/head-of-compliance-and-risk-uk-london-349216",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "8d69b948c11986e500918359c6ebc03ddc4a0fe7": {
+    "title": "Head of Compliance – SMF16",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/head-of-compliance-smf16-london-248431",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "c5719fb79c41ca18c791f17e2942edd4e236d87d": {
+    "title": "Head of Compliance (UK)",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/head-of-compliance-uk-london-176927",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "610859645532afb84ee7fdc42c070c753c24df2f": {
+    "title": "Director of Compliance and Risk (UK)",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/director-of-compliance-and-risk-uk-london-15342",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-11T06:40:08.000Z"
+  },
+  "416d8f00337610885f87c27f128e76f3f7bbe046": {
+    "title": "DevOps Engineer",
+    "company": "Zowie",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/zowie-devops-engineer",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-18T20:32:42.000Z"
   }
 }
