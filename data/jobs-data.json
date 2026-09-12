@@ -28,60 +28,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-07-29T23:09:15.000Z"
   },
-  "78dc3c48e05eca7383c970ca25550d0b5a2730db": {
-    "title": "Senior Software Engineer (Ruby/RoR, Low-Code Apps)",
-    "company": "workato",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-software-engineer-ruby-ror-low-code-apps-berlin-445819",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:56:26.000Z"
-  },
-  "d835a5b8e1f8f6a78807ff92746f2edba1562a66": {
-    "title": "Senior AI Engineer (x/f/m) - Phone Assistant",
-    "company": "Doctolib",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-ai-engineer-phone-assistant-berlin-236985",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:55:20.000Z"
-  },
-  "8083a89ec31dd32ee0c22d78ab40bf65d8f7d247": {
-    "title": "Engineering Manager - Observability & Reliability Engineering Obsession (x/f/m)",
-    "company": "Doctolib",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/doctolib/engineering-manager-observability-reliability-engineering-obsession-berlin-20715",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "DevOps"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:55:20.000Z"
-  },
-  "9da5d6e3cb005d3f1571832655454aaffd53986f": {
-    "title": "(Senior) Software Engineer - Developer Enablement (m/f/d)",
-    "company": "Quantum-Systems GmbH",
-    "locationRaw": "Gilching, Bayern, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-software-engineer-developer-enablement-gilching-86164",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:50:08.000Z"
-  },
   "769d3ea3b208ac493636f8523a3614a33d0c09d4": {
     "title": "Staff Software Engineer (AI CICD)",
     "company": "Chainguard",
@@ -273,108 +219,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-07-29T23:04:36.000Z"
-  },
-  "13ab1f83ec6eb62e40fc1575b252ac595e1defc4": {
-    "title": "Senior Manager, Solutions Engineering",
-    "company": "okta",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/okta/senior-manager-solutions-engineering-london-377581",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "IT / Security"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:56:11.000Z"
-  },
-  "9baf29b5592350ee4de1f4170b346f9ec53edd28": {
-    "title": "Staff Product Manager",
-    "company": "mewssystems",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/staff-product-manager-355683",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:55:50.000Z"
-  },
-  "6601a5608ba08ef59417ef26eadd19f323794371": {
-    "title": "Analytics Engineer - Finance",
-    "company": "mewssystems",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/analytics-engineer-finance-460067",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:55:50.000Z"
-  },
-  "cc842b58267ab220895b3a5cae175e3b1176f2de": {
-    "title": "Senior Software Engineer - Cloud Infrastructure",
-    "company": "Clickhouse",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/clickhouse/senior-software-engineer-cloud-infrastructure-375380",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:55:36.000Z"
-  },
-  "8114b7836085cc39a0cd70bb023b527cb660af70": {
-    "title": "Backend Engineer - Platform - Stacks | UK | Remote",
-    "company": "Grafanalabs",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/backend-engineer-platform-stacks-uk-remote-88951",
-    "categories": [
-      "Remote",
-      "UK",
-      "Senior",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:55:08.000Z"
-  },
-  "5b3003642bb0dae78fd3521cd6eaacb36205fa4f": {
-    "title": "Software Engineer, iOS Core Product - Birmingham, United Kingdom",
-    "company": "Speechify",
-    "locationRaw": "Birmingham, England, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-birmingham-united-kingdom-476684",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend",
-      "Backend",
-      "Mobile",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:45:27.000Z"
-  },
-  "9dd3c9ce7523be48a43ce2c000f233994dddd5df": {
-    "title": "Software Engineer, iOS Core Product - Edinburgh, United Kingdom",
-    "company": "Speechify",
-    "locationRaw": "Edinburgh, Scotland, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-ios-core-product-edinburgh-united-kingdom-177624",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend",
-      "Backend",
-      "Mobile",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T20:45:27.000Z"
   },
   "6cf94178919890ad0a31fcb4452e8b9d717bf744": {
     "title": "Enterprise Architect Director",
@@ -1705,20 +1549,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-07-30T17:25:27.000Z"
-  },
-  "811ec1e53a9b41cea57ae3ed3cab5418ebfbb767": {
-    "title": "Software Engineer GO",
-    "company": "Wakacje.pl",
-    "locationRaw": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
-    "categories": [
-      "Remote",
-      "Mid-level",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "remoteok",
-    "postedAt": "2026-07-29T20:00:01.000Z"
   },
   "a25cf3e3555d2a2b987b234ba4180e4f2a2b5ab1": {
     "title": "Werkstudent Softwareentwicklung (m/w/d)",
@@ -94707,5 +94537,33 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-12T13:24:05.000Z"
+  },
+  "8ab722651ef63b78d334bddd1712862ff034033d": {
+    "title": "Stagiaire Chargé(e) de projet ERP",
+    "company": "Advancy Partners",
+    "locationRaw": "Paris, Île-de-France, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/advancy-partners/stagiaire-chargee-de-projet-erp-paris-455830",
+    "categories": [
+      "Onsite",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T19:30:03.000Z"
+  },
+  "dbdabd959b9b788ef82e92d19b6b1e561f6485df": {
+    "title": "Working Student IT Administration (All Genders)",
+    "company": "Movingimage",
+    "locationRaw": "Hybrid",
+    "url": "https://www.arbeitnow.fr/jobs/companies/movingimage/working-student-it-administration-all-genders-hybrid-74538",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T19:09:30.000Z"
   }
 }
