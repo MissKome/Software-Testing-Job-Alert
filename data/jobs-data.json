@@ -1,33 +1,4 @@
 {
-  "938503e6ed6901699b01304dfcc5eb008f3b0c50": {
-    "title": "AI-first QA Engineer",
-    "company": "Jobgether",
-    "locationRaw": "Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-first-qa-engineer-germany-434674",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T23:25:19.000Z"
-  },
-  "4333c451ceff3e3e6dbc74426d58e035e9884373": {
-    "title": "Senior Cloud DevOps Engineer (all genders)",
-    "company": "Init Ag",
-    "locationRaw": "Mainz",
-    "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-cloud-devops-engineer-all-genders-mainz-86887",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T23:09:15.000Z"
-  },
   "769d3ea3b208ac493636f8523a3614a33d0c09d4": {
     "title": "Staff Software Engineer (AI CICD)",
     "company": "Chainguard",
@@ -171,54 +142,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-07-29T23:45:23.000Z"
-  },
-  "ae896e6fdbb525bd32372f10bee71944ae07c000": {
-    "title": "Senior Cloud Developer",
-    "company": "Framestore",
-    "locationRaw": "London, Greater London, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/senior-cloud-developer-london-490973",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "DevOps",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T23:30:06.000Z"
-  },
-  "67fb9c9b32639597aa8085a39b54adf38f1672cb": {
-    "title": "Fullstack Engineer - Subscriptions",
-    "company": "Spotify",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-229822",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Frontend",
-      "Backend",
-      "Full-stack",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T23:24:25.000Z"
-  },
-  "61c746fc1b6efaa11c5b004045cf37061b7daa73": {
-    "title": "AI-first QA Engineer",
-    "company": "Jobgether",
-    "locationRaw": "UK",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-first-qa-engineer-uk-194027",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-07-29T23:04:36.000Z"
   },
   "6cf94178919890ad0a31fcb4452e8b9d717bf744": {
     "title": "Enterprise Architect Director",
@@ -94565,5 +94488,348 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-12T19:09:30.000Z"
+  },
+  "237cc35364a9240700fa379798ef0b8be956c971": {
+    "title": "Full Stack Software Developer E-Health (f/m/d/x)",
+    "company": "Doc Cirrus Gmbh",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-168459",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T23:09:51.000Z"
+  },
+  "f87ac8220c024f804b0028a9a61e59afa370cb81": {
+    "title": "Associate Product Owner",
+    "company": "Glassdollar",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/glassdollar/associate-product-owner-berlin-381022",
+    "categories": [
+      "Remote",
+      "Junior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T23:09:32.000Z"
+  },
+  "cb93edd030f669c7b9849e208658974aba172769": {
+    "title": "Product Manager (parental leave cover)",
+    "company": "Tandem",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/tandem/product-manager-parental-leave-cover-berlin-57421",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T23:09:18.000Z"
+  },
+  "3b3e96355790f5e7c16b5f717adc2eea488653e0": {
+    "title": "Senior Software Engineer (m/f/d)",
+    "company": "Vp Verbund Pflegehilfe Gmbh",
+    "locationRaw": "Mainz",
+    "url": "https://www.arbeitnow.com/jobs/companies/vp-verbund-pflegehilfe-gmbh/senior-software-engineer-mainz-446123",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T23:09:16.000Z"
+  },
+  "0b85c5aa825ee1436e38eb4b5080079aa88ff4cf": {
+    "title": "Senior Product Manager (Full Remote - Europe)",
+    "company": "EverAI",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-manager-full-remote-europe-germany-35518",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Data / Analytics",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:40:13.000Z"
+  },
+  "05fa14375f5c2eddaf54e50c56aee900d6e2af52": {
+    "title": "Senior Director IT (f/m/d)",
+    "company": "Black Semiconductor GmbH",
+    "locationRaw": "Aachen, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/senior-director-it-aachen-333750",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:40:08.000Z"
+  },
+  "88df53b1ce638511a7edda1a6fb2d7d0cc2baf50": {
+    "title": "Enterprise Account Executive",
+    "company": "Illumio",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/illumio/remote-enterprise-account-executive-125401",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Europe",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:40:07.000Z"
+  },
+  "da414ee8fe13e8a5a47245ae11c3a0ad2c506377": {
+    "title": "Product Engineer (Full-Stack)",
+    "company": "Bounti",
+    "locationRaw": "Berlin - Mitte",
+    "url": "https://www.arbeitnow.com/jobs/companies/bounti/product-engineer-full-stack-berlin-mitte-146616",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Mobile",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:32:45.000Z"
+  },
+  "a6795a230d8d9bd38740bc3c89810b3c0a63c2bd": {
+    "title": "Backend Engineer - Senior",
+    "company": "Bounti",
+    "locationRaw": "Berlin - Mitte",
+    "url": "https://www.arbeitnow.com/jobs/companies/bounti/backend-engineer-senior-berlin-mitte-254872",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:32:45.000Z"
+  },
+  "599d769f1fc5995419e1576fc41d8af09a783b9d": {
+    "title": "(Senior) Fullstack Engineer - Node / React (all genders)",
+    "company": "Gamigo",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:20:22.000Z"
+  },
+  "9bb0ed6765229e8173dc1a097601e6b4c4c35af4": {
+    "title": "Produktmanager Klinikabrechnung / Krankenhausabrechnung (m/w/d)",
+    "company": "Meierhofer",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-produktmanager-klinikabrechnung-krankenhausabrechnung-munchen-410039",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:09:58.000Z"
+  },
+  "8bde75e7627537208d7f20acb2e5812dffbdd93b": {
+    "title": "Senior Site Reliability Engineer / SRE – Kubernetes & Hybrid Cloud (m/f/d)",
+    "company": "Fact Finder",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/fact-finder/senior-site-reliability-engineer-sre-kubernetes-hybrid-cloud-berlin-104112",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:09:49.000Z"
+  },
+  "2686bb6a8f9ae2c0398fd4325328b68736585fc8": {
+    "title": "(Senior) System Engineer (all genders) – Microsoft Infrastructure",
+    "company": "Urano",
+    "locationRaw": "Mainz",
+    "url": "https://www.arbeitnow.com/jobs/companies/urano/senior-system-engineer-all-genders-microsoft-infrastructure-mainz-271550",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Mid-level",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:09:46.000Z"
+  },
+  "6157de8ea150edd6b462cca129403e38345b91ac": {
+    "title": "Staff Software Engineer (m/f/d) for telemedicine platform",
+    "company": "Ocumeda Ag",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/staff-software-engineer-for-telemedicine-platform-munchen-377667",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:09:31.000Z"
+  },
+  "235ec42594dd44d97d906fb464991c8096bda14b": {
+    "title": "Product Owner – SDV Data Products (f/m/d)",
+    "company": "Adsquare",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/adsquare/product-owner-sdv-data-products-berlin-209164",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T20:09:29.000Z"
+  },
+  "827a9475c1b67a41317aa1556d25c0547cfbb63f": {
+    "title": "Operations Coordinator",
+    "company": "Neara",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/neara/operations-coordinator-london-155224",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T21:40:16.000Z"
+  },
+  "ef107651332971c2832654f09a871502eacf25c3": {
+    "title": "Team Assistant",
+    "company": "Neara",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/neara/team-assistant-london-61420",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T21:40:16.000Z"
+  },
+  "e9b1d68b6e235dcc35e3bf2c9e5fee1ad1680877": {
+    "title": "Analyst",
+    "company": "Lendable",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/analyst-london-383594",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T21:40:15.000Z"
+  },
+  "c52b15d75e7465fb57958a6863ebf5a74ec5f437": {
+    "title": "Senior Commercial Analyst",
+    "company": "Lendable",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-commercial-analyst-london-345232",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T21:40:15.000Z"
+  },
+  "6a1ff4ab24d5c1cf571b49659db6b7b248acae9b": {
+    "title": "Sr. Data Scientist",
+    "company": "Hims And Hers",
+    "locationRaw": "London, England",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/sr-data-scientist-london-312512",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T21:40:14.000Z"
+  },
+  "ce280995f0925778bc789b1af0292fd0902eaf07": {
+    "title": "Staff Data Scientist",
+    "company": "Hims And Hers",
+    "locationRaw": "London, England",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/staff-data-scientist-london-154498",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T21:40:14.000Z"
+  },
+  "361711f3cbd708f8d2b0909fc5c420dcde853d95": {
+    "title": "Product Manager - Maritime (All Genders)",
+    "company": "Stark",
+    "locationRaw": "Plymouth",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/stark/product-manager-maritime-all-genders-plymouth-290519",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T21:09:37.000Z"
+  },
+  "33d18734fc84f1259919df0aa8e5c20389b1c795": {
+    "title": "Développeur confirmé IA - H/F",
+    "company": "N2JSoft",
+    "locationRaw": "Poste à distance",
+    "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-confirme-ia-h-f-lyon-68962",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-12T22:30:26.000Z"
   }
 }
