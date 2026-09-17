@@ -98075,5 +98075,51 @@
     ],
     "source": "weworkremotely",
     "postedAt": "2026-08-18T20:34:27.000Z"
+  },
+  "42efc6599cd2ffd8f3b6a6702196fcfbb20cb216": {
+    "title": "Business Development Representative Intern",
+    "company": "Akur8",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/akur8/business-development-representative-intern-paris-102795",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T01:40:12.000Z"
+  },
+  "8632ede2e19262e8a96b86408019e70a58a37e06": {
+    "title": "Backend Developer (Java/Spring Boot)",
+    "company": "Jobgether",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/backend-developer-java-spring-boot-france-316924",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T01:24:26.000Z"
+  },
+  "860bc07e49873429a7d564171da22f1fe8b46d05": {
+    "title": "AI Engineer",
+    "company": "Jobgether",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/ai-engineer-france-492706",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T01:24:26.000Z"
   }
 }
