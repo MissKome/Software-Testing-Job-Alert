@@ -1267,19 +1267,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-08-04T08:24:59.000Z"
   },
-  "d0037011181f906b65739f5dcaf38b5dbe778200": {
-    "title": "Custom Software Engineer",
-    "company": "Accenture in India",
-    "locationRaw": "Nagpur,",
-    "url": "https://remoteOK.com/remote-jobs/remote-custom-software-engineer-accenture-in-india-1136072",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "remoteok",
-    "postedAt": "2026-08-03T18:14:44.000Z"
-  },
   "986ce643904c6883da0bc6e8f08646823b480841": {
     "title": "Senior CRM Automation & Data Manager (all genders)",
     "company": "Sunday Natural",
@@ -2420,19 +2407,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-04T12:55:11.000Z"
-  },
-  "ce3616b4c79f605b82b25f3ea9bd0bca7157b822": {
-    "title": "Application Developer",
-    "company": "Accenture in India",
-    "locationRaw": "Bhubaneswar,",
-    "url": "https://remoteOK.com/remote-jobs/remote-application-developer-accenture-in-india-1136075",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "remoteok",
-    "postedAt": "2026-08-03T20:34:35.000Z"
   },
   "c0fd0e23c8a639085db277469dd1e459789a42f3": {
     "title": "Electronics / Embedded Robotics Engineer",
@@ -96426,5 +96400,590 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-17T13:24:57.000Z"
+  },
+  "ef1661942383569cbcd6a3d45cebc5eb43daccea": {
+    "title": "Golang Kubernetes Engineer",
+    "company": "Arango",
+    "locationRaw": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "remoteok",
+    "postedAt": "2026-09-16T19:00:02.000Z"
+  },
+  "709165f84b3cc07a5ab0961aabbbb56c94b0901e": {
+    "title": "Backend Engineer Intern | AI Systems (m/f/d)",
+    "company": "GetMOW",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/getmow/backend-engineer-intern-ai-systems-berlin-203128",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Frontend",
+      "Backend",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T19:00:32.000Z"
+  },
+  "e6ace531474a53c7cc15a5dcf988b4218083fc6d": {
+    "title": "Full-Stack Engineer Intern (Backend & AI)",
+    "company": "GetMOW",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/getmow/full-stack-engineer-intern-backend-ai-berlin-298440",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T19:00:31.000Z"
+  },
+  "bcb57e9c2fb8ea47d24ad288bd6b3e2713aa5b39": {
+    "title": "IT Supporter (w/m/d) hybrid | Raum München",
+    "company": "perinova IT-Management GmbH",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/perinova-it-management-gmbh/it-supporter-hybrid-raum-munchen-munich-321142",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T18:30:32.000Z"
+  },
+  "e3d460d8a8bcda807cf996d198aa3318374df0c6": {
+    "title": "Data Analyst (m/f/d)",
+    "company": "METYCLE",
+    "locationRaw": "Cologne (GER)",
+    "url": "https://www.arbeitnow.com/jobs/companies/metycle/data-analyst-cologne-ger-8086",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:59.000Z"
+  },
+  "3f6f74ec8352a13439373e1f8784d10d3c21b255": {
+    "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+    "company": "METYCLE",
+    "locationRaw": "Cologne (GER)",
+    "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-45180",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:59.000Z"
+  },
+  "f551392e278887a8f6cc96d3217eb493928b635a": {
+    "title": "Product Manager AI Search (m/w/d)",
+    "company": "Moebel De",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-product-manager-ai-search-hamburg-167397",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:45.000Z"
+  },
+  "36eed6246360ccea97112df00c5186db68049f57": {
+    "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
+    "company": "Greencells Gmbh",
+    "locationRaw": "Saarbrücken",
+    "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-175243",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:16.000Z"
+  },
+  "33d8943113d5ded99af921b0ec0746beb2807284": {
+    "title": "Team Lead Weiterbildungen AI & Data Science am Umschulungsstandort (w/m/d)",
+    "company": "Karrieretutor De",
+    "locationRaw": "Umschulungsstandort München",
+    "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/team-lead-weiterbildungen-ai-data-science-am-umschulungsstandort-umschulungsstandort-munchen-447796",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:14.000Z"
+  },
+  "054561fa732d7e79a31bf44a5e1bcc2ee98c7216": {
+    "title": "Team Lead Weiterbildungen AI & Data Science 100% remote (m/w/d)",
+    "company": "Karrieretutor De",
+    "locationRaw": "100% Remote in Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/team-lead-weiterbildungen-ai-data-science-100-remote-65546",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:14.000Z"
+  },
+  "5b8b6800897a1cfa57727bfb321dc7708f4f83e4": {
+    "title": "Freiberufliche Lehrkraft (w/m/d) für Data Analytics",
+    "company": "Karrieretutor De",
+    "locationRaw": "100% Remote in Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-data-analytics-335517",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:14.000Z"
+  },
+  "7c17e7e43cf471070cce91dfc4c5616cc67bef97": {
+    "title": "Freiberufliche Lehrkraft (w/m/d) für BI Analytics",
+    "company": "Karrieretutor De",
+    "locationRaw": "100% Remote in Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/karrieretutor-de/remote-freiberufliche-lehrkraft-fur-bi-analytics-288201",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:14.000Z"
+  },
+  "6252e40719fa45a0dd4d7def6c2e24ff06c27a0c": {
+    "title": "Senior System Engineer Microsoft 365 und Automatisierung (m/w/d)",
+    "company": "Brl",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/brl/senior-system-engineer-microsoft-365-und-automatisierung-hamburg-345405",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:06.000Z"
+  },
+  "f8eff114db68db3d36656dd2803b1b063ccd4ea4": {
+    "title": "Junior System Engineer Microsoft 365 und Automatisierung (m/w/d)",
+    "company": "Brl",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/brl/junior-system-engineer-microsoft-365-und-automatisierung-hamburg-236711",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T17:09:06.000Z"
+  },
+  "de8f59772520970837aa4cc660b361116c084d29": {
+    "title": "Software Engineer",
+    "company": "Catonetworks",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/software-engineer-london-495502",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T18:55:05.000Z"
+  },
+  "b70938c1ce599f14bf053cc2a9580b9e8f087cf4": {
+    "title": "Staff Software Engineer, Liquidity Management (C#/.NET)",
+    "company": "Ripple",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-software-engineer-liquidity-management-c-net-london-290764",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T18:55:03.000Z"
+  },
+  "33727f2ae9b0e5d73ff8b89d2b9628bd62b44118": {
+    "title": "Head of Content",
+    "company": "Bifrost Studios",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bifrost-studios/head-of-content-london-164672",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T18:30:31.000Z"
+  },
+  "39e35f11d781edd6e31f8ae9bbf9a4e5b651d93f": {
+    "title": "Software Engineer, Platform - Lyon, France",
+    "company": "speechify",
+    "locationRaw": "Lyon",
+    "url": "https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-platform-lyon-france-27378",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Backend",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T19:55:07.000Z"
+  },
+  "9f9cfa88e760d95d7f153ade110f0335768a2307": {
+    "title": "Paid Media Campaigns Manager",
+    "company": "Jellyfish",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/jellyfish/paid-media-campaigns-manager-paris-318168",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T19:40:04.000Z"
+  },
+  "2c8e734017dccbcf73a7920b6faf0c6ce6904e27": {
+    "title": "Paid Social Campaigns Manager",
+    "company": "Jellyfish",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/jellyfish/paid-social-campaigns-manager-paris-432916",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T19:40:04.000Z"
+  },
+  "cc02de50df65ce4608f427ec09622ed6570604cc": {
+    "title": "Game Designer - Castle Busters",
+    "company": "Voodoo",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-designer-castle-busters-paris-311751",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T19:40:03.000Z"
+  },
+  "7353b7943325ec30048c3ae6dbe6c13019aae920": {
+    "title": "Organic Growth Hacker - Paper.io 2",
+    "company": "Voodoo",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/organic-growth-hacker-paperio-2-paris-420050",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-17T19:40:03.000Z"
+  },
+  "8e0ae8e23f51ce4a2478f5f3d8b0f3ddb94da108": {
+    "title": "Senior Product Manager",
+    "company": "Smartcat",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/smartcat-senior-product-manager",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:37:13.000Z"
+  },
+  "7b79c897f15df0f0c19a4fbb845cf262d33cb929": {
+    "title": "Product Manager",
+    "company": "Saas",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/saas-product-manager",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:58.000Z"
+  },
+  "0982cd93681a2ab4b6bc8f2fe5ab803105611012": {
+    "title": "Principal Product Engineer",
+    "company": "Tiugo Technologies",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/tiugo-technologies-principal-product-engineer",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:46.000Z"
+  },
+  "2ec11da489e0ea8b50522e5e6fd5c7cbabf10b54": {
+    "title": "Senior Product Manager",
+    "company": "Kodify",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/kodify-senior-product-manager",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:38.000Z"
+  },
+  "d2ba8a5bb5c6140bc22addd0e07740e405cdfb54": {
+    "title": "Full-stack Developer (BL paczka)",
+    "company": "Base.com",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-bl-paczka",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Full-stack",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:38.000Z"
+  },
+  "9e41fc4f88472596279fd15d956ed98121e25b80": {
+    "title": "Senior Platform Engineer(DevOps)",
+    "company": "Sedona Digital",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/sedona-digital-senior-platform-engineer-devops",
+    "categories": [
+      "Remote",
+      "Junior",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:28.000Z"
+  },
+  "5ac3ca12b70a2bc4d04147e2a824d2b02830107c": {
+    "title": "DevOps Engineer",
+    "company": "Tenchi Security",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/tenchi-security-devops-engineer",
+    "categories": [
+      "Remote",
+      "Canada",
+      "Europe",
+      "Mid-level",
+      "DevOps",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:24.000Z"
+  },
+  "d5d4dc9874b7a8ea4a2eec8e74373b9f3bc53ba3": {
+    "title": "Senior Product Designer",
+    "company": "Kota",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/kota-senior-product-designer",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:07.000Z"
+  },
+  "e747de2fe5a52e91f217ce30f6deb6e8b8e79ab2": {
+    "title": "Product Manager, Agent Harness & Modelling",
+    "company": "Cohere",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/cohere-product-manager-agent-harness-modelling",
+    "categories": [
+      "Remote",
+      "Canada",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:07.000Z"
+  },
+  "83729d0bff07bd543c2ec6cf9812c645a624e40e": {
+    "title": "Senior Product Designer",
+    "company": "Huzzle",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/huzzle-senior-product-designer",
+    "categories": [
+      "Remote",
+      "UK",
+      "Canada",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:36:07.000Z"
+  },
+  "e3b702dff9d74e0a8fd9c4c56d69d462658115d7": {
+    "title": "Sr. Product Manager - AI Growth",
+    "company": "Highlevel",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-sr-product-manager-ai-growth",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:35:52.000Z"
+  },
+  "97135ffb223f568d48dce30760791b7e137ffb84": {
+    "title": "Senior DevOps Engineer",
+    "company": "Truv",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/truv-senior-devops-engineer",
+    "categories": [
+      "Remote",
+      "USA",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:35:52.000Z"
+  },
+  "39616e195151f9f14e403d981a41a418c940a9f1": {
+    "title": "Sr. Product Manager - AI Platform",
+    "company": "Highlevel",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-sr-product-manager-ai-platform",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:35:44.000Z"
+  },
+  "2f6cdbeeafc9c1730cf105591ca1f41f144cd3a0": {
+    "title": "DevOps Engineer - Contractor",
+    "company": "Coin Market Cap",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/coin-market-cap-devops-engineer-contractor",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:35:38.000Z"
+  },
+  "0d658aeae2e282bb7382658490000e192aa46402": {
+    "title": "Design Specialist",
+    "company": "Trafilea",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/trafilea-design-specialist",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:35:26.000Z"
+  },
+  "038c7c2399e106fd99737b97d201d99658722858": {
+    "title": "Principal Product Manager, Voice AI",
+    "company": "Toast",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/toast-principal-product-manager-voice-ai",
+    "categories": [
+      "Remote",
+      "USA",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:34:55.000Z"
+  },
+  "1e2d7fac38c8017a386ed926ffef7d6fe25c3bc5": {
+    "title": "Product Designer",
+    "company": "Rockstar",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/rockstar-product-designer",
+    "categories": [
+      "Remote",
+      "Canada",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:34:52.000Z"
+  },
+  "53be1a22e226148093835e03875712c6a0d858d7": {
+    "title": "Senior Full Stack Developer - PHP Laravel",
+    "company": "Newrich Network",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/newrich-network-senior-full-stack-developer-php-laravel",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:34:41.000Z"
+  },
+  "c2ff8a6e1784878c7a10bfaa015d5b02858787e7": {
+    "title": "Founding Product Designer - Decentralized Identity",
+    "company": "Hyphen Connect Limited",
+    "locationRaw": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-founding-product-designer-decentralized-identity",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "weworkremotely",
+    "postedAt": "2026-08-19T20:34:36.000Z"
   }
 }
