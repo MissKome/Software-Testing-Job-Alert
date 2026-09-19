@@ -3447,20 +3447,6 @@
     "source": "remoteok",
     "postedAt": "2026-08-05T17:32:38.000Z"
   },
-  "0893b531a232934a22ba6f9c9ca1a7a36c353b55": {
-    "title": "Java Developer",
-    "company": "Clera",
-    "locationRaw": "Los Angeles",
-    "url": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "remoteok",
-    "postedAt": "2026-08-05T16:00:23.000Z"
-  },
   "dc37e2e159a4d1299e8b06af8b2eb7defccb05b7": {
     "title": "Working Student Information Security & Access Management (m/f/d)",
     "company": "Raisin",
@@ -99179,5 +99165,88 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-19T07:40:03.000Z"
+  },
+  "1838bc076e1d0b444ad80d59b1ae945d5919918b": {
+    "title": "Data Engineer",
+    "company": "prolific",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-data-engineer-73233",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-19T15:55:11.000Z"
+  },
+  "b0af1d3be62aae84b678860445727654f16747a3": {
+    "title": "Data Analyst - Supply",
+    "company": "prolific",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/data-analyst-supply-288300",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-19T15:55:11.000Z"
+  },
+  "7c47f13036f3c32a0d6a7c3aea05540f40c4f899": {
+    "title": "Principal Product Manager (Consulting & Banking or Fintech)",
+    "company": "thoughtworks",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/thoughtworks/principal-product-manager-consulting-banking-or-fintech-london-221816",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-19T15:55:09.000Z"
+  },
+  "bc465b6a08880158ed6eebc568b029c1cc0a1f54": {
+    "title": "Mathematical Software Engineer",
+    "company": "spire",
+    "locationRaw": "Glasgow",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/mathematical-software-engineer-glasgow-395785",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-19T15:55:07.000Z"
+  },
+  "40bb85b1fd7471ca490cd85b71c98c1284ee98ac": {
+    "title": "Senior Software Engineer | Full-Stack | Media Translation",
+    "company": "Deepl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-software-engineer-full-stack-media-translation-london-204154",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-19T15:40:10.000Z"
+  },
+  "adb1d376ce811ece830a9f6a7ee794115dd68386": {
+    "title": "Senior Software Engineer | API Enterprise",
+    "company": "Deepl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-software-engineer-api-enterprise-london-52256",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-19T15:40:10.000Z"
   }
 }
