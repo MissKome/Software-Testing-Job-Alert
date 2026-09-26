@@ -1,20 +1,4 @@
 {
-  "c5637a9db076d89e2884e332278214d16d3ac29e": {
-    "title": "Software Engineer",
-    "company": "Preiswecker",
-    "locationRaw": "Berlin",
-    "url": "https://www.preiswecker.com/",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Mid-level",
-      "QA / Testing",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:00.000Z"
-  },
   "5f3dc125a7ee6255a36d37913ab8fdd4520077cb": {
     "title": "IT-System Engineer (m/w/d)",
     "company": "think about IT GmbH",
@@ -742,183 +726,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-12T06:55:09.000Z"
-  },
-  "d370142603c6c49cf7b207087b154f0369941ad5": {
-    "title": "Product Manager II - Fraud",
-    "company": "Kraken",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/product-manager-ii-fraud-london-52400",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:29.000Z"
-  },
-  "35751ea4284cedc527c66092a6f77cc004fc6167": {
-    "title": "Mid/Senior Product Designer",
-    "company": "Tilt",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/tilt/mid-senior-product-designer-london-320555",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Mobile",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:27.000Z"
-  },
-  "d120901b22c5dc20a7e683fccf4303da2c0bada6": {
-    "title": "Machine Learning Platform Engineer",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/machine-learning-platform-engineer-london-165918",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "DevOps",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:25.000Z"
-  },
-  "d39f586fbb24ffaec1f8024af9dc311ef78d257f": {
-    "title": "LLM Application Engineer",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/llm-application-engineer-london-329410",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Backend",
-      "Product / Design",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:25.000Z"
-  },
-  "29b893e10b654f57a2cd1ecf263e31b7d2d37933": {
-    "title": "Senior Project Manager - FTC 12 months",
-    "company": "Wearebeyondsports",
-    "locationRaw": "London, Kennington",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-project-manager-ftc-12-months-london-168788",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Senior",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:19.000Z"
-  },
-  "557a1f473b28e5498271af2aeec2092e1c135036": {
-    "title": "Senior Product Designer",
-    "company": "Wearebeyondsports",
-    "locationRaw": "London, Kennington",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-product-designer-london-129379",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Mobile",
-      "Product / Design",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:19.000Z"
-  },
-  "8d4c249296d3bc9f21c3fdd4e4fcab5380828171": {
-    "title": "Senior Freelance Product Designer",
-    "company": "Wearebeyondsports",
-    "locationRaw": "London, Kennington",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/senior-freelance-product-designer-london-351547",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Mobile",
-      "Product / Design",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:19.000Z"
-  },
-  "e5a85ffe98b0716edd413e679cc23e039ea80831": {
-    "title": "Technical Lead - Backend",
-    "company": "Wearebeyondsports",
-    "locationRaw": "Basingstoke",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/technical-lead-backend-basingstoke-375841",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Backend"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:19.000Z"
-  },
-  "e05bf3119d936cb443932f0ec464784cd2b76e66": {
-    "title": "Software Architect - Machine Learning",
-    "company": "Wearebeyondsports",
-    "locationRaw": "London, Kennington",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/software-architect-machine-learning-london-96010",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:19.000Z"
-  },
-  "d766710bd8ca9411b86f13e3efbe7183d86cca77": {
-    "title": "Design Quality Engineer",
-    "company": "Heidi",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/design-quality-engineer-london-428330",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Mid-level",
-      "IT / Security",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:18.000Z"
-  },
-  "763ce60c6f17c1d97bebf23dabb2b91b78826761": {
-    "title": "Recruiter (Research)",
-    "company": "Whitecircle",
-    "locationRaw": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-recruiter-research-184816",
-    "categories": [
-      "Remote",
-      "Senior",
-      "QA / Testing",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T06:40:16.000Z"
-  },
-  "4efeb25a72b69c366c712ac122a7c136d25ba07f": {
-    "title": "Software Engineer (Linux)",
-    "company": "Proton",
-    "locationRaw": "Geneva CH",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/proton/software-engineer-linux-geneva-ch-470251",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Mobile",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-12T03:55:19.000Z"
   },
   "fd834f4db96136617ad299aa9dbb12bfaf6d61d1": {
     "title": "IT System Engineer Managed Services (w/m/d) in Düsseldorf oder Dortmund",
@@ -101794,5 +101601,326 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-25T16:40:08.000Z"
+  },
+  "3ea08b8d171e9e248347c917135a4bcad8921c61": {
+    "title": "Product Designer | SimpleStudy",
+    "company": "Hirehire",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-simplestudy-388362",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Africa",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:40:12.000Z"
+  },
+  "200a12a3c1c292c61708b247f654b4391cc545e2": {
+    "title": "Working Student Analytics Engineer (m/w/d)",
+    "company": "Pergolux",
+    "locationRaw": "Berlin | Global Team",
+    "url": "https://www.arbeitnow.com/jobs/companies/pergolux/working-student-analytics-engineer-berlin-127740",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:40:06.000Z"
+  },
+  "5fcaf5262ed82a625131efe785b8ce73b19a022f": {
+    "title": "Senior AI Product Manager (f/m/d)",
+    "company": "plancraft",
+    "locationRaw": "Hamburg (hybrid)",
+    "url": "https://www.arbeitnow.com/jobs/companies/plancraft/senior-ai-product-manager-hamburg-115624",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:40:03.000Z"
+  },
+  "49aa13ea8df5d5ef86553fd9286fb64b42fa1b50": {
+    "title": "Fullstack Software Engineer (M/W/D) – AI-Native Development",
+    "company": "INSIDE M2M GmbH",
+    "locationRaw": "Garbsen, Niedersachsen, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/fullstack-software-engineer-ai-native-development-garbsen-463913",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:30:20.000Z"
+  },
+  "f2eaeeb1a5a76a53907b842b18469ffdcdc42498": {
+    "title": "Senior Odoo Engineer ERP & E-Commerce (all genders)",
+    "company": "Valuenet Group",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/senior-odoo-engineer-erp-e-commerce-all-genders-munchen-488225",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:09:58.000Z"
+  },
+  "1ed0c79804b3dc7fdac27cc805006bab8099d8f3": {
+    "title": "Product Engineer (Backend/AI) @Briink",
+    "company": "Merantix",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-413825",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:09:49.000Z"
+  },
+  "a656edce7af0826e6ccf9661451398a4914e855b": {
+    "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
+    "company": "Prenode",
+    "locationRaw": "Karlsruhe",
+    "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-347504",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:09:40.000Z"
+  },
+  "84428fcb67c191259d971dbdb74ce91f1f317088": {
+    "title": "Senior Backend Engineer (f/m/d)",
+    "company": "Predium",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/predium/senior-backend-engineer-munich-222038",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:09:35.000Z"
+  },
+  "b3609793ebd59912ae0f1d9bd086ea845814312b": {
+    "title": "Associate Data Scientist (f/m/d)",
+    "company": "Predium",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/predium/associate-data-scientist-munich-248899",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:09:35.000Z"
+  },
+  "6341532a7485e3e55835cd94248773bd1ffcb978": {
+    "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
+    "company": "Everii Germany Gmbh 3",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-181376",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:09:22.000Z"
+  },
+  "bd42799724641b514e0ea0778ae0f2be736cd3a6": {
+    "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
+    "company": "Everii Germany Gmbh 3",
+    "locationRaw": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-85844",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T05:09:22.000Z"
+  },
+  "d51786db6606202dc68789f27073fd7a908dee00": {
+    "title": "Senior Product Designer",
+    "company": "prolific",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-designer-52013",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:55:17.000Z"
+  },
+  "baeef2519a16ec045eaeb70538c3a7d94c105ae1": {
+    "title": "Staff Product Designer, Enterprise",
+    "company": "scaleai",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/staff-product-designer-enterprise-london-68774",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:55:17.000Z"
+  },
+  "61f22f3474551ac9d72d080faf68cbb86e0a0954": {
+    "title": "Senior Research Scientist (Architectures Research)",
+    "company": "Nebius",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-research-scientist-architectures-research-335775",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:55:10.000Z"
+  },
+  "08f5d0f13d882d46c8f6c5b2b95e2a11fa135c86": {
+    "title": "Senior Hypervisor Engineer",
+    "company": "Nebius",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-hypervisor-engineer-london-395469",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:55:10.000Z"
+  },
+  "91b4ced35c8cf328e58f4ee86b9f75aff7bea981": {
+    "title": "Senior HPC Cluster Engineer",
+    "company": "Nebius",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-hpc-cluster-engineer-68972",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:55:10.000Z"
+  },
+  "ede53186592cd1086f0c19acee1638a37332e18d": {
+    "title": "Product Designer, Design Systems",
+    "company": "Devrev",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/devrev/product-designer-design-systems-london-145173",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:55:04.000Z"
+  },
+  "4e36a455365a165bcdcfa85fa278fb6d336168fd": {
+    "title": "Product Designer, Generative Media (Staff-Level / L6)",
+    "company": "Synthesia",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/product-designer-generative-media-staff-level-l6-london-474996",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:40:09.000Z"
+  },
+  "5368153b28749766dcc7dfcddd2267b4d9448d44": {
+    "title": "Senior Frontend Engineer, Marketing Website",
+    "company": "Synthesia",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/senior-frontend-engineer-marketing-website-london-46014",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:40:09.000Z"
+  },
+  "ce1fb33c89aba495769c813a1e211fbf71de29f6": {
+    "title": "Senior Data Scientist",
+    "company": "Omaze",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-data-scientist-london-89487",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:40:06.000Z"
+  },
+  "e6b59c2137ef6332263b0a352bcf16b4abe5ff0a": {
+    "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+    "company": "Camunda",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-330128",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:40:05.000Z"
+  },
+  "0f3579f2618553224c25226c09f2df0f8df1e73a": {
+    "title": "Senior Software Engineer, Backend - Distributed Systems",
+    "company": "Camunda",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-359884",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-26T03:40:05.000Z"
   }
 }
