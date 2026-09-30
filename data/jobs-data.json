@@ -109,32 +109,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-08-16T23:09:34.000Z"
   },
-  "d192c9e5f47ac3e8f34bdd879f41318473fee047": {
-    "title": "(Senior) Product Manager (w/m/d)",
-    "company": "Transfermarkt",
-    "locationRaw": "DE - Hamburg",
-    "url": "https://www.arbeitnow.com/jobs/companies/transfermarkt/senior-product-manager-de-hamburg-230364",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T20:09:42.000Z"
-  },
-  "5231e38936435bbeac1c997e2c49baf6a8b815bf": {
-    "title": "Werkstudent (m/f/x) - IT Support",
-    "company": "ITONICS",
-    "locationRaw": "Nürnberg",
-    "url": "https://www.arbeitnow.com/jobs/companies/itonics/werkstudent-it-support-nurnberg-490063",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "IT / Security"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T20:09:12.000Z"
-  },
   "dac34cbec21e8aab555346c4d9b7ec3c5bb88d00": {
     "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
     "company": "reddit",
@@ -265,164 +239,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-08-17T03:09:42.000Z"
-  },
-  "2ae543db167707db59a032725f0e43520e4a9d5c": {
-    "title": "Software Engineer (Java)",
-    "company": "Virtu",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/virtu/software-engineer-java-london-49415",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T22:15:11.000Z"
-  },
-  "a7c1d4d16a44658ae42f9d712727f7ff7d3be6ef": {
-    "title": "Sales Director",
-    "company": "Scaleops",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleops/sales-director-229874",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "DevOps"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T22:15:08.000Z"
-  },
-  "0e592157ad9e85bc2ea60c143b631105055b0b0a": {
-    "title": "Account Executive - UK",
-    "company": "Scaleops",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleops/account-executive-uk-311126",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T22:15:08.000Z"
-  },
-  "c9f7aefa90af8bc11ef40d609c07ed5a39cc7cfa": {
-    "title": "Supplier Quality Assurance Technologist - THG Nutrition",
-    "company": "Thehutgroup",
-    "locationRaw": "Manchester",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/supplier-quality-assurance-technologist-thg-nutrition-manchester-355690",
-    "categories": [
-      "Onsite",
-      "UK",
-      "USA",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:56:07.000Z"
-  },
-  "d33a1788712b06bf3854ea67b547308d4be01509": {
-    "title": "Quality Assurance Technician - THG Manufacturing",
-    "company": "Thehutgroup",
-    "locationRaw": "Warrington",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/quality-assurance-technician-thg-manufacturing-warrington-72019",
-    "categories": [
-      "Onsite",
-      "UK",
-      "USA",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:56:07.000Z"
-  },
-  "335b729f5c47c4ba9655e6e7d12329582d35b25b": {
-    "title": "Staff ML Engineer",
-    "company": "Cloudbedsthirdpartyboard",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-ml-engineer-191647",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:55:09.000Z"
-  },
-  "bf0159ea56634319c8a69c739ee70cae32618c94": {
-    "title": "Product Marketing - Agents - Government",
-    "company": "Elevenlabs",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/product-marketing-agents-government-united-kingdom-474347",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:40:20.000Z"
-  },
-  "907f6af105b89b99ea51a3da9ea962f8add0a05f": {
-    "title": "Martech Engineer",
-    "company": "Elevenlabs",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/martech-engineer-london-307233",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:40:20.000Z"
-  },
-  "d8bad2c1ba0fee45442e489cb5d1cc91b1fca87a": {
-    "title": "B2B Field Marketer - EMEA",
-    "company": "Elevenlabs",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/b2b-field-marketer-emea-united-kingdom-471511",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:40:19.000Z"
-  },
-  "56e41eff0c9e816b75869e1316209adb84d1b2c9": {
-    "title": "Proposal Manager (Global)",
-    "company": "Elevenlabs",
-    "locationRaw": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-proposal-manager-global-200509",
-    "categories": [
-      "Remote",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:40:19.000Z"
-  },
-  "6e70369765f23064539191999e5ce22ded2f9100": {
-    "title": "Senior Product Manager (Data API)",
-    "company": "9Fin",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-data-api-london-110920",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-16T21:40:06.000Z"
   },
   "e55758d8c3e3a121edd03a87de41b8246262f457": {
     "title": "Software Developer (m/w/d)- Schwerpunkt Angular",
@@ -106469,5 +106285,965 @@
     ],
     "source": "weworkremotely",
     "postedAt": "2026-09-15T14:12:47.000Z"
+  },
+  "3bcc24ef81257fed42f4a9c58485ffc87d93bbfc": {
+    "title": "Senior Software Engineer (SmartCard Development)",
+    "company": "emnify",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/emnify/senior-software-engineer-smartcard-development-berlin-253509",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:55:44.000Z"
+  },
+  "bd850ded3a32c3df055fbc6c480aa5564386f9f9": {
+    "title": "Senior Data Analyst (f/m/x)",
+    "company": "sparetech",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/sparetech/senior-data-analyst-433341",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:55:28.000Z"
+  },
+  "7802e1b187885083b2c8210070d630d51d2bcf01": {
+    "title": "Staff Solutions Engineer",
+    "company": "mozilla",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/mozilla/staff-solutions-engineer-317816",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:55:25.000Z"
+  },
+  "d1c527badb132e84c4118fbfe08c65aa0b1f5aea": {
+    "title": "Senior Security Engineer - SecOps",
+    "company": "mozilla",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-security-engineer-secops-473391",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:55:25.000Z"
+  },
+  "fc761f3b2883c74acce581e50518a3d32ac3097a": {
+    "title": "Senior Software Engineer (AI Platform)",
+    "company": "smartlyio",
+    "locationRaw": "Berlin, Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-software-engineer-ai-platform-berlin-berlin-351549",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:55:02.000Z"
+  },
+  "f1f9096cf4fe8584f6b6e87f2f213521f5e1ece5": {
+    "title": "C2 Software Engineer",
+    "company": "Walaris",
+    "locationRaw": "Nuremberg, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/walaris/c2-software-engineer-nuremberg-408085",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:20:15.000Z"
+  },
+  "86f0e9f5ae3b384b6c42b0803511c05496b6cf8d": {
+    "title": "Embedded Software Engineer (m/f/d) - ADAM Audio GmbH",
+    "company": "Focusrite",
+    "locationRaw": "Berlin, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/focusrite/embedded-software-engineer-adam-audio-gmbh-berlin-95425",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:20:03.000Z"
+  },
+  "973c1d2137fd2fbbc757e7c3cc45a7950f5d5baa": {
+    "title": "Senior Product Manager, Wealth & AI (f/m/d)",
+    "company": "Getquin",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/getquin/senior-product-manager-wealth-ai-berlin-387564",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:09:48.000Z"
+  },
+  "415ce998bbc34337c2b07fb0110f9c39d025a398": {
+    "title": "Full Stack Product Developer (m/w/d)",
+    "company": "Tablemedia",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-143442",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:09:22.000Z"
+  },
+  "b5309f66ad5848a74f41091d6eea16b5346ea50a": {
+    "title": "Senior Odoo Engineer ERP & E-Commerce (all genders)",
+    "company": "Valuenet Group",
+    "locationRaw": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/senior-odoo-engineer-erp-e-commerce-all-genders-munchen-225065",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:09:16.000Z"
+  },
+  "644ac6057ec0dafc271b5a9c013939e118edcbfa": {
+    "title": "Product Engineer (Backend/AI) @Briink",
+    "company": "Merantix",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-497158",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:09:07.000Z"
+  },
+  "ab6ee81ce4c171c5db913216aa433092e66ea1ae": {
+    "title": "AI Research Engineer (Kernel & Inference Optimization)",
+    "company": "Jobgether",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-research-engineer-kernel-inference-optimization-germany-474080",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:04:27.000Z"
+  },
+  "2b9a5f681c53d9c98069912d61c6447791954170": {
+    "title": "Frontend-Entwickler:in",
+    "company": "Muxon",
+    "locationRaw": "Rednitzhembach",
+    "url": "https://www.arbeitnow.com/jobs/companies/muxon/frontend-entwicklerin-rednitzhembach-397360",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:00:50.000Z"
+  },
+  "51eb2d7a73e147b429d0c3e886862ef33b4ff983": {
+    "title": "Freelance- Lead Developer- Technical Lead",
+    "company": "Jack Morton Worldwide",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/jack-morton-worldwide/freelance-lead-developer-technical-lead-181763",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:56:01.000Z"
+  },
+  "c1e050df9327d1046ca818fe7c8de75f87c40399": {
+    "title": "Freelance Data Engineer (Security)",
+    "company": "Jack Morton Worldwide",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/jack-morton-worldwide/freelance-data-engineer-security-321132",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:56:01.000Z"
+  },
+  "d5adcbfe1f343d9014b56f241ac09959ffe43be7": {
+    "title": "Senior Software Engineer I - Backend (Java)",
+    "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/senior-software-engineer-i-backend-java-london-335702",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:56:01.000Z"
+  },
+  "458d16ac49fd7cad0110525586b62e5628512e64": {
+    "title": "Senior Product Security Architect",
+    "company": "Axonius",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/axonius/remote-senior-product-security-architect-399216",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:55:42.000Z"
+  },
+  "e3ce17a428ee248a4042a556f3a8263955bddd36": {
+    "title": "Software Engineer II - SMS International",
+    "company": "Klaviyo",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/software-engineer-ii-sms-international-london-294516",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Frontend",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:55:41.000Z"
+  },
+  "6ca8106ac23701062f790d149ec7c5cf274023b9": {
+    "title": "Senior Data Scientist",
+    "company": "Ripple",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-data-scientist-london-465493",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:55:26.000Z"
+  },
+  "f165ec3513fa3461b759ac989c5f456c6b7116e0": {
+    "title": "Senior Data Engineer, Mi-Platform",
+    "company": "Point72",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/point72/senior-data-engineer-mi-platform-420475",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:55:26.000Z"
+  },
+  "53183c2e6f8566bf7bb8424b933bb5bd18b385e4": {
+    "title": "Staff Software Engineer, Full Stack - New Verticals",
+    "company": "Deliveroo",
+    "locationRaw": "London, England, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-full-stack-new-verticals-london-316314",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:45:28.000Z"
+  },
+  "b264aa8b8066b830e20b79a10d6bab5249ed8cdc": {
+    "title": "Software Engineer II - New Verticals",
+    "company": "Deliveroo",
+    "locationRaw": "London, England, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-new-verticals-london-479001",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:45:28.000Z"
+  },
+  "b587e65e1827b0504664d5f7683ebddef0dbf6ce": {
+    "title": "Software Engineer",
+    "company": "Deliveroo",
+    "locationRaw": "London, England, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-260136",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:45:27.000Z"
+  },
+  "cadad598de8c6691745a6ff5b3ae9c30f33644e3": {
+    "title": "Senior Software Engineer",
+    "company": "Deliveroo",
+    "locationRaw": "London, England, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-london-217013",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:45:27.000Z"
+  },
+  "dc43dee572ae20bacbf2decefb1d3de517f652a4": {
+    "title": "Lead Software Engineer – Kraken Utilities (OSS / Telco Integrations)",
+    "company": "Kraken",
+    "locationRaw": "London, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/lead-software-engineer-kraken-utilities-oss-telco-integrations-london-156884",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:13.000Z"
+  },
+  "06ecddc96721f53522f075fcce6aa3d1d80f1dcb": {
+    "title": "Data Platform Engineer I",
+    "company": "Kraken",
+    "locationRaw": "London, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-platform-engineer-i-london-203571",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:13.000Z"
+  },
+  "17afe346d7a55c495083573c21c12bb16a4f5ccd": {
+    "title": "Senior Software Engineer - Customer Entities",
+    "company": "Kraken",
+    "locationRaw": "London, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-software-engineer-customer-entities-london-182629",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:13.000Z"
+  },
+  "10c1aa530792cedaead695de6630537136a10825": {
+    "title": "Product Manager",
+    "company": "Kraken",
+    "locationRaw": "London, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/product-manager-london-321513",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:13.000Z"
+  },
+  "8c4b79afc5d277704a9b076e503c79340512a1ae": {
+    "title": "Lead Software Engineer - Agent Safety",
+    "company": "Kraken",
+    "locationRaw": "London, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/lead-software-engineer-agent-safety-london-443568",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:13.000Z"
+  },
+  "d973061412d27ab67841801d43ac8ae21c047069": {
+    "title": "Senior Product Designer",
+    "company": "Zilch",
+    "locationRaw": "Zilch UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/senior-product-designer-london-113001",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:12.000Z"
+  },
+  "bee9de575ce811c82344727c0343759ec1b4b0ff": {
+    "title": "Member of Research Staff (London)",
+    "company": "Voleon",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/member-of-research-staff-london-339988",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:11.000Z"
+  },
+  "d859220bf8df2999f4bd54ca5f887e81af4a71ec": {
+    "title": "Quantitative Trading Team Lead",
+    "company": "Voleon",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/quantitative-trading-team-lead-london-198154",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Junior",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:11.000Z"
+  },
+  "4b6642780c9a64e7d4ebb7ebae34b836f9173877": {
+    "title": "Sales Lead (UK)",
+    "company": "Fonio",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fonio/sales-lead-uk-london-3899",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:10.000Z"
+  },
+  "e9837368aba11539388917a18b11ecd356decb8b": {
+    "title": "Senior Product Manager",
+    "company": "Elliptic",
+    "locationRaw": "London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-product-manager-london-united-kingdom-63028",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:09.000Z"
+  },
+  "fd1470cdd43ffbb40d7a11ef566a3a0844a1fbbc": {
+    "title": "Senior Software Engineer - Data",
+    "company": "Elliptic",
+    "locationRaw": "London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-software-engineer-data-london-united-kingdom-244722",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:09.000Z"
+  },
+  "f7f432cbe4077357afdb87e4b761457f17efba16": {
+    "title": "Lead DevOps Engineer",
+    "company": "Elliptic",
+    "locationRaw": "London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/lead-devops-engineer-london-united-kingdom-465095",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:09.000Z"
+  },
+  "593552a14a83693cbc79fdb0bf41056a385123da": {
+    "title": "Field Marketing Manager, EMEA",
+    "company": "Ema",
+    "locationRaw": "United Kingdom (Remote)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/field-marketing-manager-emea-london-277072",
+    "categories": [
+      "Remote",
+      "UK",
+      "Canada",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:08.000Z"
+  },
+  "f641c83a0aa80d55bb22d2f2027331a5453f75e6": {
+    "title": "Forward Deployed Builder",
+    "company": "Ema",
+    "locationRaw": "United Kingdom (Remote)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/forward-deployed-builder-london-324724",
+    "categories": [
+      "Remote",
+      "UK",
+      "Canada",
+      "Mid-level",
+      "Product / Design",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:08.000Z"
+  },
+  "8306dcafc063821211e10f6df508319eaf98ab6a": {
+    "title": "AI Strategist - UK",
+    "company": "Ema",
+    "locationRaw": "United Kingdom (Remote)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/ai-strategist-uk-london-371470",
+    "categories": [
+      "Remote",
+      "UK",
+      "Canada",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:08.000Z"
+  },
+  "c775e8df20f48714faa672fcda417f0d36733bc0": {
+    "title": "Software Engineer (Go)",
+    "company": "Paddle",
+    "locationRaw": "UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/software-engineer-go-uk-443675",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:04.000Z"
+  },
+  "4ed2585602a9a3cb9ba17f29b59f5b7aa97c379b": {
+    "title": "AML Team Leader",
+    "company": "Leovegasgroup",
+    "locationRaw": "Leeds, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/aml-team-leader-leeds-163217",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:04.000Z"
+  },
+  "2604e9a9f02306ee7cf2e9d6de1fd079e487dd2a": {
+    "title": "DevOps Engineer",
+    "company": "Quantexa",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/devops-engineer-london-107727",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:40:03.000Z"
+  },
+  "3928045c29055015ebf6139bfb311554dc45d9c3": {
+    "title": "Software Engineer (.NET C#)",
+    "company": "TransPerfect",
+    "locationRaw": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-4396",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:30:35.000Z"
+  },
+  "f1402a67b5d88a0ec7ca34a313614c4b2464e12b": {
+    "title": "Senior Software Engineer (C# .NET) | London",
+    "company": "TransPerfect",
+    "locationRaw": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-software-engineer-c-net-london-275232",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:30:35.000Z"
+  },
+  "a555fa01e84e114b4cd8319a16e118ab7e69c25d": {
+    "title": "Senior/Lead QA Specialist",
+    "company": "TransPerfect",
+    "locationRaw": "Anywhere in UK, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-lead-qa-specialist-anywhere-in-uk-393557",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T21:30:34.000Z"
+  },
+  "dac0b37702d95c28d14286eef94881ffd468efe1": {
+    "title": "Staff Software Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/staff-software-engineer-sydney-australia-357291",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "ecec9f41730b2bcaabc32312b583d4691faddb17": {
+    "title": "Software Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/software-engineer-sydney-australia-225465",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "9fb5beef30bba19d2f18551e2e339d43d3b36431": {
+    "title": "Senior Software Engineer (Flight Software)",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-flight-software-sydney-australia-160746",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "58ea77d957595428001714174f71ac549d949e39": {
+    "title": "Senior Software Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-sydney-australia-359568",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "33795310c6a78da47879c00c42a562006ce02266": {
+    "title": "Senior Robotics Software Engineer, Payload Integration",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-robotics-software-engineer-payload-integration-sydney-australia-389405",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "e9e4458369c78c70ffee7c52aafacc6f961fa3a8": {
+    "title": "Senior Robotics Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-robotics-engineer-sydney-australia-384500",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "5ec24bff34e9d5087e06c93cee33852d81dc2623": {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-machine-learning-engineer-sydney-australia-101326",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "f8594243a9c4f1933fdb89629e4a3659d5f27098": {
+    "title": "Senior Electrical Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-engineer-sydney-australia-389291",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:47.000Z"
+  },
+  "3e5bd013dd5af606bcb5bea550903af3a85d5456": {
+    "title": "Manufacturing Test Automation Engineer",
+    "company": "Andurilindustries",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manufacturing-test-automation-engineer-sydney-australia-291923",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:46.000Z"
+  },
+  "9d61b3c06b5d0f4f753f045d81305aed7d5c57a1": {
+    "title": "Staff Data Scientist",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-data-scientist-cardiff-16732",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:33.000Z"
+  },
+  "7959401eee4ea6c9388aa53615386c58dee1fae0": {
+    "title": "Senior Data Scientist",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-data-scientist-cardiff-86433",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:33.000Z"
+  },
+  "00a47f1e2ff48f3786844b7d3de1ab12f92a03b3": {
+    "title": "Lead Machine Learning Scientist, Business Banking",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-machine-learning-scientist-business-banking-cardiff-381566",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:33.000Z"
+  },
+  "c4941d37674b96e458f9d7b3ac9e2b78c6e9e747": {
+    "title": "Lead Data Scientist",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-data-scientist-cardiff-57981",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:33.000Z"
+  },
+  "93311cbb94f15772c515dc60a85f339dd13141c0": {
+    "title": "Data Scientist, L30",
+    "company": "Monzo",
+    "locationRaw": "Cardiff",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/data-scientist-l30-cardiff-406689",
+    "categories": [
+      "Remote",
+      "UK",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:33.000Z"
+  },
+  "5e9fbdabcb03c9bfab79161128dcb6eefa671f44": {
+    "title": "Senior Product Data Analyst- Consumer Growth",
+    "company": "sumup",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-438812",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:29.000Z"
+  },
+  "33d052958b8fcafc80a0e8903c37d59b099b3882": {
+    "title": "Senior Product Data Analyst - Consumer Growth",
+    "company": "sumup",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-363074",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T18:55:29.000Z"
+  },
+  "6ecd91b6c2d5a301ec1fd4bb594cec8f001f486a": {
+    "title": "Growth Lead, France",
+    "company": "OpenAI",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/openai/growth-lead-france-paris-219733",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T19:40:12.000Z"
+  },
+  "d209b72e68afe84d1463ef768f4532e0c8ef359f": {
+    "title": "Account Executive Manager | SMB | French Market (Paris)",
+    "company": "Lexroom",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/account-executive-manager-smb-french-market-paris-259275",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T19:40:09.000Z"
+  },
+  "fa105dc63a0b53a4b60f295de0213739fefef4c1": {
+    "title": "Senior Solution Engineer (FR)",
+    "company": "Filigran",
+    "locationRaw": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/filigran/senior-solution-engineer-fr-france-205908",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T19:40:07.000Z"
+  },
+  "7ec44d53aab403e7fb4b8c9db1acfd6bb41705b4": {
+    "title": "Senior Applied Scientist, Efficient LLM Inference & Model Optimization",
+    "company": "Nebius",
+    "locationRaw": "Zurich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/nebius/senior-applied-scientist-efficient-llm-inference-model-optimization-zurich-31303",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:55:04.000Z"
+  },
+  "2253d70b644b2ec0805b63d05cd7937f08fcca2e": {
+    "title": "Supplier Quality Engineer",
+    "company": "Anybotics",
+    "locationRaw": "Zurich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/supplier-quality-engineer-zurich-241468",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-09-30T20:24:32.000Z"
   }
 }
