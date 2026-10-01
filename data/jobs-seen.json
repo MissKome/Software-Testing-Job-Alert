@@ -135138,5 +135138,385 @@
     "postedAt": "2026-09-30T22:43:42.987Z",
     "title": "Supplier Quality Engineer",
     "company": "Anybotics"
+  },
+  "8a76b9a04ab6f4d1953f8ed12d27fa3b3ed45b9c": {
+    "postedAt": "2026-10-01T01:41:39.672Z",
+    "title": "Senior Security Assurance Specialist",
+    "company": "sumup"
+  },
+  "6745504b15cf5cf078f58f2344a3d1bd6c325e6b": {
+    "postedAt": "2026-10-01T01:41:39.672Z",
+    "title": "Senior Product Analyst",
+    "company": "sumup"
+  },
+  "e53126d72a1eef0bb87b522bee4cfca6a4dfb1e3": {
+    "postedAt": "2026-10-01T01:41:39.672Z",
+    "title": "Staff Research Engineer (LLM Pre-Training)",
+    "company": "jetbrains"
+  },
+  "8358fde3049e0a012d21db3279d13496f294a660": {
+    "postedAt": "2026-10-01T01:41:39.673Z",
+    "title": "Senior Technical Program Manager (IDE Department)",
+    "company": "jetbrains"
+  },
+  "2c8097d1b40f4d4787a16c14a8adf97074213147": {
+    "postedAt": "2026-10-01T01:41:39.673Z",
+    "title": "Senior Software Engineer (AppGlass)",
+    "company": "jetbrains"
+  },
+  "c9c78c741d033dd91c8534969c1360c7ee8620d9": {
+    "postedAt": "2026-10-01T01:41:39.673Z",
+    "title": "Senior Product/Cloud Security Engineer",
+    "company": "jetbrains"
+  },
+  "82655029f3ef91fa18979df04cff3bf9a9d99c94": {
+    "postedAt": "2026-10-01T01:41:39.673Z",
+    "title": "Senior AI Engineer (Core Engine)",
+    "company": "jetbrains"
+  },
+  "e27dbad77cc242e0b91e81af861cb3b54a87a297": {
+    "postedAt": "2026-10-01T01:41:39.674Z",
+    "title": "QA Engineer (Ultimate team)",
+    "company": "jetbrains"
+  },
+  "1aa94394f076bce1ab61756753d959471887addd": {
+    "postedAt": "2026-10-01T01:41:39.674Z",
+    "title": "QA Engineer (IJ Platform / Remote Development)",
+    "company": "jetbrains"
+  },
+  "29f61bb9c0a9b0becf14f4de196504f95cc8e654": {
+    "postedAt": "2026-10-01T01:41:39.674Z",
+    "title": "QA Engineer (IJ Kotlin Plugin)",
+    "company": "jetbrains"
+  },
+  "0a1548563792e2fcd0ef7b83c7c375cc7ca47b2b": {
+    "postedAt": "2026-10-01T01:41:39.674Z",
+    "title": "QA Automation Engineer (IJ Platform / Core team)",
+    "company": "jetbrains"
+  },
+  "3ce1a8ff1804499e590cd5309cb0f7619447fec6": {
+    "postedAt": "2026-10-01T01:41:39.674Z",
+    "title": "Founding Tech Lead (GrowthBricks)",
+    "company": "jetbrains"
+  },
+  "b69fa11a91e4f9051f1835090be0b3eb4816fa23": {
+    "postedAt": "2026-10-01T01:41:39.674Z",
+    "title": "AI Technical Lead - Developer Tooling",
+    "company": "jetbrains"
+  },
+  "8ffa0cc0c32429738015a410c5012d6cee3cde5d": {
+    "postedAt": "2026-10-01T01:41:39.675Z",
+    "title": "Constructor Student Labs",
+    "company": "constructortech"
+  },
+  "f09e0af978dc84cb8029d8feac64136cd4951c7b": {
+    "postedAt": "2026-10-01T01:41:39.675Z",
+    "title": "Senior Postproduction Manager (x/f/m)",
+    "company": "hellofresh"
+  },
+  "7297608fd116f0c0f60f073bffe0d8b8d2ef93ea": {
+    "postedAt": "2026-10-01T01:41:39.675Z",
+    "title": "Senior CRM Manager, Referrals (all genders)",
+    "company": "hellofresh"
+  },
+  "5885a7a077808f27470676b659de1a19ed8ae1df": {
+    "postedAt": "2026-10-01T01:41:39.675Z",
+    "title": "[FACTOR] Senior Operational Excellence Manager (all genders)",
+    "company": "hellofresh"
+  },
+  "ee128d3545217eb9afa7ce029f39ccb277869620": {
+    "postedAt": "2026-10-01T01:41:39.676Z",
+    "title": "Senior Software Engineer (AI Platform)",
+    "company": "Smartly"
+  },
+  "660bd02cc7ebe41da6f0682f1dc16d37088b9f91": {
+    "postedAt": "2026-10-01T01:41:39.676Z",
+    "title": "Senior Analytics Engineer – People Analytics (m/f/d)",
+    "company": "Flix"
+  },
+  "2a48db9dab496751df9dffd9c4dbf8c4991e14b8": {
+    "postedAt": "2026-10-01T01:41:39.676Z",
+    "title": "Senior Analytics Engineer – People Analytics (m/f/d)",
+    "company": "Flix"
+  },
+  "9060f13787a31d4bc66b47f9a17ac8abb0d4e82b": {
+    "postedAt": "2026-10-01T01:41:39.676Z",
+    "title": "Senior Full-stack Python Engineer (m/f/d)",
+    "company": "Flix"
+  },
+  "a21acb61916808c38119cd2a3340bbb973e2e220": {
+    "postedAt": "2026-10-01T01:41:39.676Z",
+    "title": "Senior Python Engineer (m/f/d)",
+    "company": "Flix"
+  },
+  "b8060e39359fc5be7dc2ddfc970fcce45f3f8aef": {
+    "postedAt": "2026-10-01T01:41:39.677Z",
+    "title": "Senior Security Assurance Specialist",
+    "company": "SumUp"
+  },
+  "7205786604d1b29d28c8b6770ff6a1b7b8ea58be": {
+    "postedAt": "2026-10-01T01:41:39.677Z",
+    "title": "Senior Product Analyst",
+    "company": "SumUp"
+  },
+  "9eb05b2a7cdb4064f4f66a331fa0d01cb0f6c406": {
+    "postedAt": "2026-10-01T01:41:39.677Z",
+    "title": "Founding Sales Development Representative DACH (m/f/d)",
+    "company": "Agicap"
+  },
+  "a63a53530c0d05ea3640b073320553e494fde971": {
+    "postedAt": "2026-10-01T01:41:39.677Z",
+    "title": "Full Stack Engineer (m/f/d)",
+    "company": "Glassdollar"
+  },
+  "33b272b4f3ffdd83757b0e338976b7041dc72a49": {
+    "postedAt": "2026-10-01T01:41:39.678Z",
+    "title": "Associate Product Owner",
+    "company": "Glassdollar"
+  },
+  "08d928e4451923a514e936c5c602acf70e2a2c1e": {
+    "postedAt": "2026-10-01T01:41:39.678Z",
+    "title": "Senior Sales Manager:in Brand & Performance Advertising (m/w/d)",
+    "company": "Good Hood Gmbh"
+  },
+  "8b3ea326c28d7d46bf6a811bb37667499647c4b8": {
+    "postedAt": "2026-10-01T01:41:39.678Z",
+    "title": "Senior Conversion Design Analyst (f/m/d)",
+    "company": "Good Hood Gmbh"
+  },
+  "e2e4cd6e59a87e25d44c76bad533387acc8a89f9": {
+    "postedAt": "2026-10-01T01:41:39.678Z",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Good Hood Gmbh"
+  },
+  "ec5f6c037ed52523fa41aeb68a958b5bbc055ee5": {
+    "postedAt": "2026-10-01T01:41:39.678Z",
+    "title": "AI & Automation Manager (m/w/d)",
+    "company": "P3 Security"
+  },
+  "1ef73895984c00f7013a755391b232f937a3a608": {
+    "postedAt": "2026-10-01T01:41:39.679Z",
+    "title": "Werkstudent:in HR & KI Operations  (m/w/d)",
+    "company": "Talentsconnect"
+  },
+  "1629f3b20b57c6ec8439b303e9a2abb52eb0a2de": {
+    "postedAt": "2026-10-01T01:41:39.679Z",
+    "title": "Senior IT Consultant / Administrator (m/w/d)",
+    "company": "Michael Wessel"
+  },
+  "da15ebc017af8980b4762b4d7871d919ee7c07c9": {
+    "postedAt": "2026-10-01T01:41:39.679Z",
+    "title": "Werkstudent:in (m/w/d) Personalmanagement",
+    "company": "Mvz Hph"
+  },
+  "0bed1d91dbe3cb5e81cc68754cd82e10ff45199a": {
+    "postedAt": "2026-10-01T01:41:39.679Z",
+    "title": "Senior Bauleiter mit Standortverantwortung (m/w/d)",
+    "company": "Hwp"
+  },
+  "f4061c9345aaf5bf3c3ec2c98045120eab2cec45": {
+    "postedAt": "2026-10-01T01:41:39.679Z",
+    "title": "Werkstudent (m/w/d) in der Probenregistrierung",
+    "company": "Tentamus"
+  },
+  "a8dd01e7d1d17d3063d0ac02cc543c7f0961fc2b": {
+    "postedAt": "2026-10-01T01:41:39.679Z",
+    "title": "(Senior) Sales Manager (m/w/d)",
+    "company": "Ryze Digital"
+  },
+  "1e3b45d3edafc63a9302d0850b6eff3484c347f5": {
+    "postedAt": "2026-10-01T01:41:39.679Z",
+    "title": "Werkstudent Telematikinfrastruktur (TI) (m/w/d)",
+    "company": "Meierhofer"
+  },
+  "8ed84fc12aee809232a123c83700a964762a3164": {
+    "postedAt": "2026-10-01T01:41:39.680Z",
+    "title": "Werkstudent Digital Health – Medikationssoftware | Pharmazie & Medizin (m/w/d)",
+    "company": "Meierhofer"
+  },
+  "8f0787db80aed18a6641c332f079d876ef9dafe4": {
+    "postedAt": "2026-10-01T01:41:39.680Z",
+    "title": "Sales Manager Neukunden Krankenhaussoftware Deutschland (m/w/d)",
+    "company": "Meierhofer"
+  },
+  "243c91e73094daecaff57de1c40734069e30f8f9": {
+    "postedAt": "2026-10-01T01:41:39.680Z",
+    "title": "(Senior) Account Manager E-Health Deutschland (m/w/d)",
+    "company": "Meierhofer"
+  },
+  "f0bef87f5e597f539f9ddc637f2088ab5e48ff4e": {
+    "postedAt": "2026-10-01T01:41:39.680Z",
+    "title": "Head of Product Management",
+    "company": "Dieproduktmacher"
+  },
+  "1b33689caa372e557aceac4aa6907bea22aa07d9": {
+    "postedAt": "2026-10-01T01:41:39.680Z",
+    "title": "Senior Site Reliability Engineer / SRE – Kubernetes & Hybrid Cloud (m/f/d)",
+    "company": "Fact Finder"
+  },
+  "7eb2e77b5f5baf3ef09cd2070bee8565a038dcee": {
+    "postedAt": "2026-10-01T01:41:39.680Z",
+    "title": "(Senior) Customer Success Manager (m/w/d) – B2B SaaS / eCommerce – Berlin, München, Pforzheim (Hybrid)",
+    "company": "Fact Finder"
+  },
+  "9defd227cec39efed2f2fd716e89f2b8856d9a16": {
+    "postedAt": "2026-10-01T01:41:39.680Z",
+    "title": "UGC Creator - all genders (Freelancer)",
+    "company": "ADBAKER"
+  },
+  "8316768df20230b051f2b6e9e32065c354b7263f": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Senior Software Engineer, Prime",
+    "company": "Robinhood"
+  },
+  "6e254b11b345a4c032e8541af7cb85279acbfba9": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Senior Copywriter",
+    "company": "Wundermanthompson"
+  },
+  "4c7b088a389f3002b753b2441afa9638f5ec6544": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Global Network Growth Managing Director",
+    "company": "Wundermanthompson"
+  },
+  "5b3b950eda88c2c68848762d1006b895e00f21c0": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Global Network Growth Group Director",
+    "company": "Wundermanthompson"
+  },
+  "1249aa238a0d956d79fec67752f5fcb5ba61186a": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Global Network Growth Executive Director",
+    "company": "Wundermanthompson"
+  },
+  "7d702244862ce41fe2de3b4553af561fca5fb9bc": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Tech Lead Manager",
+    "company": "Wheely"
+  },
+  "ef9dd92d0e228c764e36e3382021c3c625dab509": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Site Reliability Engineer",
+    "company": "Wheely"
+  },
+  "e4f652a22033ed634132860e7d485dc56f657bd1": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Senior Event Manager",
+    "company": "Wheely"
+  },
+  "ad3e4e2c4351fd2087436fbe9231054f1dea4e3b": {
+    "postedAt": "2026-10-01T01:41:39.681Z",
+    "title": "Product Manager, UX",
+    "company": "Wheely"
+  },
+  "482945e8e2ec5ef47844aa3f0b12b85f26ed867a": {
+    "postedAt": "2026-10-01T01:41:39.682Z",
+    "title": "Product Manager, Technical",
+    "company": "Wheely"
+  },
+  "c47f8f5c574c32e958b8caf3e2d291fabb6c01ee": {
+    "postedAt": "2026-10-01T01:41:39.682Z",
+    "title": "Full-Stack Engineer",
+    "company": "Wheely"
+  },
+  "237edf28113dbd62b464646140bff1ca681a5d0b": {
+    "postedAt": "2026-10-01T01:41:39.682Z",
+    "title": "Director of Engineering",
+    "company": "Wheely"
+  },
+  "af5147c5213f8018195b31bf2c48224700ef4cd5": {
+    "postedAt": "2026-10-01T01:41:39.682Z",
+    "title": "Data Scientist",
+    "company": "Wheely"
+  },
+  "c8628d0bf3d66114c79d4b1f98d78178cc6bd34a": {
+    "postedAt": "2026-10-01T01:41:39.682Z",
+    "title": "Enterprise Account Executive",
+    "company": "SingleStore-LinkedIn"
+  },
+  "f74505fdd7469a1aca4bb627dbc8dc90faffeb1b": {
+    "postedAt": "2026-10-01T01:41:39.682Z",
+    "title": "Inside Sales Account Executive",
+    "company": "Channel Sales Support Agent - Block"
+  },
+  "0a9cb1bf2be09a90eb3af44d121fa8ee6799d148": {
+    "postedAt": "2026-10-01T01:41:39.682Z",
+    "title": "Customer Support Complaints & Escalations Advocate",
+    "company": "Channel Sales Support Agent - Block"
+  },
+  "5d82513859746e79b1d22ce1c0ec1a7a87d242a9": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "People Performance Manager",
+    "company": "tem"
+  },
+  "e6386c87c92b8391d6d83ed30cc0aa4394990f63": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "People Operations Partner",
+    "company": "tem"
+  },
+  "6723068d82ab6e04a8c0240b095f8630832e2e3b": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "Business Development Lead",
+    "company": "Accurx"
+  },
+  "4eae6e4cdd68ccc5b9dbb7f0285dd73aa6b9ab66": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "Transformation Manager",
+    "company": "Accurx"
+  },
+  "11d1378acc029184ca30df23df5b0f1ed8dac820": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "Enterprise Account Executive - EMEA",
+    "company": "Abacum"
+  },
+  "10422cd0eea45627ae0711dfdd05532e31989c09": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "Electric Propulsion Engineer",
+    "company": "Neworbit"
+  },
+  "6ec36f453d10d415100721689064decbfe5df893": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "(Senior) Sales Executive (m/f/d)",
+    "company": "Qplix"
+  },
+  "2105ccfb92f7e2c3dfdb5d379dec701cc294941e": {
+    "postedAt": "2026-10-01T01:41:39.683Z",
+    "title": "Stateful Services Engineer",
+    "company": "Diabolocom"
+  },
+  "7665f35a2b0dcedc165f35b55361fd99560a461e": {
+    "postedAt": "2026-10-01T01:41:39.684Z",
+    "title": "Influencer Marketing Manager | Mid | French Market",
+    "company": "Nord Security"
+  },
+  "f9226167d0de42895a8677361a4fed9905f88a21": {
+    "postedAt": "2026-10-01T01:41:39.684Z",
+    "title": "People & Talent Lead",
+    "company": "Kestra Technologies"
+  },
+  "626eb92fbdc3a4bea5ba2dd739e310fab56f15a4": {
+    "postedAt": "2026-10-01T01:41:39.684Z",
+    "title": "Senior Software Engineer, Infrastructure",
+    "company": "Ripple"
+  },
+  "5998681475e8bf3ad262896a9dd8b978e46e196f": {
+    "postedAt": "2026-10-01T01:41:39.684Z",
+    "title": "Account Executive (Process Manufacturing - CPG food and beverages)",
+    "company": "Cognite"
+  },
+  "dc11addc1e93881654a5928d092bad1e71211dbb": {
+    "postedAt": "2026-10-01T01:41:39.684Z",
+    "title": "Account Executive (Life Science/Pharma)",
+    "company": "Cognite"
+  },
+  "3fb78734acc139f2f897e4d5088ccacb449e50f1": {
+    "postedAt": "2026-10-01T01:41:39.684Z",
+    "title": "Senior Product Marketing Manager - EMEA",
+    "company": "Camunda"
+  },
+  "09c18c48ec60469ea4598d1061a3a29d11d32e58": {
+    "postedAt": "2026-10-01T01:41:39.684Z",
+    "title": "Senior Consultant Healthcare (w/m/d) 80-100%",
+    "company": "Collana"
   }
 }
