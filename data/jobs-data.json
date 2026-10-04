@@ -301,33 +301,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-08-20T02:24:16.000Z"
   },
-  "dae84baf116d6190ae42facf907924128b5b4b5c": {
-    "title": "Werkstudent Cyber Risk & Compliance (m/w/d)",
-    "company": "Neptune Energy Deutschland",
-    "locationRaw": "Hannover",
-    "url": "https://www.arbeitnow.com/jobs/companies/neptune-energy-deutschland/werkstudent-cyber-risk-compliance-hannover-159469",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "IT / Security"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-20T02:10:30.000Z"
-  },
-  "e308a2089fb71f486a70b53ca3135f5bcd53b30f": {
-    "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
-    "company": "Liveeo Gmbh",
-    "locationRaw": "LiveEO GmbH Berlin Office (Hybrid)",
-    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-257623",
-    "categories": [
-      "Remote",
-      "Hybrid",
-      "Mid-level",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-20T02:10:00.000Z"
-  },
   "fbc69e65510e30cfd17411326d4c40710067a6b1": {
     "title": "Software Development Engineer",
     "company": "AnyVan",
@@ -108409,5 +108382,77 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-03T16:40:04.000Z"
+  },
+  "8b88ed266fa3f884d982a82c9a472a59124324fc": {
+    "title": "Senior MS Dynamics Business Central Developer (m/f/d)",
+    "company": "Westwing Group SE",
+    "locationRaw": "Munich Office",
+    "url": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-ms-dynamics-business-central-developer-munich-office-132227",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-03T17:09:57.000Z"
+  },
+  "d730cf635daf8f31acae7a1c999e8b88d3c0fdc1": {
+    "title": "Principal Software Engineer (Hybrid)",
+    "company": "8Thlightrebuild",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-269993",
+    "categories": [
+      "Hybrid",
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-04T00:55:12.000Z"
+  },
+  "09c799fcc6eb7341ae2fb4dca7c66e214918d20e": {
+    "title": "Lead Software Engineer (Hybrid)",
+    "company": "8Thlightrebuild",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-451791",
+    "categories": [
+      "Hybrid",
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-04T00:55:12.000Z"
+  },
+  "98a66c84ec95fa988463979f5313e850638b9169": {
+    "title": "Dedicated Support Engineer - London",
+    "company": "Openai",
+    "locationRaw": "London, UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/dedicated-support-engineer-london-363290",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-04T00:40:08.000Z"
+  },
+  "b08a9af7fd6db0f1e3fbf8cd72f52a3665f2301f": {
+    "title": "Business Development Representative - UK",
+    "company": "Pandektes",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pandektes/business-development-representative-uk-london-244206",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-04T00:40:04.000Z"
   }
 }
