@@ -544,34 +544,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-08-27T09:40:31.000Z"
   },
-  "b8c90cb10f48d5e30a508ff9842f4e013d2f5f0a": {
-    "title": "Senior ServiceNow Engineer",
-    "company": "Baringa",
-    "locationRaw": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-senior-servicenow-engineer-244229",
-    "categories": [
-      "Remote",
-      "UK",
-      "Europe",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-27T03:55:25.000Z"
-  },
-  "7ee4fc681217ad31349b24d6905aa8f8009c9348": {
-    "title": "Senior Quality & Test Lead - Telecoms",
-    "company": "Cambridgeconsultantslimited",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/senior-quality-test-lead-telecoms-490201",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-27T03:55:19.000Z"
-  },
   "1235750d89474dbba448f7f100804453f21e7395": {
     "title": "Software Engineer, Platform - Stuttgart, Germany",
     "company": "Speechify",
@@ -115199,5 +115171,132 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-10T20:40:07.000Z"
+  },
+  "6f64d1d5e698bb2e309617b6ff1fd8ed44c3239e": {
+    "title": "AI Platform Engineer (m/f/d)",
+    "company": "raisin",
+    "locationRaw": "Berlin, Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/raisin/ai-platform-engineer-berlin-berlin-91789",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:55:12.000Z"
+  },
+  "a3d5f9b18c5ac093a3e4815081195b676180142d": {
+    "title": "Senior Solutions Engineer (DACH), Firefox Enterprise",
+    "company": "mozilla",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-solutions-engineer-dach-firefox-enterprise-55314",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:55:05.000Z"
+  },
+  "9a66422b1f8eb1edda11354e8a7526120ab004fb": {
+    "title": "Forward Deployed Engineer AI Inference",
+    "company": "Lyceum",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/lyceum/forward-deployed-engineer-ai-inference-berlin-47198",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:40:14.000Z"
+  },
+  "60f3bccc1496a22e24c3b98a6cb4252495992c79": {
+    "title": "AI Deployment Strategist – MedTech Quality Management",
+    "company": "Rematiq Gmbh",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/ai-deployment-strategist-medtech-quality-management-berlin-378950",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:40:13.000Z"
+  },
+  "e5ebfd1ad3c432a6ea61a95c13fe9ea24653de20": {
+    "title": "AI Deployment Strategist – MedTech Regulatory Affairs",
+    "company": "Rematiq Gmbh",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/ai-deployment-strategist-medtech-regulatory-affairs-berlin-144686",
+    "categories": [
+      "Hybrid",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:40:13.000Z"
+  },
+  "0b6d5592709da841c31b6cfa598dd5d7629d4db2": {
+    "title": "Full Stack Developer (m/w/d)",
+    "company": "Dehoga Baden-Württemberg",
+    "locationRaw": "Stuttgart",
+    "url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-22007",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:09:59.000Z"
+  },
+  "81efa69306fbd11b552f9df7e2491bdbd9d3ae36": {
+    "title": "Business Analyst (m/w/d) - auch für Berufseinsteiger",
+    "company": "Fahrrad Xxl De",
+    "locationRaw": "Dresden",
+    "url": "https://www.arbeitnow.com/jobs/companies/fahrrad-xxl-de/business-analyst-auch-fur-berufseinsteiger-dresden-159795",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:09:55.000Z"
+  },
+  "a5232362f2f01715907479ef322dae6c9d4617b6": {
+    "title": "(Senior) CRM Manager (f/m/d)",
+    "company": "JUIT GmbH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/juit-gmbh/senior-crm-manager-berlin-51968",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:09:30.000Z"
+  },
+  "14a859fd70b622c0f53d361109eef69af0050f00": {
+    "title": "Platform Engineer (m/w/d) Prototypen & KI-gestützte Produktentwicklung",
+    "company": "Becker Büttner Held PartGmbB",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/becker-buttner-held-partgmbb/platform-engineer-prototypen-ki-gestutzte-produktentwicklung-berlin-180418",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-11T02:09:17.000Z"
   }
 }
