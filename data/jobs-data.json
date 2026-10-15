@@ -1,139 +1,4 @@
 {
-  "e6dae4768cce4973dad16d4d616b1150c9b20e0b": {
-    "title": "Working Student Customer Care (m/f/d)",
-    "company": "Chrono24",
-    "locationRaw": "Karlsruhe",
-    "url": "https://www.arbeitnow.com/jobs/companies/chrono24/working-student-customer-care-karlsruhe-205112",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-30T23:09:21.000Z"
-  },
-  "07331bf4d541051000e7a8d559a1493902d96277": {
-    "title": "Maintenance System Engineering Intern",
-    "company": "Tozero",
-    "locationRaw": "Munich HQ (Karlsfeld)",
-    "url": "https://www.arbeitnow.com/jobs/companies/tozero/maintenance-system-engineering-intern-munich-hq-karlsfeld-156560",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Internship",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-30T23:09:14.000Z"
-  },
-  "d58a431b3dd80c4510aa460ed5e1c1f584a82d4f": {
-    "title": "Head of Integrity Data and Innovations (m-f-d)",
-    "company": "Fsc",
-    "locationRaw": "Bonn, Germany (Hybrid)",
-    "url": "https://www.arbeitnow.com/jobs/companies/fsc/head-of-integrity-data-and-innovations-m-f-d-bonn-germany-hybrid-166030",
-    "categories": [
-      "Hybrid",
-      "Europe",
-      "Senior",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-30T23:09:10.000Z"
-  },
-  "ee22580a9f81a5bceb3c3f0199e4a34144ff827b": {
-    "title": "Engineering Lead",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-lead-london-464473",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend",
-      "Backend"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-31T00:40:11.000Z"
-  },
-  "db92b76f7496b226144719bdf8a20e459b9f7e1e": {
-    "title": "Technical Lead",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-lead-london-83306",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend",
-      "Backend"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-31T00:40:11.000Z"
-  },
-  "cf217ec7f7be3cd6f9c30f62b119e7a0fc231564": {
-    "title": "Principal Software Engineer",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/principal-software-engineer-london-46993",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-31T00:40:11.000Z"
-  },
-  "e542281a2ca61b46cf4ed1dcd92f60f8c5ed2d5e": {
-    "title": "Lead Software Engineer",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-software-engineer-london-155087",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-31T00:40:11.000Z"
-  },
-  "5675b905d685f3ef4d1e7d90db942456f5233d03": {
-    "title": "Staff Software Engineer",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/staff-software-engineer-london-432971",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-31T00:40:11.000Z"
-  },
-  "ed6d4e7fd6a5478f85b0eef7a89f379d6912baed": {
-    "title": "Technical Product Manager - AI Finance App",
-    "company": "Bjak",
-    "locationRaw": "United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-finance-app-london-239660",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "QA / Testing",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-08-31T00:40:11.000Z"
-  },
   "adf8e9da8ef1fee1a1165503a5a0aa329689faa1": {
     "title": "Senior Embedded Software Engineer – Real-Time Flight Software (m/f/d)",
     "company": "TYTAN Technologies GmbH",
@@ -120261,5 +120126,343 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-14T20:32:33.000Z"
+  },
+  "00950edce90764618170edce8b2f224195898866": {
+    "title": "Internal Context Engineer",
+    "company": "N8N",
+    "locationRaw": "Berlin Office",
+    "url": "https://www.arbeitnow.com/jobs/companies/n8n/internal-context-engineer-berlin-422357",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:27.000Z"
+  },
+  "52cc0fc243eea4b62d8c0d96ba0d656fb825ec96": {
+    "title": "Sr Security Engineer | Remote | Europe",
+    "company": "N8N",
+    "locationRaw": "Berlin Office",
+    "url": "https://www.arbeitnow.com/jobs/companies/n8n/sr-security-engineer-remote-europe-berlin-198654",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:26.000Z"
+  },
+  "dbf9419abe0ab0939ad3fdedc96262d7fc654af2": {
+    "title": "Public Affairs, Head of Germany",
+    "company": "Mistral.ai",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/mistralai/public-affairs-head-of-germany-berlin-275593",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:26.000Z"
+  },
+  "776cb630d89a2a495e8548b6b6f7bfb8da4d4aa1": {
+    "title": "Elektriker:in / Techniker:in (alle Geschlechter)",
+    "company": "væridion",
+    "locationRaw": "Manufacturing & Testing Facility",
+    "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/elektrikerin-technikerin-alle-geschlechter-gauting-50328",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:19.000Z"
+  },
+  "dee07f7a560a53b186d582a5c70017d7226257cb": {
+    "title": "Battery Assembly Electrician / Technician (all genders)",
+    "company": "væridion",
+    "locationRaw": "Manufacturing & Testing Facility",
+    "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/battery-assembly-electrician-technician-all-genders-gauting-91123",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:19.000Z"
+  },
+  "4701948faed6cfa623f42960f2d010817ec8b8c5": {
+    "title": "Satellite Systems Engineer (m/w/d), Space & Defense Industry",
+    "company": "CTG Consulting GmbH",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/ctg-consulting-gmbh/satellite-systems-engineer-space-defense-industry-munich-325039",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T22:30:37.000Z"
+  },
+  "434bf4a2dc5759fd2ab5580dabfba584d16530aa": {
+    "title": "Database Engineer I",
+    "company": "Axs",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/axs/database-engineer-i-london-42123",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:55:34.000Z"
+  },
+  "77616b4d01406690d2bf47d75ee1c9ea3722f4ee": {
+    "title": "Senior Software Engineer - Low Level GPU",
+    "company": "sonyinteractiveentertainmentglobal",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-software-engineer-low-level-gpu-london-370301",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:55:33.000Z"
+  },
+  "fd9c5b442fd57bcaac9ff11dbf612bf2615a0240": {
+    "title": "2027 Graduate Software Engineer - Healthcare (2027 start)",
+    "company": "Cambridgeconsultantslimited",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/2027-graduate-software-engineer-healthcare-2027-start-477693",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:55:31.000Z"
+  },
+  "06f8e91995256793a7627d0765d149936ac3f124": {
+    "title": "Director of Security Assurance & Trust",
+    "company": "Collibra",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/collibra/director-of-security-assurance-trust-london-236424",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:55:31.000Z"
+  },
+  "f36e81f3b213fec19e4a325411443c9e17892d61": {
+    "title": "Staff Software Engineer",
+    "company": "Liftoff",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/liftoff/staff-software-engineer-london-167389",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:55:27.000Z"
+  },
+  "fca9c9d5854ed1dfaa9c2fe73c52b214ea9ffe6a": {
+    "title": "Senior AI Engineer, Location AI",
+    "company": "Mapbox",
+    "locationRaw": "Mapbox UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mapbox/senior-ai-engineer-location-ai-mapbox-uk-66299",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:23.000Z"
+  },
+  "71a27533294e866d77be7d6609eab397b13029f2": {
+    "title": "Founding UI/UX Designer, Unannounced Game",
+    "company": "Supercell",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/supercell/founding-ui-ux-designer-unannounced-game-london-349836",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:22.000Z"
+  },
+  "b003ad4a6ce16ba0adfd6dbda3238289a3521ff8": {
+    "title": "Principal Product Manager, Partner Integrations",
+    "company": "Senior Software Engineer (Typescript / Backend) - AI/ML",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/principal-product-manager-partner-integrations-united-kingdom-230492",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:21.000Z"
+  },
+  "938f9958e747743472437b1a25c8fa55827fc108": {
+    "title": "Senior Field Marketing Manager, UKI",
+    "company": "Senior Software Engineer (Typescript / Backend) - AI/ML",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-software-engineer-typescript-backend-aiml/senior-field-marketing-manager-uki-united-kingdom-325288",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:21.000Z"
+  },
+  "f35c0d2ac1b589e3f27581b6f6a821cfbe7d8cd6": {
+    "title": "Engineer I, Finance Technology (Workday Financials)",
+    "company": "Checkout.com",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/engineer-i-finance-technology-workday-financials-london-80431",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:21.000Z"
+  },
+  "b919108688fdc549f94bdb34ee411b62db6324cc": {
+    "title": "Front end Engineer",
+    "company": "Checkout.com",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/front-end-engineer-london-230080",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:21.000Z"
+  },
+  "e4c13ae58a4313e63bb78764927e15c26a29a7a9": {
+    "title": "Senior Finance Systems Accountant",
+    "company": "Oviva",
+    "locationRaw": "Remote UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/oviva/remote-senior-finance-systems-accountant-103614",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:19.000Z"
+  },
+  "dc545a40af0b8580ee3e234c49794f10098f2f72": {
+    "title": "Product Designer",
+    "company": "Getscope",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/getscope/product-designer-london-496474",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:19.000Z"
+  },
+  "876d3be59f3fe314c4d11f3220a1ac7aa00e6b62": {
+    "title": "Research Engineer, GPU Performance",
+    "company": "Mistral.ai",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/research-engineer-gpu-performance-paris-186056",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:22.000Z"
+  },
+  "e1a228c19bf0b43b1e45ef15cbad047e2cd94808": {
+    "title": "Stagiaire Conception CAO & protoypage mécatronique",
+    "company": "Alta Ares",
+    "locationRaw": "Toulouse",
+    "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/stagiaire-conception-cao-protoypage-mecatronique-blagnac-169848",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T23:40:21.000Z"
+  },
+  "4ad8585826226be59fae6dfb6738648a55cd13df": {
+    "title": "Software Engineer Intern - Financial Services",
+    "company": "Mirakl - Labs",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Internship",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T22:45:30.000Z"
+  },
+  "9ba184e5332c45c9b168cf7224096d30e62ce3aa": {
+    "title": "Software Engineer Apprentice - Connect",
+    "company": "Mirakl - Labs",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-apprentice-connect-paris-150457",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-14T22:45:30.000Z"
   }
 }
