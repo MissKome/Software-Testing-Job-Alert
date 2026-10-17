@@ -223,76 +223,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-09-02T08:00:26.000Z"
   },
-  "b048aad26db94deede4c909a6ede8a43e9ca46fd": {
-    "title": "Sr. Manager, AI Forward Deployed Engineering (AI-FDE)",
-    "company": "databricks",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-manager-ai-forward-deployed-engineering-ai-fde-munich-364751",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Senior",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-02T05:55:15.000Z"
-  },
-  "36447078868d6acef676aa1c5ee683da38299043": {
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "company": "databricks",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/databricks/ai-engineer-fde-forward-deployed-engineer-munich-117849",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-02T05:55:15.000Z"
-  },
-  "ae80d0b1690ce8f0d13b581e1d71e8f221573af4": {
-    "title": "Fullstack Software Engineer - Core",
-    "company": "dataiku",
-    "locationRaw": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
-    "categories": [
-      "Remote",
-      "Mid-level",
-      "Full-stack",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-02T05:55:10.000Z"
-  },
-  "7a8a2327f773e6b698e01e89aca20584b78d6005": {
-    "title": "Senior Staff Product Manager, Browser Control Platform",
-    "company": "mozilla",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-staff-product-manager-browser-control-platform-397767",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-02T05:55:08.000Z"
-  },
-  "394eeabdb13f0d155f2f27131ef7b9c39f3fe59e": {
-    "title": "Technical Product Manager - AI Stockbroking",
-    "company": "Bjak",
-    "locationRaw": "Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-ai-stockbroking-germany-428285",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-02T05:40:05.000Z"
-  },
   "0aeb1d72e81b3cf2554d6ad5864b74052f4fa725": {
     "title": "Senior DevOps Engineer",
     "company": "Localstack",
@@ -321,37 +251,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-02T09:40:12.000Z"
-  },
-  "59d421fc00aea9ede788fe656b407ed9aa304d75": {
-    "title": "Technical Lead",
-    "company": "Sandtechholdingslimited",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sandtechholdingslimited/technical-lead-118498",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Europe",
-      "Africa",
-      "Senior",
-      "Full-stack"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-02T03:55:14.000Z"
-  },
-  "e368913b4ba67d9054185883283fa9b65642ad48": {
-    "title": "Software Engineer - Frontend (React / React Native)",
-    "company": "Fanduel",
-    "locationRaw": "Edinburgh",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-frontend-react-react-native-edinburgh-328067",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Frontend",
-      "Mobile",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-02T03:55:13.000Z"
   },
   "2fc4337e30800c2235af427585fcda5e60c5ecf0": {
     "title": "Werkstudent:in - Cloud & DevOps Engineer (Azure)",
@@ -123921,5 +123820,643 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-16T23:55:21.000Z"
+  },
+  "bf131415f014e9d9c745f7429a9e046b6ebd1962": {
+    "title": "DSP Engineer - Werkstudent",
+    "company": "Axon",
+    "locationRaw": "Kassel, Hesse",
+    "url": "https://www.arbeitnow.com/jobs/companies/axon/dsp-engineer-werkstudent-kassel-hesse-74152",
+    "categories": [
+      "Hybrid",
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:16.000Z"
+  },
+  "b74bae85e9dac310cd718ef2c75e8c086ab163d1": {
+    "title": "Senior Test Automation Engineer",
+    "company": "Keyfactorinc",
+    "locationRaw": "Aachen",
+    "url": "https://www.arbeitnow.com/jobs/companies/keyfactorinc/senior-test-automation-engineer-aachen-266252",
+    "categories": [
+      "Hybrid",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:14.000Z"
+  },
+  "44cf0e9edbbaf978c0faba7aa9c604aba256960c": {
+    "title": "Engineering Manager – Robot Intelligence",
+    "company": "RobCo",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/robco/engineering-manager-robot-intelligence-munich-433028",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Full-stack",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:31.000Z"
+  },
+  "5babdff2a90aaf4f431a804cdc1064e43ab5c1c0": {
+    "title": "Senior QA Engineer - Berlin",
+    "company": "Resident Advisor",
+    "locationRaw": "Berlin, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/resident-advisor/senior-qa-engineer-berlin-153034",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:20:17.000Z"
+  },
+  "d2046074436f31b482e0e4516ded40666db38fd7": {
+    "title": "Senior Product Manager",
+    "company": "Verve",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/verve/senior-product-manager-london-12844",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:18.000Z"
+  },
+  "7c44e9d2e113f8f2df9a40f2a6e07f35179c80ee": {
+    "title": "UX Product Designer",
+    "company": "Archer56",
+    "locationRaw": "South East Hampshire",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/archer56/ux-product-designer-south-east-hampshire-174993",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Mobile",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:17.000Z"
+  },
+  "b7913daa3221d5ab2b77f4c28130b8f134c427a8": {
+    "title": "Talent Acquisition Lead",
+    "company": "84674Th44Metrea9999",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/talent-acquisition-lead-london-220838",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:15.000Z"
+  },
+  "90e515a5b23a0a2d2fbb87097c7f8d33abf21140": {
+    "title": "Senior Software Engineer in Build Engineering",
+    "company": "Graphcore",
+    "locationRaw": "Cambridge",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-cambridge-132308",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:15.000Z"
+  },
+  "719298d2d242df2ab8715330a062db0af495ea53": {
+    "title": "Senior Software Engineer in Build Engineering",
+    "company": "Graphcore",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-bristol-30704",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:15.000Z"
+  },
+  "d56428d3cd19ff815273377a6a6dd93a59f8e3e2": {
+    "title": "Senior Software Engineer in Build Engineering",
+    "company": "Graphcore",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-94528",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:55:15.000Z"
+  },
+  "df06c3e6c1f2c00ad4ad12b0d84e4aa2d26f74ef": {
+    "title": "Policy Manager",
+    "company": "Plaid",
+    "locationRaw": "GBR - LON Metro",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/plaid/policy-manager-london-96915",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Canada",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:33.000Z"
+  },
+  "35f7a29a34abb06d6b6eefdad73b74b0639f4105": {
+    "title": "Developer Portal & Community Manager",
+    "company": "Flipper",
+    "locationRaw": "London Office",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/flipper/developer-portal-community-manager-london-83158",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:32.000Z"
+  },
+  "eb066ccc8aab39d1f09edf55b053ded37ad04a20": {
+    "title": "Applied ML Technical Lead, Defence",
+    "company": "Cosine",
+    "locationRaw": "London Office",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cosine/applied-ml-technical-lead-defence-london-311018",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:32.000Z"
+  },
+  "2660caace3daf06bc23745abe4fe0e31257b18c4": {
+    "title": "Machine Learning Engineer – Lumen Enterprise Models (SWE-focused LLMs)",
+    "company": "Cosine",
+    "locationRaw": "London Office",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cosine/machine-learning-engineer-lumen-enterprise-models-swe-focused-llms-london-467732",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:32.000Z"
+  },
+  "7b279f4b5a6fd8ec42018f98216ecd2cb75b9f0b": {
+    "title": "Engineering Manager",
+    "company": "Radiant",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/engineering-manager-london-10285",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Senior",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:31.000Z"
+  },
+  "3ea60bb3bebdd18d3b0a2db72db0c809a76e2bf7": {
+    "title": "AI Deployment Lead",
+    "company": "Omnea",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/ai-deployment-lead-london-18533",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:31.000Z"
+  },
+  "7e859c361f86127961b962ab167f1e48a0963171": {
+    "title": "AI Solutions Lead",
+    "company": "Omnea",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/ai-solutions-lead-london-18150",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:31.000Z"
+  },
+  "bcd50235bcaef1799cf86f0a05b23817043ec295": {
+    "title": "Frontend Engineering Lead",
+    "company": "Omnea",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineering-lead-london-87291",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:31.000Z"
+  },
+  "c9343e1401551dafabcaa92870c9dbe9caa8a68c": {
+    "title": "Senior Data Engineer",
+    "company": "Xyz Reality",
+    "locationRaw": "London Office",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-data-engineer-london-213866",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:30.000Z"
+  },
+  "b4284d230db7bd3ac0319b21e84663cf2c81fb64": {
+    "title": "Product Designer",
+    "company": "Creativex",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/creativex/product-designer-london-105391",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:55:22.000Z"
+  },
+  "f298fdcc262e64702e653b7ee687f6890b50e8eb": {
+    "title": "AppSec Staff Engineer",
+    "company": "Kaluza",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/appsec-staff-engineer-bristol-333394",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:55:22.000Z"
+  },
+  "9d12094b0ee294471009692f8fc9f2b54d1eec79": {
+    "title": "Senior Manager, HR Operations",
+    "company": "Hudl",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-manager-hr-operations-london-81451",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:55:20.000Z"
+  },
+  "2a68977a2e97baac2aa648664c7b49d975f4f232": {
+    "title": "Senior Product Manager - Unannounced Project",
+    "company": "Zyngacareers",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-product-manager-unannounced-project-london-345589",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:55:20.000Z"
+  },
+  "783b1adfdbefdc1ae85016ff3a114e96bacf6406": {
+    "title": "Senior Producer - Unannounced Project",
+    "company": "Zyngacareers",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-producer-unannounced-project-london-258197",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:55:20.000Z"
+  },
+  "9451f3576ef45e770aef5389c9c537db42fbcf95": {
+    "title": "Senior Lead, ServiceNow ITOM",
+    "company": "Taketwo",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/taketwo/senior-lead-servicenow-itom-london-174254",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:55:18.000Z"
+  },
+  "86ebb171c980a786006f44ff91c18120b03a23e7": {
+    "title": "3D Reconstruction Research Scientist/Engineer",
+    "company": "Niantic Spatial",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/niantic-spatial/3d-reconstruction-research-scientist-engineer-london-480945",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:35.000Z"
+  },
+  "81e3e568b7c78c0d85fbe8fe40f447470c58405b": {
+    "title": "Turkey Content Specialist",
+    "company": "Amo",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/amo/turkey-content-specialist-paris-50135",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:34.000Z"
+  },
+  "e022b007c1c82560abeb02471220f47620425e48": {
+    "title": "GTM & Strategy Analyst",
+    "company": "Meetdavis",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/meetdavis/gtm-strategy-analyst-paris-347536",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:37.000Z"
+  },
+  "2ee7429d608d0f3485f41844ee48690098c3455f": {
+    "title": "Staff Mechanical Engineer",
+    "company": "Ledger",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/ledger/staff-mechanical-engineer-paris-226449",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:35.000Z"
+  },
+  "ef5032c85143073922f526eeaed5e974563db3a1": {
+    "title": "Digital Manager",
+    "company": "Hcompany",
+    "locationRaw": "Hybrid Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/digital-manager-paris-65716",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:34.000Z"
+  },
+  "7eba39548d1e0691845e782cf086e8eea8d50ea6": {
+    "title": "Content Manager",
+    "company": "Hcompany",
+    "locationRaw": "Hybrid Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/content-manager-paris-126345",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:34.000Z"
+  },
+  "889836c6ca09ff51065028aca6de43353e1d0703": {
+    "title": "Social Media and Content Strategist - Community",
+    "company": "Hcompany",
+    "locationRaw": "Hybrid Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/social-media-and-content-strategist-community-paris-49907",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "USA",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:34.000Z"
+  },
+  "167f4200d57d55a032df3353549d622802f3733f": {
+    "title": "Product Safety & Certification Engineer - Fuel Cell Systems",
+    "company": "Eh Group",
+    "locationRaw": "Nyon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/product-safety-certification-engineer-fuel-cell-systems-nyon-112986",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:34.000Z"
+  },
+  "debd89ba1f07990d8f7950534e1408d2697f03c2": {
+    "title": "Functional Safety Engineer - Hydrogen & Energy Systems",
+    "company": "Eh Group",
+    "locationRaw": "Nyon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/functional-safety-engineer-hydrogen-energy-systems-nyon-414666",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:34.000Z"
+  },
+  "f4c0fe2579c72854104a727b0e214f4c507f1449": {
+    "title": "Safety Engineer (HARA / FMEDA / SIL) - Fuel Cell Systems",
+    "company": "Eh Group",
+    "locationRaw": "Nyon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/safety-engineer-hara-fmeda-sil-fuel-cell-systems-nyon-67695",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:34.000Z"
+  },
+  "0c5c3b5935b0dd2beef83d045b4a1b1fa777d066": {
+    "title": "Ingenieur Funktionale Sicherheit - Brennstoffzellensysteme",
+    "company": "Eh Group",
+    "locationRaw": "Nyon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/ingenieur-funktionale-sicherheit-brennstoffzellensysteme-nyon-228988",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:34.000Z"
+  },
+  "d36578eff7ae67fe0b82f5766038992c8f582d27": {
+    "title": "Functional Safety Engineer - Fuel Cell Systems",
+    "company": "Eh Group",
+    "locationRaw": "Nyon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/functional-safety-engineer-fuel-cell-systems-nyon-442200",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:34.000Z"
+  },
+  "1062ec3013ae909185582bf67a9a525031f8d599": {
+    "title": "Ingénieur Sécurité Fonctionnelle - Piles à Combustible",
+    "company": "Eh Group",
+    "locationRaw": "Nyon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/ingenieur-securite-fonctionnelle-piles-a-combustible-nyon-3080",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:34.000Z"
+  },
+  "84b21b6dd3e8884d6811a99265cce8878eefa139": {
+    "title": "Junior Product Designer - UI/UX",
+    "company": "Ethon",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/ethon/junior-product-designer-ui-ux-zurich-299042",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:37.000Z"
+  },
+  "06274f0241151c463dfeaf51b516f2a8d3336aa9": {
+    "title": "Production Engineer",
+    "company": "Monumental",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/monumental/production-engineer-amsterdam-384813",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T05:40:33.000Z"
+  },
+  "1d479e3b989299aaa0d45b1dda0c628f4cd45a5f": {
+    "title": "Group Product Manager",
+    "company": "Prosus",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/prosus/group-product-manager-amsterdam-138407",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:35.000Z"
+  },
+  "6d06496815397e935f81a7cbbe3781e7d5d674da": {
+    "title": "Project Manager (mid)",
+    "company": "Wearebeyondsports",
+    "locationRaw": "Alkmaar",
+    "url": "https://www.arbeitnow.nl/jobs/companies/wearebeyondsports/project-manager-mid-alkmaar-106567",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-17T02:40:34.000Z"
   }
 }
