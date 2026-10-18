@@ -873,94 +873,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-09-04T00:40:05.000Z"
   },
-  "bc331484efc62092d0af28a993028a5053e5746a": {
-    "title": "Senior UX Designer - Star Trek Fleet Command",
-    "company": "Scopely",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-ux-designer-star-trek-fleet-command-44617",
-    "categories": [
-      "Remote",
-      "UK",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T21:55:24.000Z"
-  },
-  "e7e6e5cac504ce61fed5d088b9fac8feee8b122a": {
-    "title": "Senior Ecommerce Manager – Commercial Trading & Strategy",
-    "company": "Thgingenuity",
-    "locationRaw": "Manchester",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/senior-ecommerce-manager-commercial-trading-strategy-manchester-218211",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T21:55:03.000Z"
-  },
-  "111b8bd87ca02818ff49cff6ebab5855af4d29cf": {
-    "title": "Senior Product Manager (Giftcard)",
-    "company": "Atolls",
-    "locationRaw": "London, England, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/senior-product-manager-giftcard-london-231979",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Europe",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T21:45:27.000Z"
-  },
-  "78d02e9498b5953c5b5b573dde83c1cbe145d573": {
-    "title": "Senior Product Designer",
-    "company": "Deepl",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-product-designer-london-151911",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T21:40:12.000Z"
-  },
-  "f0c07f1e97ab704ec554e45cbf4f202a55e8eb67": {
-    "title": "Senior Product Manager",
-    "company": "Mubi",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-product-manager-london-195200",
-    "categories": [
-      "Remote",
-      "Hybrid",
-      "UK",
-      "USA",
-      "Junior",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T21:40:10.000Z"
-  },
-  "4c680ce781eae9428cc7aaffd6282170cb731522": {
-    "title": "Data Analyst (Credit)",
-    "company": "Octopus Energy Group",
-    "locationRaw": "London (GB)",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/data-analyst-credit-london-gb-139731",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Mid-level",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T21:04:56.000Z"
-  },
   "b8d297259a0fb0f8ad9be2048e82198a6bafed2d": {
     "title": "Machine Learning Engineer (m/f/x)",
     "company": "caronsale",
@@ -126319,5 +126231,488 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-18T17:31:16.000Z"
+  },
+  "9f0cb942e6f56c42aa1027a446f2a35eedba5d69": {
+    "title": "(Junior) Product Manager & Venture Builder (m/w/d) – AI & Tech",
+    "company": "VT Netzwelt GmbH",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/vt-netzwelt-gmbh/junior-product-manager-venture-builder-ai-tech-berlin-497683",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:55.000Z"
+  },
+  "3ea16482d18b5e8d45c8c1ac40e7c2f9d4ddeaa1": {
+    "title": "Full-Stack & Mobile Engineer",
+    "company": "NAIRON",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Junior",
+      "Mid-level",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "Full-stack",
+      "DevOps",
+      "Mobile",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:30:58.000Z"
+  },
+  "b9567a9d89db445267fd3412f3ff3bf2b7c76d44": {
+    "title": "Voice AI Engineer",
+    "company": "NAIRON",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/nairon/voice-ai-engineer-berlin-373637",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:30:58.000Z"
+  },
+  "151d705e3c1262d781819c155594672c09457fb1": {
+    "title": "Forward Deployed Engineer",
+    "company": "NAIRON",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/nairon/forward-deployed-engineer-berlin-454478",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:30:58.000Z"
+  },
+  "c86cb2aa2ea7168a77274666b14d1d3486b4c2f8": {
+    "title": "Principal Implementation Engineer, Customer Support",
+    "company": "Bitwarden",
+    "locationRaw": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bitwarden/remote-principal-implementation-engineer-customer-support-16446",
+    "categories": [
+      "Remote",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:55:36.000Z"
+  },
+  "b5967b6388928b9f9e0fc625f371660aeda69184": {
+    "title": "Revenue Operations Associate",
+    "company": "Omnea",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/revenue-operations-associate-london-222630",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Junior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:40:31.000Z"
+  },
+  "337b6c66f9b68068faa51d5b14b25482c9298c6b": {
+    "title": "Chief Engineer Operations H/F",
+    "company": "Is@talent",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/is-at-talent/chief-engineer-operations-h-f-paris-259937",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:55.000Z"
+  },
+  "67e7751500aada2c2c1244d5eead4bc2900abdcc": {
+    "title": "Consultant Growth SEA/SMA - CDI - Hybride",
+    "company": "Leverage",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/leverage/consultant-growth-sea-sma-cdi-hybride-paris-450329",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:54.000Z"
+  },
+  "f0d42de511ee2db87183b3c667cce5efea3c33ad": {
+    "title": "Performance Manager - CDI - Hybride (H/F)",
+    "company": "Leverage",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/leverage/performance-manager-cdi-hybride-h-f-paris-273574",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:54.000Z"
+  },
+  "1998950bcffea9465d5ac7817293eef6afe9e920": {
+    "title": "Social Media Manager Stage",
+    "company": "Sanoflore",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/sanoflore/social-media-manager-stage-paris-283320",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:47.000Z"
+  },
+  "78f77ee4d87a22eb456a7e0519e861a1ef4b878e": {
+    "title": "Product Owner AEM Assets",
+    "company": "CreativLink",
+    "locationRaw": "Rueil-Malmaison",
+    "url": "https://www.arbeitnow.fr/jobs/companies/creativlink/product-owner-aem-assets-rueil-malmaison-125678",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:44.000Z"
+  },
+  "2fcdb725d5ad1a2e34643a1afa648ae32833ace2": {
+    "title": "Technicien Réseaux & Télécom Itinérant (H/F)",
+    "company": "AZURREO",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/azurreo/technicien-reseaux-telecom-itinerant-h-f-paris-466825",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:44.000Z"
+  },
+  "52fa782897cc524fdbc97ea1c9bd2f04082306a7": {
+    "title": "UX/UI Designer",
+    "company": "O'CD",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:31:04.000Z"
+  },
+  "4f2de029191ab6c4396de9ba60c3b564d8f65892": {
+    "title": "Growth Product Manager",
+    "company": "Wink",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/wink/growth-product-manager-paris-438713",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:31:01.000Z"
+  },
+  "9fc238558ba1205d56ce43058853387adc0e5b84": {
+    "title": "Ingénieur(e) d'affaires - B2B",
+    "company": "Ecklo",
+    "locationRaw": "Nanterre",
+    "url": "https://www.arbeitnow.fr/jobs/companies/ecklo/ingenieure-daffaires-b2b-nanterre-7861",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:31:00.000Z"
+  },
+  "d2d4364d75b2fa02e809e67f0d72f734e3ee2190": {
+    "title": "Sales Representative & Business Developer – Austrian Market",
+    "company": "OOOVATION",
+    "locationRaw": "Yssingeaux",
+    "url": "https://www.arbeitnow.fr/jobs/companies/ooovation/sales-representative-business-developer-austrian-market-yssingeaux-154147",
+    "categories": [
+      "Remote",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:30:59.000Z"
+  },
+  "2ab53e56552b1f93c99b38b4836315fee1567463": {
+    "title": "Sales Representative & Business Developer – Dutch Market",
+    "company": "OOOVATION",
+    "locationRaw": "Yssingeaux",
+    "url": "https://www.arbeitnow.fr/jobs/companies/ooovation/sales-representative-business-developer-dutch-market-yssingeaux-106672",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:30:57.000Z"
+  },
+  "2c3051fc540e1e262c0ce2592b63e4e4d91acc66": {
+    "title": "Service Technician",
+    "company": "Ananda B.V.",
+    "locationRaw": "Machecoul-Saint-Même",
+    "url": "https://www.arbeitnow.fr/jobs/companies/ananda-bv/service-technician-machecoul-saint-meme-313094",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T19:30:49.000Z"
+  },
+  "19eaebbbfcf4c9670bac8e1ddc9aa254eb413716": {
+    "title": "Risiko Analyst Lombardkredite",
+    "company": "coni+partner AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/risiko-analyst-lombardkredite-zurich-316681",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:53.000Z"
+  },
+  "35082e49a374108795cd9b6c76cf81ac33257dd9": {
+    "title": "Engineer Systems Integration / Avaloq",
+    "company": "coni+partner AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/engineer-systems-integration-avaloq-zurich-205309",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:52.000Z"
+  },
+  "ab5a00a745a4cad959e3427d21aa8d473da8f92b": {
+    "title": "Finance Specialist Risk & Performance UCITS/IAF",
+    "company": "coni+partner AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/finance-specialist-risk-performance-ucits-iaf-zurich-426413",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:52.000Z"
+  },
+  "6591e8792be27450a10d7a6cddf2ae11877ca236": {
+    "title": "Senior Python Backend Engineer – OpenShift / API Integration / GenAI",
+    "company": "PROSTAFF Schweiz GmbH",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-python-backend-engineer-openshift-api-integration-genai-zurich-481967",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Backend",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:51.000Z"
+  },
+  "c88f6d781469dc3815657e7da0de165f28c35b1d": {
+    "title": "Senior Java/Angular Entwickler (m/w/d) - Zahlungsverkehr (Ref.Nr.: 48009)",
+    "company": "Wavestone Germany AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-java-angular-entwickler-zahlungsverkehr-refnr-48009-zurich-175246",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:51.000Z"
+  },
+  "75b341f48d9107c547642517afef8f8a4955dc7c": {
+    "title": "Senior SAP ABAP Developer",
+    "company": "Pertemps ERP",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/pertemps-erp/senior-sap-abap-developer-zurich-408349",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:50.000Z"
+  },
+  "808ef361dc7c5a8b195ae0b110f73fb6ac126071": {
+    "title": "Workplace Operations Engineer (22182)",
+    "company": "IQ Plus AG",
+    "locationRaw": "Baden",
+    "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/workplace-operations-engineer-22182-baden-233266",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:49.000Z"
+  },
+  "e0bd746ac6d1ef552301ebaedbeb378af4417b49": {
+    "title": "Senior System Engineer mit Fokus Datacenter, Network & Firewall (m/w/d)",
+    "company": "itesys AG",
+    "locationRaw": "Frauenfeld",
+    "url": "https://www.arbeitnow.ch/jobs/companies/itesys-ag/senior-system-engineer-mit-fokus-datacenter-network-firewall-frauenfeld-393421",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:49.000Z"
+  },
+  "bbe208766ccb91689d7e7e6446c4b0f751dfa7c6": {
+    "title": "Azure DevOps Engineer",
+    "company": "Coopers Group AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/azure-devops-engineer-zurich-45145",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:49.000Z"
+  },
+  "e758d70ca66706ac23be2f6669bd059a3bb15fbc": {
+    "title": "Technischer Verkaufsingenieur / Sales Engineer Formenbau (m/w/d) MW",
+    "company": "Excellent Go4",
+    "locationRaw": "Pfäffikon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/technischer-verkaufsingenieur-sales-engineer-formenbau-mw-pfaffikon-140754",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:49.000Z"
+  },
+  "ac259451940947a6f00ddc6f1697846a7efe02c0": {
+    "title": "Automation Engineer / Elektrotechniker Anlagenbau (100%) Nr. MW",
+    "company": "Excellent Go4",
+    "locationRaw": "Altdorf",
+    "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automation-engineer-elektrotechniker-anlagenbau-100-nr-mw-altdorf-230943",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:48.000Z"
+  },
+  "17917bf4b704cd7fe313b82babbff39b5da2cd4f": {
+    "title": "PEGA Business Architekt",
+    "company": "Coopers Group AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/pega-business-architekt-zurich-358763",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:47.000Z"
+  },
+  "f58d33a76164785f6de86c85fdd49d01a81fd470": {
+    "title": "Senior Java Backend Entwickler (m/w/d) mit Angular-Kenntnissen (Ref.Nr.: 47987)",
+    "company": "Wavestone Germany AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-java-backend-entwickler-mit-angular-kenntnissen-refnr-47987-zurich-223512",
+    "categories": [
+      "Remote",
+      "Senior",
+      "Frontend",
+      "Backend",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:47.000Z"
+  },
+  "cf7d87f1797d2e1914500800544f5bba6def92a7": {
+    "title": "Senior Applikations- und Integrationsspezialist (m/w/d) (Ref.Nr.: 47986)",
+    "company": "Wavestone Germany AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-applikations-und-integrationsspezialist-refnr-47986-zurich-254578",
+    "categories": [
+      "Remote",
+      "Senior",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:46.000Z"
+  },
+  "6b8bbf9a77405ac6d1b195da0b54cb6ed192226d": {
+    "title": "Senior Azure DevOps Engineer (m/w/d) - GenAI (Ref.Nr.: 47984)",
+    "company": "Wavestone Germany AG",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-azure-devops-engineer-genai-refnr-47984-zurich-499607",
+    "categories": [
+      "Remote",
+      "Senior",
+      "QA / Testing",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:46.000Z"
+  },
+  "ac48f4e5e2874f8b9aa77f544c194a35abd039e1": {
+    "title": "Robotics Diagnostics Engineer",
+    "company": "Sunflower Labs GmbH",
+    "locationRaw": "Stallikon",
+    "url": "https://www.arbeitnow.ch/jobs/companies/sunflower-labs-gmbh/robotics-diagnostics-engineer-stallikon-80695",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T20:00:46.000Z"
   }
 }
