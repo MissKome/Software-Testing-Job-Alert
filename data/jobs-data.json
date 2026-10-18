@@ -1,594 +1,4 @@
 {
-  "bd4a05a2386b1dbc9ed20d9c2b1c9ce011bfef67": {
-    "title": "Commercial Account Executive",
-    "company": "Fastly",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/fastly/commercial-account-executive-munich-130809",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:55:40.000Z"
-  },
-  "1000c895121431191cbe3b40ea4eada619f376d6": {
-    "title": "Content Operations QA Analyst",
-    "company": "Cargo One",
-    "locationRaw": "Remote (EMEA)",
-    "url": "https://www.arbeitnow.com/jobs/companies/cargo-one/remote-content-operations-qa-analyst-326919",
-    "categories": [
-      "Remote",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:40:13.000Z"
-  },
-  "74c2ab3178bb5fb0b7fb8e7d13334280f432a27f": {
-    "title": "Head of Demand Generation (Remote, United Kingdom)",
-    "company": "Easygenerator",
-    "locationRaw": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/easygenerator/head-of-demand-generation-remote-united-kingdom-467361",
-    "categories": [
-      "Remote",
-      "UK",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:40:06.000Z"
-  },
-  "5063b20baba1a09eab908c19291e01c6030b05b2": {
-    "title": "Senior Autonomy Stack Integration Engineer - Land Domain (m/f/d)",
-    "company": "Quantum-Systems GmbH",
-    "locationRaw": "München, Bayern, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-autonomy-stack-integration-engineer-land-domain-munchen-372285",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:30:42.000Z"
-  },
-  "a1d79a3706158a10b57c1cae27fee895f7bee329": {
-    "title": "Frontend Developer Vue.js (m/w/d)",
-    "company": "hubside - Die Recruitingwerkstatt",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/frontend-developer-vuejs-munich-437071",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:30:37.000Z"
-  },
-  "f739396f065a9baee624ad495203ca4e3138aa27": {
-    "title": "DevOps/ML Engineer (m/f/d)",
-    "company": "Machine Learning Reply",
-    "locationRaw": "Munich, Bayern, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-292353",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "DevOps",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:30:31.000Z"
-  },
-  "10d5761d5772cf1c23ec90f141d3b856e1373ec9": {
-    "title": "GenAI Engineer (m/w/d)",
-    "company": "Machine Learning Reply",
-    "locationRaw": "Munich, Bayern, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/genai-engineer-munich-162617",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Junior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:30:31.000Z"
-  },
-  "5fd035d29b918f36cd45af10f5ab2644ca6f2466": {
-    "title": "Data Scientist (m/w/d)",
-    "company": "Machine Learning Reply",
-    "locationRaw": "Munich, Bayern, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/data-scientist-munich-314210",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Junior",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:30:31.000Z"
-  },
-  "7f0bd45a971eb8d9ab033ebe7102ffa9d74176f2": {
-    "title": "Agentic AI Software Engineer",
-    "company": "Machine Learning Reply",
-    "locationRaw": "Munich, Bayern, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-401706",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:30:31.000Z"
-  },
-  "2351b3a56840cf17378343a65350a7d5fd6931e1": {
-    "title": "Machine Learning Consultant (m/w/d)",
-    "company": "Machine Learning Reply",
-    "locationRaw": "Munich, Bayern, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/machine-learning-consultant-munich-352675",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "QA / Testing",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:30:31.000Z"
-  },
-  "0448a505e2e949fcd77a04608a23e6b39613f45e": {
-    "title": "Product Manager Integration (m/w/d)",
-    "company": "Epay",
-    "locationRaw": "Martinsried, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/epay/product-manager-integration-martinsried-380128",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:20:16.000Z"
-  },
-  "4bf8a0a09fc84251b9650971a7356d6c628a1d2e": {
-    "title": "Data Analyst Payment (m/w/d)",
-    "company": "Epay",
-    "locationRaw": "Martinsried, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/epay/data-analyst-payment-martinsried-44388",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:20:16.000Z"
-  },
-  "ea94729fe1c797aae88a57e82fa45c953ccfb7cc": {
-    "title": "Product Engineer (Backend/AI) @Briink",
-    "company": "Merantix",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-363657",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:10:00.000Z"
-  },
-  "777326e6ed78df2554376b6d1190d835c092d2e6": {
-    "title": "AI Engineer (m/w/d)",
-    "company": "adorsys GmbH",
-    "locationRaw": "Nürnberg",
-    "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-289802",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:09:49.000Z"
-  },
-  "aa7510bd28db7512c04072cc5d5ac9a111e2dc9f": {
-    "title": "Senior Software Engineer",
-    "company": "Gridfuse",
-    "locationRaw": "Leipzig",
-    "url": "https://www.arbeitnow.com/jobs/companies/gridfuse/senior-software-engineer-leipzig-207393",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:09:17.000Z"
-  },
-  "fb558da5674a1269084a302d47003074832f7880": {
-    "title": "Senior Data Engineer (m/f/d)",
-    "company": "Dishdigital",
-    "locationRaw": "Düsseldorf",
-    "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/senior-data-engineer-dusseldorf-393540",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "QA / Testing",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:09:10.000Z"
-  },
-  "363eb231c47865d5cf34b3e38a4c084f21260d89": {
-    "title": "Data Engineer (m/f/d)",
-    "company": "Dishdigital",
-    "locationRaw": "Düsseldorf",
-    "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/data-engineer-dusseldorf-17526",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:09:10.000Z"
-  },
-  "4c58884b386348527550f486255210894f0abf0d": {
-    "title": "Senior Product Manager Service Subscriptions (m/w/d)",
-    "company": "Thermondo",
-    "locationRaw": "Berlin (Zentrale)",
-    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-product-manager-service-subscriptions-berlin-zentrale-244645",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:09:06.000Z"
-  },
-  "ffe3b6d88497da67194e27798317b31ef3d72bd5": {
-    "title": "Senior Product Manager Service Cockpit (m/w/d)",
-    "company": "Thermondo",
-    "locationRaw": "Berlin (Zentrale)",
-    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-product-manager-service-cockpit-berlin-zentrale-485522",
-    "categories": [
-      "Onsite",
-      "Internship",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:09:06.000Z"
-  },
-  "7367816ff40eccd1ae92b67da19b7e198ad3be49": {
-    "title": "Product Manager Customer Care (f/m/d) | Fixed-Term Parental Leave Cover",
-    "company": "Thermondo",
-    "locationRaw": "Berlin (Zentrale)",
-    "url": "https://www.arbeitnow.com/jobs/companies/thermondo/product-manager-customer-care-fixed-term-parental-leave-cover-berlin-zentrale-354882",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "QA / Testing",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:09:06.000Z"
-  },
-  "1b739cfbfebb87749bd0e84ba99c23aa83ecf111": {
-    "title": "Forward Deployed Software Engineer",
-    "company": "Palantir",
-    "locationRaw": "Munich, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/palantir/forward-deployed-software-engineer-munich-germany-132278",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:04:29.000Z"
-  },
-  "35b0cb8835879b9104abdcb9adbb48e48e8cd6d4": {
-    "title": "Senior Embedded Engineer Linux C/C++, Python, R&S - Kommunikationssysteme, Dresden 70.000 - 95.000",
-    "company": "wabcon",
-    "locationRaw": "Dresden",
-    "url": "https://www.arbeitnow.com/jobs/companies/wabcon/senior-embedded-engineer-linux-c-c-python-rs-kommunikationssysteme-dresden-70000-95000-485970",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:00:39.000Z"
-  },
-  "f1104a9a206f4cae1531d3665ea807fcdbe897e7": {
-    "title": "Senior Softwareentwickler (m/w/d)",
-    "company": "inovoo GmbH",
-    "locationRaw": "Augsburg",
-    "url": "https://www.arbeitnow.com/jobs/companies/inovoo-gmbh/senior-softwareentwickler-augsburg-391720",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Frontend",
-      "Backend",
-      "DevOps"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T14:00:39.000Z"
-  },
-  "427330ea58be70671b11c8297ce489655e8905f8": {
-    "title": "Senior Data Analyst - CRM (m/f/d)",
-    "company": "Flix",
-    "locationRaw": "Berlin, Berlin, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-analyst-crm-berlin-209278",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T13:45:29.000Z"
-  },
-  "75ce6c25512b4e13b9f303d04a3d5fc6b10297f1": {
-    "title": "Senior Data Analyst - CRM (m/f/d)",
-    "company": "Flix",
-    "locationRaw": "Munich, Bavaria, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-analyst-crm-munich-78874",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T13:45:29.000Z"
-  },
-  "cdd50b6b4d5445acba75b1087dc976e7199d5b73": {
-    "title": "Senior Data Analyst - CRM (m/f/d)",
-    "company": "Flix",
-    "locationRaw": "Berlin, Berlin, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-analyst-crm-berlin-267393",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T13:45:29.000Z"
-  },
-  "498040651a1170b721c27b54b05096e531547d6f": {
-    "title": "Software Engineer (m/w/d)",
-    "company": "Arvana",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/arvana/software-engineer-berlin-459963",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T16:00:24.000Z"
-  },
-  "fb9afcaf356d5802db41c2522882c7989ab0c1a3": {
-    "title": "Nix / NixOS / Nixpkgs Software Engineering Intern",
-    "company": "atvari GmbH",
-    "locationRaw": "Lüneburg",
-    "url": "https://www.arbeitnow.com/jobs/companies/atvari-gmbh/nix-nixos-nixpkgs-software-engineering-intern-luneburg-296907",
-    "categories": [
-      "Remote",
-      "Internship",
-      "Backend",
-      "DevOps"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:30:30.000Z"
-  },
-  "4c6c02bb801ca2108a2867396fa192a9bf6a0b61": {
-    "title": "IT-Systemadministrator (m/w/d)",
-    "company": "cluetec GmbH",
-    "locationRaw": "Karlsruhe",
-    "url": "https://www.arbeitnow.com/jobs/companies/cluetec-gmbh/it-systemadministrator-karlsruhe-353180",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "IT / Security"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:20:15.000Z"
-  },
-  "3efefa135718063a780c3b8e134ba9ff783a0d9b": {
-    "title": "Fullstack-Entwickler/-in – Vollzeit (m/w/d)",
-    "company": "Schulze Marketing GmbH",
-    "locationRaw": "Berlin-Lichtenberg",
-    "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/fullstack-entwickler-in-vollzeit-berlin-lichtenberg-477092",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Frontend",
-      "Backend",
-      "Full-stack"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:20:14.000Z"
-  },
-  "ab8b74d92c7a7cf24915d2091fc029031304f905": {
-    "title": "Cybersecurity Analyst",
-    "company": "Janestreet",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/cybersecurity-analyst-london-249291",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "QA / Testing",
-      "IT / Security",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:55:25.000Z"
-  },
-  "e2cb025943f07712bc3ef0bdc39265a493bb8978": {
-    "title": "Senior Data Scientist",
-    "company": "Monzoreferrals",
-    "locationRaw": "Cardiff",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-scientist-cardiff-219726",
-    "categories": [
-      "Remote",
-      "UK",
-      "Senior",
-      "Data / Analytics"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:55:18.000Z"
-  },
-  "73dd8ec7bb09b7d5b6b32a8a8f32605ce0a8c245": {
-    "title": "UK - London - ADS - Test Engineer",
-    "company": "Jobposts",
-    "locationRaw": "London, Greater London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-test-engineer-london-greater-london-40082",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:55:05.000Z"
-  },
-  "d05711bcb589b3fc675da7bae7e0378a2d62101f": {
-    "title": "UK - London - ADS - Senior Developer",
-    "company": "Jobposts",
-    "locationRaw": "London, Greater London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-senior-developer-london-greater-london-453269",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:55:05.000Z"
-  },
-  "8f5ffa8c8f7f158664d18913598b48f4b8101ccc": {
-    "title": "UK - London - ADS - Senior Cloud Engineer",
-    "company": "Jobposts",
-    "locationRaw": "London, Greater London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-senior-cloud-engineer-london-greater-london-204053",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:55:05.000Z"
-  },
-  "8aac881853f2b2ebffa121e050fa8bffae674e26": {
-    "title": "UK - London - ADS - Full Stack Developer",
-    "company": "Jobposts",
-    "locationRaw": "London, Greater London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-full-stack-developer-london-greater-london-424247",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Full-stack",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:55:05.000Z"
-  },
-  "291d974d6f2b8cd677c9513671d8a60ea609d01e": {
-    "title": "UK - London - ADS - Azure DevOps Engineer",
-    "company": "Jobposts",
-    "locationRaw": "London, Greater London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-azure-devops-engineer-london-greater-london-333630",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:55:05.000Z"
-  },
-  "6c1d92e982675f41a7bb133779b9840076f8f686": {
-    "title": "Data Platform Engineer I",
-    "company": "Kraken",
-    "locationRaw": "London, UK",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-platform-engineer-i-london-162452",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "QA / Testing",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:40:11.000Z"
-  },
-  "fa0b53bb75dbe1dbaba5e6484a71b7f4f56684b0": {
-    "title": "Implementation Specialist",
-    "company": "Metaview",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/implementation-specialist-london-427736",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:40:06.000Z"
-  },
-  "039a924370c1f37e2edf977e360c60aab115ed12": {
-    "title": "Proposition Manager",
-    "company": "Goodlord",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/proposition-manager-london-13490",
-    "categories": [
-      "Remote",
-      "Hybrid",
-      "UK",
-      "Senior",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:40:02.000Z"
-  },
-  "90e70375d34e7d17e4a0bfab6d1db453d61c52f7": {
-    "title": "Senior Data Engineer - Real time analytics",
-    "company": "Aircall",
-    "locationRaw": "London Office",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-228011",
-    "categories": [
-      "Onsite",
-      "UK",
-      "USA",
-      "Senior",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-03T15:24:36.000Z"
-  },
   "7fc9f1a852600c047ddca5fa453fa03154e5f1b2": {
     "title": "Senior Python Developer (w/m/d) - Remote",
     "company": "node.energy",
@@ -1657,33 +1067,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-03T18:00:24.000Z"
-  },
-  "181ee34b1359d541ebc748d431cec975e9b869a0": {
-    "title": "QA Engineer",
-    "company": "SunnyData",
-    "locationRaw": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
-    "categories": [
-      "Remote",
-      "Mid-level",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "remoteok",
-    "postedAt": "2026-09-03T16:00:05.000Z"
-  },
-  "eb2ecd30e69676b35709b873f87189fdb960b0f5": {
-    "title": "Store Manager BOSS Store Plaza Las Americas",
-    "company": "HUGO BOSS",
-    "locationRaw": "San Juan,",
-    "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Frontend"
-    ],
-    "source": "remoteok",
-    "postedAt": "2026-09-03T15:48:13.000Z"
   },
   "b8d297259a0fb0f8ad9be2048e82198a6bafed2d": {
     "title": "Machine Learning Engineer (m/f/x)",
@@ -125171,5 +124554,1265 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-18T05:13:16.000Z"
+  },
+  "b5fe1497de0f7241110843f87cb815be791cd22e": {
+    "title": "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)",
+    "company": "Statista",
+    "locationRaw": "Hamburg or Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-data-engineer-tracking-infrastructure-hamburg-or-berlin-24021",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "349d15c46fba9200094d01aff5bd71a59df7f7c7": {
+    "title": "Product Lead - AI Finance App",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-finance-app-germany-185495",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "16b04ab0b9f3a45c56132a1c962f04e5cfe39574": {
+    "title": "Product Manager - AI Stockbroking App",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-app-germany-396359",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "06fcdc2dbd7120964f783bf4d822aa2632c3807a": {
+    "title": "Product Owner, Technical - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-stockbroking-germany-123177",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "e1521ed0b6508c9c34d2495190b18e79f6bd564c": {
+    "title": "Product Owner, Technical - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-investing-germany-75074",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "6ece1570b7824d137bdf198cec6d16425de7838e": {
+    "title": "Product Owner, Technical - AI Neobank",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-neobank-germany-335452",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "7293fa89c65610e8a205fe6dafaed0530ce89933": {
+    "title": "Product Owner, Technical - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-owner-technical-ai-finance-germany-481083",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "f8073ff2de6a68448ae0f9d9081054fcf05c4b42": {
+    "title": "Product Engineer - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-stockbroking-germany-309533",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "0041e7a23a53f5462338f7f109ed84eaad291002": {
+    "title": "Product Engineer - AI Neobank",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-neobank-germany-248504",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "d806254a07e537d746c04102d8c1a3b1d51e4cb5": {
+    "title": "Product Engineer - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-investing-germany-132645",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "a3d0232437a5d34788b869e4b025d1d56d716c76": {
+    "title": "Product Engineer - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-finance-germany-210765",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "e7faad2dc36a1b815ec9356c9bc90aab5f53662c": {
+    "title": "Product Manager - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-germany-2631",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "49d4dd906ced604067a15e779e977d858ed60f63": {
+    "title": "Engineering Lead",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/engineering-lead-germany-488848",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "cf6da3e1d5f0481e38e39aa69d484165cee83d4e": {
+    "title": "Technical Lead",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/technical-lead-germany-199627",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "de60cf7b119f4e74fe3bf51c91c11680552084e7": {
+    "title": "Product Manager - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-germany-235879",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "67892ed42b0e149b49779fb2ee6a7adfd6b17306": {
+    "title": "Product Manager - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-investing-germany-432451",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "c48741b639f58a5d6e5538ba3b1bc21c1e37995e": {
+    "title": "Product Manager - AI Neobank App",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-neobank-app-germany-485117",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "4f16757c3d366481b318ba93cb93e9cbe3c2fbde": {
+    "title": "Product Engineer - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-stockbroking-germany-345393",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "996fcb884f8a66b34ccf263ef29733a9408bdc2c": {
+    "title": "Product Manager - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-189125",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:21.000Z"
+  },
+  "1a26e3c7f97811d8178f7787c2fe775a480fa627": {
+    "title": "Product Engineer - AI Neobank",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-neobank-germany-7231",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "8c1fd48dd03e188823d2304c9bd799726d533167": {
+    "title": "Principal Software Engineer",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/principal-software-engineer-germany-173384",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "f73f165d6296d3ceee597b81aa7a0b9ddaef68c3": {
+    "title": "Lead Software Engineer",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/lead-software-engineer-germany-311157",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "370f0c8747d8f49bb90084ac674e830e68285571": {
+    "title": "Product Engineer - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-investing-germany-356063",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "dd078d266e383db07c70145c411e6666827e9119": {
+    "title": "Product Manager - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-investing-germany-54588",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "2b09256d91d237d079b7e1ea178326fdaf756182": {
+    "title": "Staff Software Engineer",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/staff-software-engineer-germany-250398",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "834c43d9fab227bd78817079523a4ad6064ca564": {
+    "title": "Product Engineer - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-engineer-ai-finance-germany-89850",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "22ba04d4b725c4a9298f9c48c1d2ab12eed0ea0a": {
+    "title": "iOS Software Engineer",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/ios-software-engineer-germany-236317",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Backend",
+      "Mobile",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "4a41f662dfb9ea3e1aa703ef57849a3e9206542e": {
+    "title": "Product Manager - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-201998",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:20.000Z"
+  },
+  "98940b5778a795d8d5fcabeb688ee36ab6edaf7e": {
+    "title": "(Junior) Product Manager Quality & Fitting (m/w/d)",
+    "company": "Wortmann KG Internationale Schuhproduktionen",
+    "locationRaw": "Detmold, Nordrhein-Westfalen, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/junior-product-manager-quality-fitting-detmold-48289",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:49.000Z"
+  },
+  "c14f2b7de5a6aa87cc7e905c57ccbdcdec81f5f0": {
+    "title": "Senior Frontend Engineer (m/f/x)",
+    "company": "Makersite GmbH",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-frontend-engineer-berlin-338888",
+    "categories": [
+      "Remote",
+      "UK",
+      "Europe",
+      "Senior",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:37.000Z"
+  },
+  "761d7976baf4149f831d84a86dd8be5bc3e2d869": {
+    "title": "AI Engineer - Analytics & End-User Insights",
+    "company": "Intersnack IT KG",
+    "locationRaw": "Düsseldorf, Nordrhein-Westfalen, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/ai-engineer-analytics-end-user-insights-dusseldorf-433069",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:37.000Z"
+  },
+  "21773a1c97116af6cb12b226f39ac654902933ed": {
+    "title": "Data Engineer - AI Pipelines & DataOps",
+    "company": "Intersnack IT KG",
+    "locationRaw": "Düsseldorf, Nordrhein-Westfalen, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-engineer-ai-pipelines-dataops-dusseldorf-8107",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:37.000Z"
+  },
+  "899a2628a3f95450f88c9596531c3f3d5b6fab87": {
+    "title": "Data Scientist & ML Engineer - Predictive Analytics & Agentic AI",
+    "company": "Intersnack IT KG",
+    "locationRaw": "Düsseldorf, Nordrhein-Westfalen, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/data-scientist-ml-engineer-predictive-analytics-agentic-ai-dusseldorf-473539",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:37.000Z"
+  },
+  "5c1f05980f05d78f500ed4aa306e0ffd6827d5c8": {
+    "title": "Trainee Developer / Programmierer für KI-Agenten (m/w/d)",
+    "company": "DCF Verlag GmbH",
+    "locationRaw": "Koblenz, Rheinland-Pfalz, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/dcf-verlag-gmbh/trainee-developer-programmierer-fur-ki-agenten-koblenz-184393",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:36.000Z"
+  },
+  "7356ac55870323a349514fb1d1aba34c2f656c00": {
+    "title": "Solutions Architect",
+    "company": "Insight",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/insight/solutions-architect-bristol-432287",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:30.000Z"
+  },
+  "8951090c681a64659abaea33c83e3ddaad5ee68f": {
+    "title": "Senior Revenue Operations Manager",
+    "company": "Insight",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/insight/senior-revenue-operations-manager-bristol-341444",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:30.000Z"
+  },
+  "f5a6ca804d3db3d4d13646b71fc36f20b519388e": {
+    "title": "Principal Consultant - AI & Product",
+    "company": "Insight",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/insight/principal-consultant-ai-product-bristol-180300",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:30.000Z"
+  },
+  "023f8382ce6debb712664108fa545281ce2a76b8": {
+    "title": "Forward Deployed Engineer",
+    "company": "Insight",
+    "locationRaw": "Bristol",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/insight/forward-deployed-engineer-bristol-229236",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:30.000Z"
+  },
+  "4c7a312c2ddf5f0fc99c408b37c3116765ef9d21": {
+    "title": "Senior Security Engineer",
+    "company": "Wavemm1",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wavemm1/senior-security-engineer-239708",
+    "categories": [
+      "Onsite",
+      "Africa",
+      "Senior",
+      "IT / Security",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:30.000Z"
+  },
+  "bb2ba19f07b31f98a9234f85b1263806f8087732": {
+    "title": "Software Engineer, AdTech",
+    "company": "Doordashglobal2",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/doordashglobal2/software-engineer-adtech-london-255251",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:29.000Z"
+  },
+  "9f1a3867dcb0808463af14dc9e4aa54bf5c536b2": {
+    "title": "Sr. Solutions Engineer",
+    "company": "Logicmonitor",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/logicmonitor/sr-solutions-engineer-london-328551",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:29.000Z"
+  },
+  "b499e5daa6374aac8b7df93c677dc6cf45b2499d": {
+    "title": "Sr. Forward Deployed Engineer",
+    "company": "Logicmonitor",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/logicmonitor/sr-forward-deployed-engineer-london-348520",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:29.000Z"
+  },
+  "42ad3800b873b5f4d5248d80e9c51e41bfe5840a": {
+    "title": "Software Engineer",
+    "company": "Disguisetechnologiesltd",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/disguisetechnologiesltd/software-engineer-london-34520",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:28.000Z"
+  },
+  "78aa9b097051fade176ad791792c7a4453535766": {
+    "title": "QA Engineer",
+    "company": "Disguisetechnologiesltd",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/disguisetechnologiesltd/qa-engineer-london-410012",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:28.000Z"
+  },
+  "589009ac8f0815c1582b29977afddeebc50057b2": {
+    "title": "Product Lead - AI Stockbroking App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-stockbroking-app-london-350665",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "e9ae4ed48b6b1d2bceb1d98e442aada9c0c333b2": {
+    "title": "Product Lead - AI Investing App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-investing-app-london-214792",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "a1809a302f04e50f67113dee04ff792bf666e65d": {
+    "title": "Product Lead - AI Neobank App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-neobank-app-london-144430",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "e28d14c864088e27cb53550dee65fe58a8cf2ab7": {
+    "title": "Product Lead - AI Finance App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-finance-app-london-498487",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "ecbc0d25bfaf21e52ff143c0746d14b274332507": {
+    "title": "Product Manager - AI Stockbroking App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-stockbroking-app-london-420385",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "1644c375fec1c54d820290f89db7f35623294be7": {
+    "title": "Product Owner, Technical - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-stockbroking-london-319955",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "fb60b31030ae07b2ead729f2589d63e5bcc555c4": {
+    "title": "Product Owner, Technical - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-investing-london-249425",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "9be3c0629884f81ff7f0110b4e59133f865fad54": {
+    "title": "Product Manager - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-stockbroking-london-243981",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "49dcb7d581c6574d5fa237f27cd6b2eb533ba37e": {
+    "title": "Product Owner, Technical - AI Neobank",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-neobank-london-356012",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "3e37d151c3cae834ec417cad7bca6e3ff7860606": {
+    "title": "Product Owner, Technical - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-finance-london-95992",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "fc74d725855941966df45e4a8d40741719178670": {
+    "title": "Product Engineer - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-stockbroking-london-33383",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "cd3f3560e9357209350e52dbc31877cbdfba98cc": {
+    "title": "Product Engineer - AI Neobank",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-neobank-london-192680",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "668a0b44f838410367064bb58ce537ef457b52de": {
+    "title": "Product Engineer - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-investing-london-293291",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "c48c8a3a7cf2eb1b8190b3b1a120bccb47f7ade8": {
+    "title": "Product Engineer - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-finance-london-18546",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "ab72c51f7b8ccd724515a853681feafaa3f1e5e8": {
+    "title": "Engineering Lead",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-lead-london-449233",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Frontend",
+      "Backend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "2166fa916c6ef3fce6e93d4ae0453c7424a704f8": {
+    "title": "Product Manager - AI Neobank App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-neobank-app-london-312024",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "04105a16f26aa52e9f31e6cc331aa2f680e4bc5f": {
+    "title": "Product Manager - AI Investing App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-investing-app-london-98916",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:23.000Z"
+  },
+  "7176af986ca2713d05b592b44072862de8eb86e7": {
+    "title": "Senior Backend Engineer, Platform & Integrations",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/senior-backend-engineer-platform-integrations-london-420977",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:22.000Z"
+  },
+  "cd9bd38b4e9f2a6b8d3b453172998232c70b40ee": {
+    "title": "Frontend Engineer (UK)",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-uk-london-386041",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:22.000Z"
+  },
+  "420c25de683dfa87161f2902ff9d5132877e05de": {
+    "title": "Product Manager - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-finance-london-39491",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:22.000Z"
+  },
+  "707e13617aa3912e6134fe0457dc614ec1a73ca3": {
+    "title": "Chef de service adjoint - Service méthodes / Outils / DevOps - 3959 - H/F",
+    "company": "Agence de services et de paiement",
+    "locationRaw": "Limoges, Nouvelle-Aquitaine, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/chef-de-service-adjoint-service-methodes-outils-devops-3959-h-f-limoges-398905",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:41.000Z"
+  },
+  "12811713565a9881dc4697e6bef4dd46839ada3f": {
+    "title": "Développeur Fullstack React/NestJs",
+    "company": "Teampify",
+    "locationRaw": "Tourcoing",
+    "url": "https://www.arbeitnow.fr/jobs/companies/teampify/developpeur-fullstack-react-nestjs-tourcoing-3121",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Backend",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:08.000Z"
+  },
+  "772301bc1054d9ff13fa28d71c2b7ca5b94b0738": {
+    "title": "Community Manager",
+    "company": "adone services",
+    "locationRaw": "Marseille",
+    "url": "https://www.arbeitnow.fr/jobs/companies/adone-services/community-manager-marseille-330503",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:08.000Z"
+  },
+  "6c6754c96a9e9eb9aa7298064a47d94e4cf1f9e3": {
+    "title": "Graphiste Senior et UX",
+    "company": "France d'Or",
+    "locationRaw": "Antibes",
+    "url": "https://www.arbeitnow.fr/jobs/companies/france-dor/graphiste-senior-et-ux-antibes-417778",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:06.000Z"
+  },
+  "c82acd173a95b704bbfc55d024ce9a578ebdf733": {
+    "title": "Consultant automatisation des tests",
+    "company": "WeYouBetter",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/weyoubetter/consultant-automatisation-des-tests-paris-207507",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "DevOps"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:01.000Z"
+  },
+  "9f5dca4635844db5444b0ff5c7dbf27138f4a20e": {
+    "title": "Graphiste Polyvalent.e expérimenté.e en imprimerie signalétique, agence de communication",
+    "company": "SIFORM Impression",
+    "locationRaw": "Privas",
+    "url": "https://www.arbeitnow.fr/jobs/companies/siform-impression/graphiste-polyvalente-experimentee-en-imprimerie-signaletique-agence-de-communication-privas-130182",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:30:59.000Z"
+  },
+  "3a045bf9790b75b3826f849c2ff42cfea295faa6": {
+    "title": "Développeur front -\nend",
+    "company": "Teampify",
+    "locationRaw": "Tourcoing",
+    "url": "https://www.arbeitnow.fr/jobs/companies/teampify/developpeur-front-end-tourcoing-218461",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:30:54.000Z"
+  },
+  "3ce634f4267ec092de2795dbb18cb0d363d822b6": {
+    "title": "Consultant QA DSI - Télétravail partiel",
+    "company": "WeYouBetter",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/weyoubetter/consultant-qa-dsi-teletravail-partiel-paris-270357",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:01:10.000Z"
+  },
+  "e72107bf46f7c7160138ae03d7a914acd46f548e": {
+    "title": "Software Engineer, Robot Autonomy (Multi Agent Orchestration), Intern",
+    "company": "Laelaps",
+    "locationRaw": "Zürich, Switzerland",
+    "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-multi-agent-orchestration-intern-zurich-472703",
+    "categories": [
+      "Onsite",
+      "Internship",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:40:27.000Z"
+  },
+  "bcad19b6f37ed3cb9392dc46e9d7d18d76a8c067": {
+    "title": "Senior SAP CRM Consultant – Functional & Technical",
+    "company": "SwissPeak Partners GmbH",
+    "locationRaw": "Lausanne, Vaud, Switzerland",
+    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-sap-crm-consultant-functional-technical-lausanne-243820",
+    "categories": [
+      "Hybrid",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:41.000Z"
+  },
+  "02233a2274ff63b4774fe095abdbde5aa3302954": {
+    "title": "SAP Analytics Consultant",
+    "company": "SwissPeak Partners GmbH",
+    "locationRaw": "Lausanne, Vaud, Switzerland",
+    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/sap-analytics-consultant-lausanne-185281",
+    "categories": [
+      "Remote",
+      "Onsite",
+      "Mid-level",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:41.000Z"
+  },
+  "ff64c01e4c1769d6f27a5f62819215f993df514e": {
+    "title": "System Engineer - Infrastruktur & Cloud (m/w/d)",
+    "company": "PIUS Consulting",
+    "locationRaw": "Lucerne",
+    "url": "https://www.arbeitnow.ch/jobs/companies/pius-consulting/system-engineer-infrastruktur-cloud-lucerne-402665",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:09.000Z"
+  },
+  "5c7acb52a39f1f51ba9ce696933b54c3481d68ea": {
+    "title": "Google Cloud Engineer / Architect (80% - 100%)",
+    "company": "Codify AG",
+    "locationRaw": "Basel",
+    "url": "https://www.arbeitnow.ch/jobs/companies/codify-ag/google-cloud-engineer-architect-80-100-basel-447475",
+    "categories": [
+      "Onsite",
+      "Junior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:08.000Z"
+  },
+  "288c50285ee1a8b9c42d0bcc24be9b4b9fa157a7": {
+    "title": "Frontend Developer (80% - 100%)",
+    "company": "Codify AG",
+    "locationRaw": "Bern",
+    "url": "https://www.arbeitnow.ch/jobs/companies/codify-ag/frontend-developer-80-100-bern-192250",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Frontend",
+      "Product / Design",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:08.000Z"
+  },
+  "297af77781af35410bd9d432b2ddcad8b98abfdb": {
+    "title": "Cyber Security Architect (m/w/d) 80-100%",
+    "company": "cyberunity AG",
+    "locationRaw": "Aarau",
+    "url": "https://www.arbeitnow.ch/jobs/companies/cyberunity-ag/cyber-security-architect-80-100-aarau-4545",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:07.000Z"
+  },
+  "73c167264082406486e452d61e4a48ab0ee2b42e": {
+    "title": "Senior Data Engineering Consultant (German-speaking)",
+    "company": "Machine Learning Architects Basel (MLAB)",
+    "locationRaw": "Basel",
+    "url": "https://www.arbeitnow.ch/jobs/companies/machine-learning-architects-basel-mlab/senior-data-engineering-consultant-german-speaking-basel-113196",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "DevOps",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:05.000Z"
+  },
+  "587d79c6647a2cf6df7fe8395a6173011a4dd61f": {
+    "title": "Bioprozesse Ingenieur",
+    "company": "agap2 - HIQ Consulting",
+    "locationRaw": "Basel",
+    "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/bioprozesse-ingenieur-basel-95672",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:04.000Z"
+  },
+  "718e473ca718da511795c5588fb64022302da905": {
+    "title": "Project Engineer (Life Sciences)",
+    "company": "agap2 - HIQ Consulting",
+    "locationRaw": "Basel",
+    "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/project-engineer-life-sciences-basel-141332",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:02.000Z"
+  },
+  "0778ee6f10a3ae2af41bcd64272d104a98a0854e": {
+    "title": "Wordpress Developer - Frontend Design - Freelancer",
+    "company": "S. Med",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/s-med/wordpress-developer-frontend-design-freelancer-zurich-431423",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Mid-level",
+      "Frontend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:00.000Z"
+  },
+  "29c25b3a0926ab4daa8658a59d57098a2c220688": {
+    "title": "Java Applikationsentwickler (m/w/d) 80 - 100 %",
+    "company": "Wistar Informatik AG",
+    "locationRaw": "Bern",
+    "url": "https://www.arbeitnow.ch/jobs/companies/wistar-informatik-ag/java-applikationsentwickler-80-100-bern-283411",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Frontend"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:00.000Z"
+  },
+  "63f5c05d521990dff1153c430aa38aac31bae320": {
+    "title": "Schweiz Food Ingredients Product Manager / Sales Manager m/f/d",
+    "company": "GFIC",
+    "locationRaw": "St. Gallen",
+    "url": "https://www.arbeitnow.ch/jobs/companies/gfic/schweiz-food-ingredients-product-manager-sales-manager-st-gallen-364531",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:30:59.000Z"
+  },
+  "6b463593965b4fef9a86e7c74f8d8055fa7bfbb4": {
+    "title": "Senior Information Security Officer",
+    "company": "Testendouble",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/testendouble/senior-information-security-officer-amsterdam-478762",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:55:29.000Z"
+  },
+  "cfd320eefd3badc8cf5ef7089fc601fe0b900142": {
+    "title": "Senior software developer (C# / .NET, Data Analysis)",
+    "company": "Intero Integrity Services",
+    "locationRaw": "Tricht, Gelderland, Netherlands",
+    "url": "https://www.arbeitnow.nl/jobs/companies/intero-integrity-services/senior-software-developer-c-net-data-analysis-tricht-219852",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:41.000Z"
+  },
+  "7dca42bf94f56d99f3397c28fe2106587698f84a": {
+    "title": "Senior Integrity Engineer",
+    "company": "Intero Integrity Services",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.nl/jobs/companies/intero-integrity-services/remote-senior-integrity-engineer-tricht-72924",
+    "categories": [
+      "Remote",
+      "Hybrid",
+      "Canada",
+      "Europe",
+      "Junior",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-18T14:31:41.000Z"
   }
 }
