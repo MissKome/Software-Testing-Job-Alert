@@ -1,128 +1,4 @@
 {
-  "34127739b7f718495468ec4ef8f9d9946514b3c8": {
-    "title": "Forward Deployed Engineer (m/f/d)",
-    "company": "Blueocean Technologies Gmbh",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/blueocean-technologies-gmbh/forward-deployed-engineer-berlin-45604",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Frontend",
-      "Mobile",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:09:46.000Z"
-  },
-  "551a50e479b048a7d0b403e00fa016476643dfe9": {
-    "title": "Product Manager – POS & Fiscalization (m/f/d)",
-    "company": "Swissbit",
-    "locationRaw": "DE-München",
-    "url": "https://www.arbeitnow.com/jobs/companies/swissbit/product-manager-pos-fiscalization-de-munchen-264702",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:09:41.000Z"
-  },
-  "d938d0c45eb1bea7aa536ff7470535027612fb48": {
-    "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
-    "company": "Swissbit",
-    "locationRaw": "DE-Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-de-berlin-81364",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:09:41.000Z"
-  },
-  "628e341815d82e19a83c992d13ad0fd1bf3e8686": {
-    "title": "Robotics Software Engineer Intern – Swarm Systems (m/f/d)",
-    "company": "autonomous-teaming",
-    "locationRaw": "Munich (DEU)",
-    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/robotics-software-engineer-intern-swarm-systems-munich-deu-27742",
-    "categories": [
-      "Onsite",
-      "Internship",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:09:34.000Z"
-  },
-  "751634c56c4a54df442935eb70fa629c871ef480": {
-    "title": "Principal Engineer - Autonomous Systems (m/f/d)",
-    "company": "autonomous-teaming",
-    "locationRaw": "Munich (DEU)",
-    "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/principal-engineer-autonomous-systems-munich-deu-306781",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:09:34.000Z"
-  },
-  "7453802e806139990a4667a6dc93d0d32104e7c7": {
-    "title": "Senior Consultant Endpoint Management (m/w/d)",
-    "company": "Skaylink",
-    "locationRaw": "Garching bei München, Bayern",
-    "url": "https://www.arbeitnow.com/jobs/companies/skaylink/senior-consultant-endpoint-management-garching-bei-munchen-bayern-341135",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Mobile"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:05:29.000Z"
-  },
-  "01c962d003bc70bfe5bbf26557a89620f4e17473": {
-    "title": "DevOps Engineer (m/w/d)",
-    "company": "Skaylink",
-    "locationRaw": "Leipzig, Sachsen",
-    "url": "https://www.arbeitnow.com/jobs/companies/skaylink/devops-engineer-leipzig-sachsen-478361",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:05:29.000Z"
-  },
-  "7f95cfed5c877810a54bce75ad3ff5f3b639e992": {
-    "title": "Azure Cloud Architect (m/w/d)",
-    "company": "Skaylink",
-    "locationRaw": "Hamburg",
-    "url": "https://www.arbeitnow.com/jobs/companies/skaylink/azure-cloud-architect-hamburg-427466",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "DevOps"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T23:05:29.000Z"
-  },
-  "84a893e8f43805f4ebc5db50ede71d712c92b9e4": {
-    "title": "Production Support Engineer II - UK",
-    "company": "Marqeta Inc",
-    "locationRaw": "London Office",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/production-support-engineer-ii-uk-london-218867",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-06T21:40:07.000Z"
-  },
   "666ff005e73b8dd507b7fab00255ef3d39719212": {
     "title": "Performance Marketing Manager (m/w/d) - Berlin",
     "company": "VARM",
@@ -125042,5 +124918,583 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-21T19:00:54.000Z"
+  },
+  "f5057bfe853ff80c8cfa9366f05b503972417a43": {
+    "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-berlin-249546",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:15.000Z"
+  },
+  "d89297fb9466a8482e21f5d7070e49f2930c2f69": {
+    "title": "Senior Software Engineer (YDB Team)",
+    "company": "Nebius",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-software-engineer-ydb-team-berlin-328709",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:15.000Z"
+  },
+  "c5823fc6960d0ffa2ad519a561628f7e94a23ea4": {
+    "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-machine-learning-engineer-llm-inference-optimization-berlin-249817",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:15.000Z"
+  },
+  "ae55ad235f9e263df488e8859b7cf3dd5e8baf12": {
+    "title": "Senior Backend Engineer (Java/Kotlin)- (m/f/x)",
+    "company": "Doctolib",
+    "locationRaw": "Berlin, Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-backend-engineer-java-kotlin-berlin-berlin-63211",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:14.000Z"
+  },
+  "a62716a5dca8430e752c0af9a7e03b85b286e977": {
+    "title": "Member of Technical Staff (Machine Learning Research Engineer)",
+    "company": "Perplexity",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/perplexity/member-of-technical-staff-machine-learning-research-engineer-berlin-289465",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:21.000Z"
+  },
+  "8f8462da4752e6eaf04cf924540a7d12617dcf78": {
+    "title": "Internship - Machine Learning Research Engineer",
+    "company": "Perplexity",
+    "locationRaw": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/perplexity/internship-machine-learning-research-engineer-berlin-71199",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Internship",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:21.000Z"
+  },
+  "708f59b1139af489e6b841fe81bef2ffb3838f26": {
+    "title": "Information Security Expert (all genders)",
+    "company": "Kertos",
+    "locationRaw": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/kertos/information-security-expert-all-genders-munich-37649",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Internship",
+      "IT / Security"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:19.000Z"
+  },
+  "c8e9edd2ee6b518882485964042db40ea901e41f": {
+    "title": "Senior Data Engineer",
+    "company": "LiveScore Group",
+    "locationRaw": "London, England, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore-group/senior-data-engineer-london-423630",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T21:46:02.000Z"
+  },
+  "6b925b95eb86a107386fc1db401e3dafc8ff589a": {
+    "title": "Staff Engineer - Telematics",
+    "company": "Samsara",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/staff-engineer-telematics-united-kingdom-235173",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T21:46:02.000Z"
+  },
+  "5b562e8af4e2f3beb10188085aff191ca18e5cc5": {
+    "title": "Staff Engineer - Telematics",
+    "company": "Samsara",
+    "locationRaw": "London, England, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/staff-engineer-telematics-london-498239",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T21:46:02.000Z"
+  },
+  "69eee7573a65e60c6e8e3fa45727487fd1207d1d": {
+    "title": "Senior Meta Designer - Unannouced Project",
+    "company": "Nmcareers",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/senior-meta-designer-unannouced-project-london-271265",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:17.000Z"
+  },
+  "130c70dc3a240f4905d9c57500c2c78f9f3800af": {
+    "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-london-213464",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:15.000Z"
+  },
+  "0b00e4c461d69a0d3ece23da55a06c62e502be94": {
+    "title": "Staff Data Analyst, Marketing",
+    "company": "Quince",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/staff-data-analyst-marketing-london-266332",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:14.000Z"
+  },
+  "bae73655091105b8ce197122d0340e0da41933ae": {
+    "title": "Technical Product Manager - AI Stockbroking",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-stockbroking-london-182361",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:23.000Z"
+  },
+  "f4f6761fedff803945019215497081445fe8c508": {
+    "title": "Technical Product Manager - AI Investing",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-investing-london-130122",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:23.000Z"
+  },
+  "0598c92858220227d8bfabf906d169ae142d6884": {
+    "title": "Technical Product Manager - AI Neobank",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-neobank-london-278809",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:23.000Z"
+  },
+  "61e4e77a4357ba72bfe49bae16dd314f5fe5fbf8": {
+    "title": "Technical Product Manager - AI Finance",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-finance-london-311561",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:23.000Z"
+  },
+  "a837a1c99275978cc4625958f7da0d6a2f344922": {
+    "title": "Technical Product Manager - AI Stockbroking App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-stockbroking-app-london-291109",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:23.000Z"
+  },
+  "f6d64068ef479c042d12e11085ee11637e092b44": {
+    "title": "Technical Product Manager - AI Investing App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-investing-app-london-316383",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:23.000Z"
+  },
+  "36696b32aef629caabd84f25acd4d009c1835e4e": {
+    "title": "Technical Product Manager - AI Neobank App",
+    "company": "Bjak",
+    "locationRaw": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-product-manager-ai-neobank-app-london-397666",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Mid-level",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:23.000Z"
+  },
+  "9ee25b874d4536bb58ae39c2b09f0ea72e2720d4": {
+    "title": "Senior BI Analytics Engineer",
+    "company": "Carwow",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-bi-analytics-engineer-london-440862",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Junior",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:20.000Z"
+  },
+  "8e2b7d185374543df9b5d74709497b693f4cd948": {
+    "title": "Principal Software Engineer",
+    "company": "UiPath",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/uipath/principal-software-engineer-london-37015",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:20.000Z"
+  },
+  "0c6f98760d717aa57430051f0356f8261dc45c7f": {
+    "title": "Data Scientist - iwocaPay Credit Risk Modelling",
+    "company": "iwoca",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-iwocapay-credit-risk-modelling-london-446934",
+    "categories": [
+      "Hybrid",
+      "Onsite",
+      "UK",
+      "Senior",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:20.000Z"
+  },
+  "7201a84ccfaa456dbe8603fe1d1c74b48c1e37de": {
+    "title": "Senior AI Engineer - Freelance",
+    "company": "Mirakl - Labs",
+    "locationRaw": "Bordeaux, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-bordeaux-296181",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T22:45:30.000Z"
+  },
+  "23c9b627a45241bd87053f2073191101b4109500": {
+    "title": "Senior AI Engineer - Freelance",
+    "company": "Mirakl - Labs",
+    "locationRaw": "Paris, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-paris-82276",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T22:45:30.000Z"
+  },
+  "1a3cc0838cbf48bb99ee9b86a44f9cbab7786c29": {
+    "title": "Senior Software Engineer - Python (x/f/m)",
+    "company": "Doctolib",
+    "locationRaw": "Paris, Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-software-engineer-python-paris-paris-208736",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:14.000Z"
+  },
+  "4139a3b4b9cd4a59ba2fd50602829499284efdc5": {
+    "title": "Strategic Account Executive - EU",
+    "company": "MakiPeople",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/makipeople/strategic-account-executive-eu-paris-237303",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:25.000Z"
+  },
+  "7416767568cd6ad9b48e43fa4dc9cf62fe540615": {
+    "title": "AI Implementation Intern",
+    "company": "MakiPeople",
+    "locationRaw": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/makipeople/ai-implementation-intern-paris-305790",
+    "categories": [
+      "Onsite",
+      "UK",
+      "USA",
+      "Internship",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:40:25.000Z"
+  },
+  "0771035a8d733cd2b05d51fd5a767cda6ef531c8": {
+    "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "locationRaw": "Zurich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-zurich-406082",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:16.000Z"
+  },
+  "7599d1d9101dcec0a8db12c0c1ded2d179b10981": {
+    "title": "Performance Marketing Manager - Paid Social (m/f/d)",
+    "company": "Hilobyaktiia",
+    "locationRaw": "Switzerland",
+    "url": "https://www.arbeitnow.ch/jobs/companies/hilobyaktiia/remote-performance-marketing-manager-paid-social-switzerland-8022",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:20:09.000Z"
+  },
+  "36772f168ba3805ed255700c0a65e9071bfd210a": {
+    "title": "Performance Marketing Manager - Paid Search (m/f/d)",
+    "company": "Hilobyaktiia",
+    "locationRaw": "Switzerland",
+    "url": "https://www.arbeitnow.ch/jobs/companies/hilobyaktiia/remote-performance-marketing-manager-paid-search-switzerland-114969",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:20:09.000Z"
+  },
+  "ffc77879e440bb466aa794fe2d461b75a4bd2d8f": {
+    "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/nebius/staff-machine-learning-engineer-llm-inference-optimization-amsterdam-403133",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:16.000Z"
+  },
+  "eeaa2dd5458b7f0f7c404db06c7bcba40d88d71b": {
+    "title": "Senior Software Engineer (YDB Team)",
+    "company": "Nebius",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-software-engineer-ydb-team-amsterdam-499147",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:16.000Z"
+  },
+  "d9f44be0cefe39f35a103c20283746673438451e": {
+    "title": "Senior Software Engineer (Storage Virtualization Team)",
+    "company": "Nebius",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-software-engineer-storage-virtualization-team-amsterdam-321814",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Backend",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:16.000Z"
+  },
+  "81b2d30bc4fa46950d4b85cb3c6569a893c8bc50": {
+    "title": "Senior Software Engineer (Data Platform, C++)",
+    "company": "Nebius",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-software-engineer-data-platform-c-amsterdam-173297",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:16.000Z"
+  },
+  "0e7f6fb7d3f92ea8a3fe30007e7d33fcec30fcb0": {
+    "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-machine-learning-engineer-llm-inference-optimization-amsterdam-253701",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:15.000Z"
+  },
+  "4e97a5ad42acdaa13ef3704e2e9742a322fb0f87": {
+    "title": "Senior Corporate Paralegal",
+    "company": "Nebius",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/nebius/senior-corporate-paralegal-amsterdam-34432",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Senior",
+      "Full-stack"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:15.000Z"
+  },
+  "777ac3b5216117c871e293703f19d3e612a297ee": {
+    "title": "Product Data Analyst",
+    "company": "Nebius",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/nebius/product-data-analyst-amsterdam-428402",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Europe",
+      "Mid-level",
+      "Full-stack",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-21T20:55:15.000Z"
   }
 }
