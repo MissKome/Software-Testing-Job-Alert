@@ -1,143 +1,4 @@
 {
-  "d3eaa874f66dc5c6d71e6fb169b3b38ec60057f8": {
-    "title": "Full Stack Developer",
-    "company": "typeform",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.com/jobs/companies/typeform/full-stack-developer-98052",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Frontend",
-      "Backend",
-      "Full-stack",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:55:07.000Z"
-  },
-  "45ea54498f0fd37ff4d829db2cc1eab3fa66da02": {
-    "title": "Senior Value Engineer - CPG/Retail",
-    "company": "celonis",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-value-engineer-cpg-retail-munich-225258",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:55:02.000Z"
-  },
-  "06b99b33b1a9d8fe181748f6ae37b5ccafda1460": {
-    "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail",
-    "company": "celonis",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-cpg-retail-munich-431813",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:55:02.000Z"
-  },
-  "0dcd13fd6da2ae05f3073ba69374c939f3d30fcd": {
-    "title": "Senior Management & Technology Consultant - CPG/Retail",
-    "company": "celonis",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-management-technology-consultant-cpg-retail-munich-88496",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:55:02.000Z"
-  },
-  "ddf20220255d97cb7bbc231f4bee401bac5857d0": {
-    "title": "Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail",
-    "company": "celonis",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-digital-transformation-process-optimisation-consultant-cpg-retail-munich-255931",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:55:02.000Z"
-  },
-  "1e31012081ae2bb76163c189e29ed6fa0eec892a": {
-    "title": "Growth Lead B2C & B2B (f/m/d)",
-    "company": "Zenjob",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/zenjob/growth-lead-b2c-b2b-berlin-141796",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:40:06.000Z"
-  },
-  "40887445d5f121dd383fa356ca597c925e4f9d94": {
-    "title": "(Senior) DevOps Engineer (F/M/*)",
-    "company": "Amber",
-    "locationRaw": "Aachen",
-    "url": "https://www.arbeitnow.com/jobs/companies/amber/senior-devops-engineer-f-m-aachen-392700",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:40:04.000Z"
-  },
-  "eb4c41a409195ab1994e61c1681e88a1641f68a3": {
-    "title": "(Senior) Business Development Representative France (f/m/d)",
-    "company": "Zeit Ai",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/zeit-ai/senior-business-development-representative-france-munich-353259",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Junior",
-      "Senior",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:40:02.000Z"
-  },
-  "7edc4b0b97e009108f1e714c52376746f4f36f21": {
-    "title": "Product Engineer (Backend/AI) @Briink",
-    "company": "Merantix",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-284171",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:09:24.000Z"
-  },
-  "8809229c0904fc22637a205c20aeb61378dd5442": {
-    "title": "AI Engineer (m/w/d)",
-    "company": "adorsys GmbH",
-    "locationRaw": "Nürnberg",
-    "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-317112",
-    "categories": [
-      "Onsite",
-      "Mid-level",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T05:09:13.000Z"
-  },
   "4c83831fc231499d81450bd44f358a1bdc4ece43": {
     "title": "Full Stack Software Developer E-Health (f/m/d/x)",
     "company": "Doc Cirrus Gmbh",
@@ -476,22 +337,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-09-08T06:45:23.000Z"
   },
-  "3d88019259428aca36a2e340ad485bba69dcdf42": {
-    "title": "Senior Full-Stack Engineer (m/f/x) | hybrid",
-    "company": "fleetster",
-    "locationRaw": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/fleetster/senior-full-stack-engineer-hybrid-munich-292678",
-    "categories": [
-      "Hybrid",
-      "Senior",
-      "Frontend",
-      "Backend",
-      "Full-stack",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T06:30:49.000Z"
-  },
   "4ab108bf424788a6a3284119c3bdb34283aa64bf": {
     "title": "Solution Engineer  - Public Sector  - UK",
     "company": "Quantexa",
@@ -520,65 +365,6 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-09-08T06:55:18.000Z"
-  },
-  "2c693eeaf455262e6f0ba9a6d99f5be49d8279be": {
-    "title": "Technology Risk & Controls Manager",
-    "company": "Allica Bank",
-    "locationRaw": "London Office",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/technology-risk-controls-manager-london-487314",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T06:40:10.000Z"
-  },
-  "19852a80d1655ad0987e561f2967f37d09406ceb": {
-    "title": "Senior Product Manager, Core People Technology",
-    "company": "Deliveroo",
-    "locationRaw": "London - The River Building HQ",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-core-people-technology-london-277821",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T06:40:07.000Z"
-  },
-  "b0f868dfcedba46813ebe7fa02c640bd7d57e2dd": {
-    "title": "Web Developer - Contract - Immediate start",
-    "company": "1St%20Formations",
-    "locationRaw": "Covent Garden - Hybrid",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/web-developer-contract-immediate-start-london-477825",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Mid-level",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T06:40:05.000Z"
-  },
-  "0e96fc575841c369a448a1723bcac76575081ca3": {
-    "title": "Talent Lead",
-    "company": "Whitecircle",
-    "locationRaw": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-talent-lead-46275",
-    "categories": [
-      "Remote",
-      "UK",
-      "Europe",
-      "Senior",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-08T06:40:04.000Z"
   },
   "d05cc80ac6a3759b439f121fe48942f3fde5154b": {
     "title": "Working Student IT Administration (All Genders)",
@@ -128424,5 +128210,19 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-22T20:31:41.000Z"
+  },
+  "57626334b935aa4ec6daeaf5e69ba9908f3ec7bf": {
+    "title": "Junior Supply Chain Engineer - Operations (H/F)",
+    "company": "Withings",
+    "locationRaw": "Issy-les-Moulineaux, France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/withings/junior-supply-chain-engineer-operations-h-f-issy-les-moulineaux-410004",
+    "categories": [
+      "Onsite",
+      "Europe",
+      "Junior",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-10-23T04:20:12.000Z"
   }
 }
