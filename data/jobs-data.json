@@ -12,39 +12,6 @@
     "source": "arbeitnow",
     "postedAt": "2026-09-17T01:40:12.000Z"
   },
-  "8632ede2e19262e8a96b86408019e70a58a37e06": {
-    "title": "Backend Developer (Java/Spring Boot)",
-    "company": "Jobgether",
-    "locationRaw": "France",
-    "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/backend-developer-java-spring-boot-france-316924",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Mid-level",
-      "QA / Testing",
-      "Frontend",
-      "Backend",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-17T01:24:26.000Z"
-  },
-  "860bc07e49873429a7d564171da22f1fe8b46d05": {
-    "title": "AI Engineer",
-    "company": "Jobgether",
-    "locationRaw": "France",
-    "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/ai-engineer-france-492706",
-    "categories": [
-      "Remote",
-      "Europe",
-      "Mid-level",
-      "Data / Analytics",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-17T01:24:26.000Z"
-  },
   "55710292d06bdc9dcb9aa434c2a6f0e65725a7a1": {
     "title": "IT System Engineer / Systemadministrator Citrix (m/w/d)",
     "company": "FlexIT Consulting GmbH",
@@ -130932,5 +130899,131 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-10-31T15:40:16.000Z"
+  },
+  "7ff23aed1a9ccbad9adabec28d10531c6375b549": {
+    "title": "Director Spectrum Production (m/f/d)",
+    "company": "isaraerospace",
+    "locationRaw": "Parsdorf, Bavaria",
+    "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-spectrum-production-parsdorf-bavaria-215686",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:55:18.000Z"
+  },
+  "b6b2ee25c23c0b50522f0ea423e8822c269aea9a": {
+    "title": "AI Solution Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:31:19.000Z"
+  },
+  "25c001fd115e77a3df8f1ceac5b3c9b7f182a068": {
+    "title": "Senior Oracle Data Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "locationRaw": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "Data / Analytics",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:31:19.000Z"
+  },
+  "d3232d08eaf25bd4e8d6a663ea7ccb4c348891f8": {
+    "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+    "company": "Makersite GmbH",
+    "locationRaw": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711",
+    "categories": [
+      "Remote",
+      "Europe",
+      "Senior",
+      "DevOps",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:31:17.000Z"
+  },
+  "a6f5dd5d33b7b7dbf756a94329b560420a5bd696": {
+    "title": "Reporting & Data Analyst (6-Month FTC)",
+    "company": "Form3",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-459672",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "Data / Analytics"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:55:25.000Z"
+  },
+  "78b42200f31b3302b5c23bc9ed7f129dd52f794f": {
+    "title": "Senior Quality Engineer - MONOPOLY GO!",
+    "company": "Scopely",
+    "locationRaw": "",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-quality-engineer-monopoly-go-495119",
+    "categories": [
+      "Hybrid",
+      "UK",
+      "Senior",
+      "QA / Testing",
+      "Engineering"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:55:22.000Z"
+  },
+  "21f19b5a66d405249fbfee1882befdab9dba88c5": {
+    "title": "Senior Product Marketing Manager",
+    "company": "hellofresh",
+    "locationRaw": "Sydney, Australia",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/senior-product-marketing-manager-sydney-australia-231090",
+    "categories": [
+      "Onsite",
+      "Senior",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:55:21.000Z"
+  },
+  "aac4c685b457505086db4e84ba997a9d25b96b19": {
+    "title": "Sr Manager Quality Assurance",
+    "company": "Hasbro",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hasbro/sr-manager-quality-assurance-london-118965",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:55:21.000Z"
+  },
+  "20351ff5de86368f9255bceaf0a0b3fcacaded5f": {
+    "title": "Staff Product Manager",
+    "company": "Fyxer",
+    "locationRaw": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/staff-product-manager-london-423157",
+    "categories": [
+      "Onsite",
+      "UK",
+      "Senior",
+      "Full-stack",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-01T00:40:12.000Z"
   }
 }
