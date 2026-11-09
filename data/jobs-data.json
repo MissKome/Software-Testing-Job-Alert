@@ -1,336 +1,4 @@
 {
-  "5bfe56ba71efab86f41758b7dd84a0e96fee92b2": {
-    "title": "Software Engineer (f/m/d)",
-    "company": "gropyus",
-    "locationRaw": "Richen, Baden-Württemberg",
-    "url": "https://www.arbeitnow.com/jobs/companies/gropyus/software-engineer-richen-baden-wurttemberg-64936",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Mid-level",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T20:55:22.000Z"
-  },
-  "2f11f872050c731d1bbd7f41ca9df36ace64aeee": {
-    "title": "Senior Software Engineer (f/m/d)",
-    "company": "gropyus",
-    "locationRaw": "Richen, Baden-Württemberg",
-    "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-software-engineer-richen-baden-wurttemberg-475985",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T20:55:22.000Z"
-  },
-  "7a9f6bff339e0172c828b594fbad7188cc401123": {
-    "title": "Senior Product Designer - Sell Online",
-    "company": "sumup",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-designer-sell-online-berlin-335796",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Product / Design"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T20:55:05.000Z"
-  },
-  "0dea7ff664d879d5f78e571d8dfb5d548da0a6d1": {
-    "title": "Senior Backend Engineer - Golang",
-    "company": "sumup",
-    "locationRaw": "Cologne",
-    "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-cologne-161797",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T20:55:05.000Z"
-  },
-  "8d7d9e6963e95ee8ca0169f8f2da82e3e9947a3b": {
-    "title": "Senior Backend Engineer - Golang",
-    "company": "sumup",
-    "locationRaw": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-berlin-254897",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T20:55:05.000Z"
-  },
-  "9532a7e0874183f91e19191f6f7635abb4091f56": {
-    "title": "Senior Product Manager (JetBrains Context)",
-    "company": "jetbrains",
-    "locationRaw": "Berlin; Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/senior-product-manager-jetbrains-context-berlin-munich-468357",
-    "categories": [
-      "Onsite",
-      "Senior",
-      "Product / Design",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T20:55:02.000Z"
-  },
-  "82dc1ff157b550bc2635414d4640431d23d30fd1": {
-    "title": "Engineering Manager, Rapid Response Assignment (UK)",
-    "company": "Vulncheck",
-    "locationRaw": "Cheltenham",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/vulncheck/engineering-manager-rapid-response-assignment-uk-cheltenham-137540",
-    "categories": [
-      "Remote",
-      "UK",
-      "Senior",
-      "Backend"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:55:34.000Z"
-  },
-  "da5572df9188b4a699a568281f41cb8b3d2c38c3": {
-    "title": "Senior/ Principal Engineer - Electrical Building Services (Contract)",
-    "company": "Bakerhicks",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/senior-principal-engineer-electrical-building-services-contract-367366",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:55:07.000Z"
-  },
-  "136703c3e184953dd46575c597ae2072759e6ebb": {
-    "title": "Principal / Lead Primary Engineer - HV Substations",
-    "company": "Bakerhicks",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/principal-lead-primary-engineer-hv-substations-62322",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Junior",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:55:07.000Z"
-  },
-  "f00d391c66bf39547a552f6a712bec8b5fd8b858": {
-    "title": "Principal Designer - CDM",
-    "company": "Bakerhicks",
-    "locationRaw": "",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/principal-designer-cdm-113228",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "Frontend"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:55:07.000Z"
-  },
-  "208fc5fb3a7a998e24ab79746a19ae35d2f1c271": {
-    "title": "Platform Engineer",
-    "company": "ManyPets",
-    "locationRaw": "London, England, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/manypets/platform-engineer-london-417397",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Senior",
-      "DevOps",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:45:32.000Z"
-  },
-  "eb78cb401ba32b2bc120b1eca380b95f17859a5e": {
-    "title": "Backend Engineer, Subscriptions",
-    "company": "Deliveroo",
-    "locationRaw": "London, England, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-subscriptions-london-359126",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Europe",
-      "Mid-level",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:45:31.000Z"
-  },
-  "d0fbdbc6e81187cd0e7e6f405c50d688c4c2afda": {
-    "title": "Senior Software Engineer, Proactive Security",
-    "company": "Deliveroo",
-    "locationRaw": "London, England, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-proactive-security-london-385186",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Europe",
-      "Senior",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:45:31.000Z"
-  },
-  "b9f5cb88f854a1a34d189485e52005acf257f94d": {
-    "title": "Frontend Engineer III",
-    "company": "Zilch",
-    "locationRaw": "Zilch UK",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/frontend-engineer-iii-london-143299",
-    "categories": [
-      "Remote",
-      "UK",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "Frontend",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:40:11.000Z"
-  },
-  "cbc92840e10ab53675331999afe217ec7e97b118": {
-    "title": "Delivery Manager Genflex",
-    "company": "Kraken",
-    "locationRaw": "Manchester, UK",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/delivery-manager-genflex-manchester-174340",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Europe",
-      "Mid-level",
-      "QA / Testing"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:40:11.000Z"
-  },
-  "862c9ae540f9c03586064a6719e398380c255e96": {
-    "title": "Security Compliance Specialist",
-    "company": "Transficc",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/transficc/security-compliance-specialist-london-322038",
-    "categories": [
-      "Remote",
-      "UK",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "DevOps",
-      "IT / Security"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:40:06.000Z"
-  },
-  "4a2bf36f06164f62ac51c07067fd71f6af655fe1": {
-    "title": "Founding Engineer",
-    "company": "Fleetcraft",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/fleetcraft/founding-engineer-london-110113",
-    "categories": [
-      "Onsite",
-      "UK",
-      "Mid-level",
-      "Full-stack",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:40:05.000Z"
-  },
-  "6d26186308523ff509498ba3a5feb3f543050006": {
-    "title": "Senior Automation QA Engineer",
-    "company": "Skin Analytics",
-    "locationRaw": "London hybrid (3 days in office)",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/senior-automation-qa-engineer-london-222985",
-    "categories": [
-      "Hybrid",
-      "Onsite",
-      "UK",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:40:05.000Z"
-  },
-  "2291899c7adeabd48824a5e5ce6f2097c85ba7f1": {
-    "title": "Software Engineer",
-    "company": "Investa",
-    "locationRaw": "London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/investa/software-engineer-london-453071",
-    "categories": [
-      "Hybrid",
-      "Onsite",
-      "UK",
-      "Europe",
-      "Junior",
-      "Mobile",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:40:04.000Z"
-  },
-  "6af9980b9c791ae6a2bddd66b151f1644c32bde0": {
-    "title": "Senior .NET Developer",
-    "company": "Waracle",
-    "locationRaw": "Glasgow, Scotland, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/senior-net-developer-glasgow-433376",
-    "categories": [
-      "Remote",
-      "Hybrid",
-      "UK",
-      "Senior",
-      "QA / Testing",
-      "Backend",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:30:14.000Z"
-  },
-  "a742591a75ebfa59b46b2bc54fae9829e48ac26d": {
-    "title": "Principal Solution Architect",
-    "company": "Waracle",
-    "locationRaw": "London, England, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/principal-solution-architect-london-301113",
-    "categories": [
-      "Hybrid",
-      "UK",
-      "Senior",
-      "Mobile"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T21:30:14.000Z"
-  },
-  "f5ed353e560ca3ed12cb22b5df4ba042d7cc6647": {
-    "title": "Senior Jet Engine Design Engineer – Interceptor Drones",
-    "company": "Alta Ares",
-    "locationRaw": "Toulouse",
-    "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/senior-jet-engine-design-engineer-interceptor-drones-blagnac-115972",
-    "categories": [
-      "Onsite",
-      "Europe",
-      "Senior",
-      "QA / Testing",
-      "Engineering"
-    ],
-    "source": "arbeitnow",
-    "postedAt": "2026-09-24T22:40:07.000Z"
-  },
   "6d8e27103b66d02518264aa7c3f5d1d05fd42f2c": {
     "title": "Senior Tester (m/w/d) Schwerpunkt SAP Testing",
     "company": "QualityMinds GmbH",
@@ -129739,5 +129407,33 @@
     ],
     "source": "arbeitnow",
     "postedAt": "2026-11-08T18:40:15.000Z"
+  },
+  "335100aba9f36eaf37d3ded1d2a95406d7d768a6": {
+    "title": "Entrepreneur Intern",
+    "company": "SeeSicht Gmbh",
+    "locationRaw": "Zürich",
+    "url": "https://www.arbeitnow.ch/jobs/companies/seesicht-gmbh/entrepreneur-intern-zurich-164590",
+    "categories": [
+      "Hybrid",
+      "Internship",
+      "Senior",
+      "QA / Testing"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-08T20:00:51.000Z"
+  },
+  "5a4d0a4863b25022c7b088838b38d7821b611625": {
+    "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
+    "company": "Time to hire",
+    "locationRaw": "Amsterdam",
+    "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+    "categories": [
+      "Onsite",
+      "Mid-level",
+      "QA / Testing",
+      "Product / Design"
+    ],
+    "source": "arbeitnow",
+    "postedAt": "2026-11-08T22:00:39.000Z"
   }
 }
