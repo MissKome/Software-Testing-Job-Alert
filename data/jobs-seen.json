@@ -1,829 +1,4 @@
 {
-  "ae56e7b0f47b06d1376c29ba8457d89bfc868b29": {
-    "postedAt": "2026-08-17T06:20:16.770Z",
-    "title": "Getting It Right",
-    "company": "Brite Enterprises"
-  },
-  "632316d1000fd3ac2a40172de7a4f4825ccceffa": {
-    "postedAt": "2026-08-17T06:20:16.772Z",
-    "title": "Custom Role",
-    "company": "TAR"
-  },
-  "06d2d3019024ace82bef25192f9295e0371a85a5": {
-    "postedAt": "2026-08-17T06:20:16.772Z",
-    "title": "Member of Technical Staff Engineering",
-    "company": "Physical Superintelligence"
-  },
-  "7614af63617592f42b01d79cd1735143b1e7fe90": {
-    "postedAt": "2026-08-17T06:20:16.772Z",
-    "title": "Strategic Account Executive Lodging",
-    "company": "FreedomPay"
-  },
-  "678a00ab1fbe3149bba938ca7014eb61dda6da32": {
-    "postedAt": "2026-08-17T06:20:16.773Z",
-    "title": "Staff Software Development Engineer SDM",
-    "company": "Delinea"
-  },
-  "b3e00d1e5f8bf6caf23d5f154ba1df657cf460be": {
-    "postedAt": "2026-08-17T06:20:16.773Z",
-    "title": "Senior Software Engineer Case Execution",
-    "company": "Pivotal Health"
-  },
-  "df67a20b50fed7971c162e4a69b3bcd2c4b051a6": {
-    "postedAt": "2026-08-17T06:20:16.773Z",
-    "title": "Cabin Cleaning Agent",
-    "company": "Menzies Aviation"
-  },
-  "2a6df792e77da0015bf1704aba4218a86675bc7c": {
-    "postedAt": "2026-08-17T06:20:16.774Z",
-    "title": "Store Manager White House Black Market",
-    "company": "Chico's FAS, Inc."
-  },
-  "f5a7a717bca347be6c8bdd6aa0cddb1c2257ec08": {
-    "postedAt": "2026-08-17T06:20:16.774Z",
-    "title": "Porteiro RibeirÃ£o Preto",
-    "company": "Savegnago Supermercados"
-  },
-  "c99006c087913bb914c91f7fa71eac4bdd5c93df": {
-    "postedAt": "2026-08-17T06:20:16.774Z",
-    "title": "Repositor BelÃ©m PA",
-    "company": "Grupo Raymundo da Fonte"
-  },
-  "4ea5a760d7c06fe63b62dcc2f37e947f23bbd438": {
-    "postedAt": "2026-08-17T06:20:16.774Z",
-    "title": "HIGIENIZADOR DE CARROS JABOTÃO DOS GUARARAPES PE",
-    "company": "Localiza&amp;Co"
-  },
-  "4a3ba33ea3be88d5c5699d8e60584a9b6353dcd3": {
-    "postedAt": "2026-08-17T06:20:16.774Z",
-    "title": "General Manager Suriname",
-    "company": "CMA CGM"
-  },
-  "704b1f90ef691b0549582ce7b3a738415aad42aa": {
-    "postedAt": "2026-08-17T06:20:16.775Z",
-    "title": "Promo merchandiser",
-    "company": "Glow &amp; Grow"
-  },
-  "5edecd84a39b6d2919409bf392b9f89655b65534": {
-    "postedAt": "2026-08-17T06:20:16.775Z",
-    "title": "Cotizador",
-    "company": "Procables de MÃ©xico"
-  },
-  "31ad12b0246d65991382cd87d8bcf1acad9706f3": {
-    "postedAt": "2026-08-17T06:20:16.775Z",
-    "title": "Labourer Plant Operators",
-    "company": "Power FM Bega Bay"
-  },
-  "5190f6f54b7abb3289d3aa17057c4e2fb536157f": {
-    "postedAt": "2026-08-17T06:20:16.776Z",
-    "title": "Software Development Engineer II, Routing Tiling",
-    "company": "Mapbox"
-  },
-  "9aebb8b5aa84ea6e66439f5a4048d3d7dd7b5b8f": {
-    "postedAt": "2026-08-17T06:20:16.777Z",
-    "title": "Head of Privacy",
-    "company": "Perk"
-  },
-  "8d094394e8e65d01a10283c19988f46479d52c9a": {
-    "postedAt": "2026-08-17T06:20:16.777Z",
-    "title": "Werkstudent Campaign Management/Ad Operations (m/w/d)",
-    "company": "emetriq GmbH"
-  },
-  "5cbe5230ac4d0adc4d77aba14569ba11cd23d1ab": {
-    "postedAt": "2026-08-17T06:20:16.777Z",
-    "title": "Working Student (f/m/d) - IT Infrastructure",
-    "company": "Instagrid"
-  },
-  "ca7bc0b9de99b3ddaf0eef774ff603d4dfbef811": {
-    "postedAt": "2026-08-17T06:20:16.777Z",
-    "title": "Account Executive – Strategic Retail, DACH and Central Europe (German Speaking)",
-    "company": "Bazaarvoice"
-  },
-  "41a6fab8d76917a0215765f3b3c23ff2f1730a7e": {
-    "postedAt": "2026-08-17T06:20:16.777Z",
-    "title": "Working Student",
-    "company": "Novaspace"
-  },
-  "b761f4499b21caf8c337815c2a8899bbac948800": {
-    "postedAt": "2026-08-17T06:20:16.778Z",
-    "title": "(Senior) Event & Operations Manager (m/w/d)",
-    "company": "Techquartier"
-  },
-  "dde9f344368c906c33a369b9a77d32636297ac13": {
-    "postedAt": "2026-08-17T06:20:16.778Z",
-    "title": "Senior Manager, Strategy & Operations, New Verticals – Retail (South and Central)",
-    "company": "wolt"
-  },
-  "677d7e31fecd12a5e7f2da1255de625ddeebacb5": {
-    "postedAt": "2026-08-17T06:20:16.778Z",
-    "title": "Engineering Manager, Computing Platform",
-    "company": "wolt"
-  },
-  "ef7b26b95ee0d5c51ed9883a56906c4e9a881e07": {
-    "postedAt": "2026-08-17T06:20:16.778Z",
-    "title": "Senior Software Engineer, Connectivity, C++",
-    "company": "vay"
-  },
-  "80f6fcad3ced29dd7b77551cf00941a1e93cdae9": {
-    "postedAt": "2026-08-17T06:20:16.778Z",
-    "title": "Senior Software Engineer (Capacity and Quota Management)",
-    "company": "Nebius"
-  },
-  "4b552e7f9d7bfd3dc07c52782e64d644a62f05b0": {
-    "postedAt": "2026-08-17T06:20:16.779Z",
-    "title": "Senior Backend Software Engineer (Cloud Monetization Platform)",
-    "company": "Nebius"
-  },
-  "36492ad0b70508f7fdfc6ea2659abba842294483": {
-    "postedAt": "2026-08-17T06:20:16.779Z",
-    "title": "Senior Product Engineer, eComm (all gender)",
-    "company": "Distribusion Technologies"
-  },
-  "6917863bc77f7cf5a584a58e7b44a562e43517cb": {
-    "postedAt": "2026-08-17T06:20:16.779Z",
-    "title": "(Senior) Associate Inhouse Consulting & Value Creation",
-    "company": "Arsipa GmbH"
-  },
-  "982955fb8f9bc395224d4bc863cad4d16ab262ea": {
-    "postedAt": "2026-08-17T06:20:16.780Z",
-    "title": "(Senior) Associate (w/m/d) Corporate Development",
-    "company": "Arsipa GmbH"
-  },
-  "664c85d96e44f3caac455bafc482edffa44a6930": {
-    "postedAt": "2026-08-17T06:20:16.780Z",
-    "title": "Senior Fullstack Engineer (m/f/d)",
-    "company": "Verivox"
-  },
-  "d192c9e5f47ac3e8f34bdd879f41318473fee047": {
-    "postedAt": "2026-08-17T06:20:16.780Z",
-    "title": "(Senior) Product Manager (w/m/d)",
-    "company": "Transfermarkt"
-  },
-  "5231e38936435bbeac1c997e2c49baf6a8b815bf": {
-    "postedAt": "2026-08-17T06:20:16.780Z",
-    "title": "Werkstudent (m/f/x) - IT Support",
-    "company": "ITONICS"
-  },
-  "e40624bfa5701528ec000ac21e0ba87151486c20": {
-    "postedAt": "2026-08-17T06:20:16.780Z",
-    "title": "Director of Talent Acquisition (f/m/d)",
-    "company": "Focused"
-  },
-  "82159bbde6f1260532654f6c1d12ed61eb6f59df": {
-    "postedAt": "2026-08-17T06:20:16.781Z",
-    "title": "Inside Sales Representative - DACH - (m/w/d)",
-    "company": "Mollie"
-  },
-  "e56080e2c7ec44454748933292f111d73d8b367b": {
-    "postedAt": "2026-08-17T06:20:16.781Z",
-    "title": "Working student - Customer Success DACH (m/f/d)",
-    "company": "Mollie"
-  },
-  "00b004cac10d22e1dfa688d9511bf52ad67b7ce2": {
-    "postedAt": "2026-08-17T06:20:16.781Z",
-    "title": "Platform Engineer: Platform Enablement",
-    "company": "Constructor"
-  },
-  "b00cd8b6460292893e9c93f41888e26e25f30484": {
-    "postedAt": "2026-08-17T06:20:16.781Z",
-    "title": "Product Manager: Customer Onboarding Experience",
-    "company": "Constructor"
-  },
-  "2556ffe1eea197db0690127a482d63c67bbab515": {
-    "postedAt": "2026-08-17T06:20:16.781Z",
-    "title": "Junior Produktentwickler - Home & Personal Care (m/w/d)",
-    "company": "everdrop GmbH"
-  },
-  "a6dd2f8537875c3a873786f374bad9fdeb3eb4d4": {
-    "postedAt": "2026-08-17T06:20:16.782Z",
-    "title": "Mobile Engineer - Flutter | Berlin",
-    "company": "TransPerfect"
-  },
-  "7d27022663bdcdacc85b71b0e4843413deb96692": {
-    "postedAt": "2026-08-17T06:20:16.782Z",
-    "title": "Senior HR Generalist (2-year contract)",
-    "company": "TransPerfect"
-  },
-  "02331eb9bfccee1c358b874a323649fddbc3f713": {
-    "postedAt": "2026-08-17T06:20:16.782Z",
-    "title": "Fachinformatiker für Systemintegration (m/w/d)",
-    "company": "ANGEHEUERT GmbH"
-  },
-  "1afd63ab9eaf6be1b9557e1680aba30946cc31fc": {
-    "postedAt": "2026-08-17T06:20:16.782Z",
-    "title": "Managing Director (m/w/d) Finance Solutions",
-    "company": "ANGEHEUERT GmbH"
-  },
-  "5b21ab00b885abee7edea6a3456af08f3bd3ded3": {
-    "postedAt": "2026-08-17T06:20:16.782Z",
-    "title": "Software Sales Consultant (m/w/d)",
-    "company": "ANGEHEUERT GmbH"
-  },
-  "e11db5668330fb1542ab0bd3870c56e216e29637": {
-    "postedAt": "2026-08-17T06:20:16.783Z",
-    "title": "Senior Consultant (m/w/d) BI & Konsolidierung",
-    "company": "ANGEHEUERT GmbH"
-  },
-  "404e82ede640679a3a939936df72dc2ef59617a8": {
-    "postedAt": "2026-08-17T06:20:16.783Z",
-    "title": "Senior Consultant (m/w/d) Finance Solutions",
-    "company": "ANGEHEUERT GmbH"
-  },
-  "a91d4dbfde136d9f5cadc4b75a803c0f783dc629": {
-    "postedAt": "2026-08-17T06:20:16.783Z",
-    "title": "Werkstudent Projektmanagement (all genders)",
-    "company": "Apoprojekt"
-  },
-  "80cb4ed3a3997b7759fb3bdc6b09deda52e49789": {
-    "postedAt": "2026-08-17T06:20:16.783Z",
-    "title": "Werkstudent PMO (all genders)",
-    "company": "Apoprojekt"
-  },
-  "f23af8b8d43aeffd65b08503b391dcf4bc5f9507": {
-    "postedAt": "2026-08-17T06:20:16.783Z",
-    "title": "Werkstudent Planung (all genders)",
-    "company": "Apoprojekt"
-  },
-  "53ab3ec6885ba3cb402c207bb016b3bd78197e9e": {
-    "postedAt": "2026-08-17T06:20:16.783Z",
-    "title": "Werkstudent People Operations (all genders)",
-    "company": "Apoprojekt"
-  },
-  "552a9d8ac24590b084a6a1887baa1852b85664e2": {
-    "postedAt": "2026-08-17T06:20:16.784Z",
-    "title": "Senior Projektleitung Innenausbau (all genders)",
-    "company": "Apoprojekt"
-  },
-  "cef4b51e74da48291453747de814731e4b6ebd71": {
-    "postedAt": "2026-08-17T06:20:16.784Z",
-    "title": "(Senior) AI Software Engineer (all genders)",
-    "company": "Apoprojekt"
-  },
-  "b60dc6f84e771a32e0f4db560d1b87155d878fe9": {
-    "postedAt": "2026-08-17T06:20:16.784Z",
-    "title": "(Senior) AI & Azure Operations Administrator (all genders)",
-    "company": "Apoprojekt"
-  },
-  "f64b5174bf59160defa8e611d9f9a5c673539133": {
-    "postedAt": "2026-08-17T06:20:16.784Z",
-    "title": "Junior Backend Engineer (m/f/x)",
-    "company": "Travelcircus"
-  },
-  "33bb321cee88918ce51c35624687daf607a9af18": {
-    "postedAt": "2026-08-17T06:20:16.784Z",
-    "title": "Werkstudent Product Design (m/f/d)",
-    "company": "Integrity Next Gmbh"
-  },
-  "54d12052eeef8d60acedc93a174fc0adf6ea0089": {
-    "postedAt": "2026-08-17T06:20:16.785Z",
-    "title": "Werkstudent im Supplier Sustainability Support (m/w/d)",
-    "company": "Integrity Next Gmbh"
-  },
-  "de7bbd847fb813527b07615867fee093ede0fdcc": {
-    "postedAt": "2026-08-17T06:20:16.785Z",
-    "title": "Marketing Manager (m/w/d) Go-to-Market-Strategie",
-    "company": "ANGEHEUERT GmbH Personalberatung"
-  },
-  "2d8ea507852a75d7fb2266d1529722479ab9ef55": {
-    "postedAt": "2026-08-17T06:20:16.785Z",
-    "title": "Praxismanager / Praxismanagerin (m/w/d)",
-    "company": "Medical Skin Center Dr. David Bacman"
-  },
-  "3eacd44e6c64863d2afc2872e4ceb72699528ff0": {
-    "postedAt": "2026-08-17T06:20:16.785Z",
-    "title": "Senior Consultant (m/w/d) Finance Solutions",
-    "company": "ANGEHEUERT GmbH Personalberatung"
-  },
-  "d3314b4ae17ec934575bb51b0a62a61d6e026fb1": {
-    "postedAt": "2026-08-17T06:20:16.785Z",
-    "title": "Technical Support Engineer (m/w/d)",
-    "company": "ANGEHEUERT GmbH Personalberatung"
-  },
-  "56de1d040bd112aa05765d9b9aa82c00097489db": {
-    "postedAt": "2026-08-17T06:20:16.786Z",
-    "title": "Bankkaufmann / Bankkauffrau (w/m/d) Gesamtbanksteuerung",
-    "company": "V-HEAL GmbH"
-  },
-  "aca38392b4f77b8f73b471f2840aa94300653863": {
-    "postedAt": "2026-08-17T06:20:16.786Z",
-    "title": "Senior UX Designer (f/m/d)  AI Agent Conversational Experience",
-    "company": "Ionos2"
-  },
-  "cd6df871904cbd2ea0840272cce1b31f9dd37ba7": {
-    "postedAt": "2026-08-17T06:20:16.786Z",
-    "title": "Enterprise Account Executive",
-    "company": "Zip"
-  },
-  "0382fc5bbf23e961bce1cecc1ee2b2b5a172af07": {
-    "postedAt": "2026-08-17T06:20:16.786Z",
-    "title": "VP Associate (m/f/d)",
-    "company": "Buena"
-  },
-  "ef706c94ae4c8907c23bb64404b435e2aab73232": {
-    "postedAt": "2026-08-17T06:20:16.786Z",
-    "title": "Regionalleiter Immobilienverwaltung (m/w/d)",
-    "company": "Buena"
-  },
-  "99f84dc76bfe7527390458819df35876cdc46cef": {
-    "postedAt": "2026-08-17T06:20:16.787Z",
-    "title": "Ops Gap Year at Buena (m/f/d)",
-    "company": "Buena"
-  },
-  "7cb5b5ed4df2198d60d4526a90b2d3e9fcd437fd": {
-    "postedAt": "2026-08-17T06:20:16.787Z",
-    "title": "Implementation Manager (m/f/d)",
-    "company": "Buena"
-  },
-  "5ebc4ef039912d776349b8dbdc981b77c6c10499": {
-    "postedAt": "2026-08-17T06:20:16.787Z",
-    "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
-    "company": "primion Technology GmbH"
-  },
-  "912239657b18621035ac898ce96910b881810e30": {
-    "postedAt": "2026-08-17T06:20:16.787Z",
-    "title": "Chief of Staff - Schwerpunkt Fördermittel & Akademische Partnerschaften",
-    "company": "Quandela"
-  },
-  "edf9a798de8fc28eeedd7d4778d5a322b5349b4b": {
-    "postedAt": "2026-08-17T06:20:16.787Z",
-    "title": "Talent Acquisition Manager - Europe",
-    "company": "Sungrow Europe - Welcome traveler!"
-  },
-  "34ce2755e10805e50f34c4f37d1a6058590ae621": {
-    "postedAt": "2026-08-17T06:20:16.787Z",
-    "title": "Senior Internal Auditor (m/w/d)",
-    "company": "Ratepay"
-  },
-  "4ccd1b00352abfcb2a653ac2f844fb4939aa50fc": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Technical Project & Support Consultant (w/m/d) – Legal Software",
-    "company": "Stp One"
-  },
-  "c5166ebfb1dc3812cec84393bd3c1af696e1c24d": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Werkstudent:in Kommunikationsdesign (m/w/d)",
-    "company": "Coffee Circle"
-  },
-  "f47a3ae65df4d8552b02cb599952170fc4b6dffd": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Head of Engineering",
-    "company": "deeploi - This is IT"
-  },
-  "790be0218e465e059364e7161550ac0f4e16f74a": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Senior Account Executive (x/f/m) - Göttingen",
-    "company": "Doctolib"
-  },
-  "6467b5a1c632da6b2f4b1ba024879820c89f513d": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Small Business Account Executive - DACH, Remote",
-    "company": "hubspotjobs"
-  },
-  "bbfa123ec944876bcbadd2e5f676b5c399dae63a": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Account Executive - Mid Market, DACH (Remote)",
-    "company": "hubspotjobs"
-  },
-  "f533f07d1a74af4348c4dd3cb7b0a791f30132a6": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Account Executive - Mid Market, DACH",
-    "company": "hubspotjobs"
-  },
-  "a45f8ed491336409af5fe4587165063f43bac2ed": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "VFX Artist (f/m/d) Regular / Senior",
-    "company": "Aesir Interactive"
-  },
-  "056305dabaed6c2dfc28222beada5af10a1e2ed8": {
-    "postedAt": "2026-08-17T06:20:16.788Z",
-    "title": "Senior Software Engineer (gn) Camera Integration Framework",
-    "company": "Wandelbots GmbH"
-  },
-  "761a41d95e1d0d0df3b2d57eaca406b85e893cbd": {
-    "postedAt": "2026-08-17T06:20:16.789Z",
-    "title": "Werkstudent:in Projektentwicklung Hypridparks (m/w/d)",
-    "company": "Greenwind Group"
-  },
-  "d6661a66d350763280da9eabce13295a76c7bc06": {
-    "postedAt": "2026-08-17T06:20:16.789Z",
-    "title": "Senior Campaign Analyst",
-    "company": "JustWatch"
-  },
-  "4203fb06edc77119a6ad3c206006813a6232d463": {
-    "postedAt": "2026-08-17T06:20:16.789Z",
-    "title": "Solution Architect, EMEA",
-    "company": "Fireblocks"
-  },
-  "35b91513f6361dd6d0fa0dade9ac9f99ec0dd182": {
-    "postedAt": "2026-08-17T06:20:16.789Z",
-    "title": "Sales Director, TradFi & Banking",
-    "company": "Fireblocks"
-  },
-  "dac34cbec21e8aab555346c4d9b7ec3c5bb88d00": {
-    "postedAt": "2026-08-17T06:20:16.789Z",
-    "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
-    "company": "reddit"
-  },
-  "fde70e98ad19e35e429423c8cc151ec64c5ccf8e": {
-    "postedAt": "2026-08-17T06:20:16.790Z",
-    "title": "Senior Geotechnical Engineer",
-    "company": "Langanengineeringandenvironmentalservicesllc"
-  },
-  "0991e5b9013745e367630aaa4bf041fbcbcb9748": {
-    "postedAt": "2026-08-17T06:20:16.790Z",
-    "title": "Senior Civil Engineer",
-    "company": "Langanengineeringandenvironmentalservicesllc"
-  },
-  "91682d66dfa266f894af76983f7eb7d6971ab08d": {
-    "postedAt": "2026-08-17T06:20:16.790Z",
-    "title": "Senior Civil Engineer",
-    "company": "Langanengineeringandenvironmentalservicesllc"
-  },
-  "a3ce4e7dab2905dea4f60754570fd417ccb1b11d": {
-    "postedAt": "2026-08-17T06:20:16.790Z",
-    "title": "Principal Civil Engineer",
-    "company": "Langanengineeringandenvironmentalservicesllc"
-  },
-  "a7fa9039741b2342451ae04ce5f0ada0913e199e": {
-    "postedAt": "2026-08-17T06:20:16.790Z",
-    "title": "Graduate Geotechnical Engineer",
-    "company": "Langanengineeringandenvironmentalservicesllc"
-  },
-  "65e60215c9ee5fb6d02dba5e1ff9ec1a355d2463": {
-    "postedAt": "2026-08-17T06:20:16.791Z",
-    "title": "Graduate Civil Engineer",
-    "company": "Langanengineeringandenvironmentalservicesllc"
-  },
-  "3ce2954e7130f9a2ab32f3816a9c6474b2c8c739": {
-    "postedAt": "2026-08-17T06:20:16.791Z",
-    "title": "Graduate Civil Engineer",
-    "company": "Langanengineeringandenvironmentalservicesllc"
-  },
-  "8ef4b7c6168b73850964f352afcf7f112d682543": {
-    "postedAt": "2026-08-17T06:20:16.791Z",
-    "title": "Cloud & AI System Engineer",
-    "company": "Audif1"
-  },
-  "d5e67dbee610a41de64645dce83ebfdd2bfece80": {
-    "postedAt": "2026-08-17T06:20:16.791Z",
-    "title": "Account Director",
-    "company": "Orennia"
-  },
-  "3d2c703c4b94b5b0f0f735dfbd1b9ee7c9679887": {
-    "postedAt": "2026-08-17T06:20:16.791Z",
-    "title": "Senior Manager - Investment Platforms (Wealth Management  & Retail Investments)",
-    "company": "Alphafmcroles"
-  },
-  "606e7956497a7321f5105be89d25493d7ad000a0": {
-    "postedAt": "2026-08-17T06:20:16.792Z",
-    "title": "Senior Manager - Financial Advice (Wealth Management  & Retail Investments)",
-    "company": "Alphafmcroles"
-  },
-  "a70756a46806c66f75161b4ae47f6a34171c401b": {
-    "postedAt": "2026-08-17T06:20:16.792Z",
-    "title": "Senior Consultant (Investran)",
-    "company": "Alphafmcroles"
-  },
-  "2eae6b4e7022b7fa82262e2e22dda292dcf89c8e": {
-    "postedAt": "2026-08-17T06:20:16.792Z",
-    "title": "Senior Field Marketing Manager",
-    "company": "Collibra"
-  },
-  "2ae543db167707db59a032725f0e43520e4a9d5c": {
-    "postedAt": "2026-08-17T06:20:16.792Z",
-    "title": "Software Engineer (Java)",
-    "company": "Virtu"
-  },
-  "a7c1d4d16a44658ae42f9d712727f7ff7d3be6ef": {
-    "postedAt": "2026-08-17T06:20:16.792Z",
-    "title": "Sales Director",
-    "company": "Scaleops"
-  },
-  "0e592157ad9e85bc2ea60c143b631105055b0b0a": {
-    "postedAt": "2026-08-17T06:20:16.792Z",
-    "title": "Account Executive - UK",
-    "company": "Scaleops"
-  },
-  "c9f7aefa90af8bc11ef40d609c07ed5a39cc7cfa": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Supplier Quality Assurance Technologist - THG Nutrition",
-    "company": "Thehutgroup"
-  },
-  "9af726e0c040c401a05b06063e5fb3ded31cbc3a": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Senior Social Executive | Lookfantastic",
-    "company": "Thehutgroup"
-  },
-  "cb666e3a182f53c5cc65de72fe9ec52359af8fcd": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Senior Social Executive | Lookfantastic",
-    "company": "Thehutgroup"
-  },
-  "46684ef1c252d492b8451ecf3690bf8020274c28": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Senior Manager - Internal Audit",
-    "company": "Thehutgroup"
-  },
-  "eb572020d057770969c0f57e050f3a0f5c796e66": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Senior Influencer Executive- Myprotein Germany",
-    "company": "Thehutgroup"
-  },
-  "00d0837c5886196e85ca7abcdd2ae35fe2e22831": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Senior Events Manager - THG Nutrition | Myprotein",
-    "company": "Thehutgroup"
-  },
-  "d5bfae0332f94be5f30732f87ec47a66c2842fea": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Senior Affiliates & Partnerships Manager | Cult Beauty",
-    "company": "Thehutgroup"
-  },
-  "d33a1788712b06bf3854ea67b547308d4be01509": {
-    "postedAt": "2026-08-17T06:20:16.793Z",
-    "title": "Quality Assurance Technician - THG Manufacturing",
-    "company": "Thehutgroup"
-  },
-  "77fef27e05df445b11f79f06283b7cac1bb31d8c": {
-    "postedAt": "2026-08-17T06:20:16.794Z",
-    "title": "Marketing Analytics Manager - THG Nutrition",
-    "company": "Thehutgroup"
-  },
-  "620a8b413f07cc4000f7a16e4e01b2dc53795683": {
-    "postedAt": "2026-08-17T06:20:16.794Z",
-    "title": "Buying Director | Lookfantastic",
-    "company": "Thehutgroup"
-  },
-  "fce7a4d84c3d9023553c1801b5e111f201e986e8": {
-    "postedAt": "2026-08-17T06:20:16.794Z",
-    "title": "Business Development Executive (Graduate Opportunity)",
-    "company": "Axiom"
-  },
-  "3e55f76ea054fb8579ab0af8b30b7c7c63869ad4": {
-    "postedAt": "2026-08-17T06:20:16.794Z",
-    "title": "Senior VFX Artist & Animation Generalist",
-    "company": "Gramgamescareers"
-  },
-  "a07feaced808a64286754397dcd5771e510da17d": {
-    "postedAt": "2026-08-17T06:20:16.794Z",
-    "title": "Principal Game Designer",
-    "company": "Gramgamescareers"
-  },
-  "f910c04b3351c7cfb6f62ccb0bff9855b953e53c": {
-    "postedAt": "2026-08-17T06:20:16.794Z",
-    "title": "ASO & Partnerships Director",
-    "company": "Gramgamescareers"
-  },
-  "47aa9d7f96b00efc0094cf3868736b39f79f70e1": {
-    "postedAt": "2026-08-17T06:20:16.795Z",
-    "title": "Commercial Analytics Manager",
-    "company": "hellofresh"
-  },
-  "335b729f5c47c4ba9655e6e7d12329582d35b25b": {
-    "postedAt": "2026-08-17T06:20:16.795Z",
-    "title": "Staff ML Engineer",
-    "company": "Cloudbedsthirdpartyboard"
-  },
-  "bf0159ea56634319c8a69c739ee70cae32618c94": {
-    "postedAt": "2026-08-17T06:20:16.795Z",
-    "title": "Product Marketing - Agents - Government",
-    "company": "Elevenlabs"
-  },
-  "907f6af105b89b99ea51a3da9ea962f8add0a05f": {
-    "postedAt": "2026-08-17T06:20:16.795Z",
-    "title": "Martech Engineer",
-    "company": "Elevenlabs"
-  },
-  "d8bad2c1ba0fee45442e489cb5d1cc91b1fca87a": {
-    "postedAt": "2026-08-17T06:20:16.795Z",
-    "title": "B2B Field Marketer - EMEA",
-    "company": "Elevenlabs"
-  },
-  "56e41eff0c9e816b75869e1316209adb84d1b2c9": {
-    "postedAt": "2026-08-17T06:20:16.796Z",
-    "title": "Proposal Manager (Global)",
-    "company": "Elevenlabs"
-  },
-  "6e70369765f23064539191999e5ce22ded2f9100": {
-    "postedAt": "2026-08-17T06:20:16.796Z",
-    "title": "Senior Product Manager (Data API)",
-    "company": "9Fin"
-  },
-  "08282822c4b36c23fee0f6fff6ed9394d24cc324": {
-    "postedAt": "2026-08-17T06:20:16.796Z",
-    "title": "City Scout (UK)",
-    "company": "Atlys"
-  },
-  "6afe5f2ccb6913906c8047a4700ce9e6480411fe": {
-    "postedAt": "2026-08-17T06:20:16.796Z",
-    "title": "Talent Partner",
-    "company": "1St%20Formations"
-  },
-  "e05bd8747066340b473c41f92fcc32e82be20dcb": {
-    "postedAt": "2026-08-17T06:20:16.796Z",
-    "title": "BDR, Manager",
-    "company": "Ramp"
-  },
-  "3de2033ef45ebdf222b0fd587e59239662082dae": {
-    "postedAt": "2026-08-17T06:20:16.796Z",
-    "title": "Engineering Manager, Runtime Platform, Robot Software",
-    "company": "Wayve"
-  },
-  "d53e428cc1edf62488009079c0e6a9ab72e32b23": {
-    "postedAt": "2026-08-17T06:20:16.797Z",
-    "title": "Senior CRM Specialist",
-    "company": "Corporatecareers"
-  },
-  "118f1de919441c87503cd21bef2956ffed62e99c": {
-    "postedAt": "2026-08-17T06:20:16.797Z",
-    "title": "Founding Growth Lead",
-    "company": "Adclear"
-  },
-  "63e39e0df8ce12f6df5f492cef31bb330399f286": {
-    "postedAt": "2026-08-17T06:20:16.797Z",
-    "title": "VP Client Success & Experience UK",
-    "company": "Paymentology"
-  },
-  "4c5e7913df3622cb0c6997a23e5682c297ab3614": {
-    "postedAt": "2026-08-17T06:20:16.797Z",
-    "title": "Staff Software Engineer UK",
-    "company": "Paymentology"
-  },
-  "beb72aa3a114005fbd1edec6a144dc05cbc1ff1a": {
-    "postedAt": "2026-08-17T06:20:16.797Z",
-    "title": "Senior Full Stack Engineer",
-    "company": "Quantum"
-  },
-  "1d64d0c4819d83d549394b914840ad5705776306": {
-    "postedAt": "2026-08-17T06:20:16.798Z",
-    "title": "Graduate Paid Media Analyst",
-    "company": "Quantum"
-  },
-  "5673b01e5e237798c67fd661361dc718938398c5": {
-    "postedAt": "2026-08-17T06:20:16.798Z",
-    "title": "Senior AI Engineer",
-    "company": "Quantum"
-  },
-  "8ee037156acc4e30ba49046153487d595a5ebe4e": {
-    "postedAt": "2026-08-17T06:20:16.798Z",
-    "title": "Graduate Data Engineer",
-    "company": "Quantum"
-  },
-  "955b86ad9959610a3f85d6e52a3523203df8a603": {
-    "postedAt": "2026-08-17T06:20:16.798Z",
-    "title": "Technical CRM Specialist",
-    "company": "Quantum"
-  },
-  "ad2c3d0a376c10215e193b63beebaffdea538bb0": {
-    "postedAt": "2026-08-17T06:20:16.798Z",
-    "title": "Head of Self-Serve Paid Media",
-    "company": "Stripe"
-  },
-  "b0c99c04012d767a9dd823bd26c0a201e2712b2e": {
-    "postedAt": "2026-08-17T07:43:13.670Z",
-    "title": "Fachkraft für Arbeitssicherheit (SiFa) / Sicherheitsingenieur (mensch)",
-    "company": "Argumed GmbH"
-  },
-  "e55758d8c3e3a121edd03a87de41b8246262f457": {
-    "postedAt": "2026-08-17T07:43:13.670Z",
-    "title": "Software Developer (m/w/d)- Schwerpunkt Angular",
-    "company": "isento GmbH"
-  },
-  "04205426f25aa804ce91934cbc7ff299948e04ce": {
-    "postedAt": "2026-08-17T07:43:13.672Z",
-    "title": "Koordinator Netzanschluss (m/w/d) Mittelspannung in Hockenheim (1709)",
-    "company": "BRÜGGEN ENGINEERING GmbH"
-  },
-  "22e96705a92267575e545d14865c6af8b67a101d": {
-    "postedAt": "2026-08-17T07:43:13.672Z",
-    "title": "Kfm. Mitarbeiter im Personal (m/w/d) in Teilzeit in Deggendorf",
-    "company": "Dr. Kittl & Partner"
-  },
-  "850ffbb6ba04def3f1d1e3b728a203dcd1e47283": {
-    "postedAt": "2026-08-17T07:43:13.672Z",
-    "title": "Mitarbeiter Office Management & Personal (m/w/d) | Teilzeit",
-    "company": "Jobbusters® GmbH"
-  },
-  "b486475edbd88a2ef658e1e6ef3301a33f595d67": {
-    "postedAt": "2026-08-17T07:43:13.672Z",
-    "title": "Bilanzbuchhalter (m/w/d) Konzernabschluss",
-    "company": "Jobbusters® GmbH"
-  },
-  "dff203e5b02407975e92994e401b860630537c56": {
-    "postedAt": "2026-08-17T07:43:13.672Z",
-    "title": "Bilanzbuchhalter / Senior Accountant (m/w/d)",
-    "company": "Jobbusters® GmbH"
-  },
-  "e062a8fe0064ef5f1bbbe952bc97a5ca99ae8cec": {
-    "postedAt": "2026-08-17T07:43:13.673Z",
-    "title": "Steuerberater (m/w/d) in Hohenaspe, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "eb8dcabf9db023d473d88e3632aac5a77d9630af": {
-    "postedAt": "2026-08-17T07:43:13.673Z",
-    "title": "Steuerberater (m/w/d) in Hürth, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "0830943c50dc75f0ae4ba7d53100589e7e0c7354": {
-    "postedAt": "2026-08-17T07:43:13.673Z",
-    "title": "Steuerberater (m/w/d) in Sulzfeld, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "6a42ca0b52c01c3c30d7feab1c0b47d8ea94fcab": {
-    "postedAt": "2026-08-17T07:43:13.673Z",
-    "title": "Steuerberater (m/w/d) in Esselbach, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "19709641e8037ab40193cb8bfe4f03cc828990c9": {
-    "postedAt": "2026-08-17T07:43:13.673Z",
-    "title": "Steuerberater (m/w/d) in Karlsbad, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "b3e8bed4d42bccec4f4e0782d6e41b43f998916e": {
-    "postedAt": "2026-08-17T07:43:13.674Z",
-    "title": "Steuerberater (m/w/d) in Kirchheimbolanden, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "6b4ebe009c173807bde27034af9c89ea836acd5d": {
-    "postedAt": "2026-08-17T07:43:13.674Z",
-    "title": "Steuerberater (m/w/d) in Steimel, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "0db587e59a1df7e03facb9cf44f928eaa4e85899": {
-    "postedAt": "2026-08-17T07:43:13.674Z",
-    "title": "Steuerberater (m/w/d) in Putlitz, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-    "company": "Taxtalente.de"
-  },
-  "eac4e74895fa9fbbcca26fe6f7adec082caa5e40": {
-    "postedAt": "2026-08-17T07:43:13.674Z",
-    "title": "IT-Spezialist Digitalisierung (m/w/d)",
-    "company": "Dr. Kittl & Partner"
-  },
-  "4589f776487a0d2ecd19b9883a6ce583125d0514": {
-    "postedAt": "2026-08-17T07:43:13.674Z",
-    "title": "Steuerberater (m/w/d) in Passau",
-    "company": "Dr. Kittl & Partner"
-  },
-  "0e993ac41945792abcab78408b900360ce3fa153": {
-    "postedAt": "2026-08-17T07:43:13.674Z",
-    "title": "Senior Video Marketing Manager – Strategy & Innovation (Mensch)",
-    "company": "wppmedia"
-  },
-  "e3fed5ffc5f5941c9f0277d0063a029c1f7e197f": {
-    "postedAt": "2026-08-17T07:43:13.675Z",
-    "title": "Enterprise Business Development",
-    "company": "0G"
-  },
-  "186a8764494b83d6979c763c148292de5068f518": {
-    "postedAt": "2026-08-17T07:43:13.675Z",
-    "title": "Senior Product Manager - Fraud (all genders)",
-    "company": "JustPlay GmbH"
-  },
-  "5d4afe8025175d9279e9a3aaebc861c69e1ad010": {
-    "postedAt": "2026-08-17T07:43:13.675Z",
-    "title": "Werkstudent:in Digital Key technical/management/marketing (m/w/d)",
-    "company": "Technica Engineering GmbH"
-  },
-  "1071d40d52831868f0036b80e65c505be3d904df": {
-    "postedAt": "2026-08-17T07:43:13.675Z",
-    "title": "Teamleiter (m/w/d) im Finanzvertrieb (German Speaking)",
-    "company": "Peter Stenmans"
-  },
-  "1e150740826a7edd882a57453465e137f7e83de0": {
-    "postedAt": "2026-08-17T07:43:13.675Z",
-    "title": "Project & Operations Rework Support Working Student – Germany",
-    "company": "Sungrow Europe - Welcome traveler!"
-  },
-  "e2aeb8bae5b39505b2b6e643dee2cf9dda2bdbe2": {
-    "postedAt": "2026-08-17T07:43:13.676Z",
-    "title": "Senior Software Engineer, DevOps",
-    "company": "Muckrack"
-  },
-  "161d35bb50a26ac6256e0ceef2e29065c7fac77f": {
-    "postedAt": "2026-08-17T07:43:13.676Z",
-    "title": "Field CTO",
-    "company": "Docker"
-  },
-  "236fcc21d80494b9da6d42e1d6a95d34ac86eff8": {
-    "postedAt": "2026-08-17T07:43:13.676Z",
-    "title": "Staff Software Engineer, Developer Experience",
-    "company": "Docker"
-  },
-  "515fa095e64f2f049d8a36477ac9ecfb823bac1d": {
-    "postedAt": "2026-08-17T07:43:13.676Z",
-    "title": "Senior Software Engineer, Secure Build",
-    "company": "Docker"
-  },
-  "c4f3a6fac91a3f13e8b24e815a4e0db7e5b5fd2e": {
-    "postedAt": "2026-08-17T07:43:13.677Z",
-    "title": "Chief Revenue Officer (m/w/d)",
-    "company": "Leafworks Gmbh"
-  },
-  "58693a7de4a4472ecdd0fc860185a652a80d707f": {
-    "postedAt": "2026-08-17T08:31:41.863Z",
-    "title": "Executive Assistant",
-    "company": "Numeris"
-  },
   "51b3be1de273702e92c0c4568f65ff2607f923c5": {
     "postedAt": "2026-08-17T21:31:02.748Z",
     "title": "Nexus",
@@ -209302,6 +208477,646 @@
   "fd5fee2866ba5dda0f922fbdd8b6a7ca815aa24d": {
     "postedAt": "2026-11-15T03:49:51.651Z",
     "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
+    "company": "Toptal"
+  },
+  "7614af63617592f42b01d79cd1735143b1e7fe90": {
+    "postedAt": "2026-11-15T11:39:27.175Z",
+    "title": "Strategic Account Executive Lodging",
+    "company": "FreedomPay"
+  },
+  "cf345214b8656afda6bfd2139d7e216972339285": {
+    "postedAt": "2026-11-15T11:39:27.176Z",
+    "title": "Platform Engineer",
+    "company": "Finmid.com"
+  },
+  "64e9d62a37855140bdc9abb6d21870c2d71872a3": {
+    "postedAt": "2026-11-15T11:39:27.177Z",
+    "title": "Embedded Software Entwickler (m/w/d) C++",
+    "company": "ANGEHEUERT GmbH Personalberatung"
+  },
+  "8ea14209819b3ac6afdfacc35d369035e277bc74": {
+    "postedAt": "2026-11-15T11:39:27.177Z",
+    "title": "Projekt & Operations Manager (m/w/d)",
+    "company": "ANGEHEUERT GmbH Personalberatung"
+  },
+  "3b43cdfed0e2b8166556a532beeb166c6f149017": {
+    "postedAt": "2026-11-15T11:39:27.178Z",
+    "title": "Data Platform Engineer (m/f/d)",
+    "company": "Flix"
+  },
+  "93d7cd8cb851164be684ce01332d7f462176daa9": {
+    "postedAt": "2026-11-15T11:39:27.178Z",
+    "title": "Marketing Manager (m/w/d)",
+    "company": "experics digital GmbH"
+  },
+  "b8d45e493cca6c42743527ec296c65995289d3bf": {
+    "postedAt": "2026-11-15T11:39:27.179Z",
+    "title": "Applied AI Engineer, Startups (Codex)",
+    "company": "OpenAI"
+  },
+  "c19551230e9aa667d946871f3385cb5560cd28d1": {
+    "postedAt": "2026-11-15T11:39:27.179Z",
+    "title": "Engineering Manager",
+    "company": "Finom"
+  },
+  "d63c3b9b9890f9bd1cc09125eecf4c6f2e786f8e": {
+    "postedAt": "2026-11-15T11:39:27.179Z",
+    "title": "Chief of Staff (m/w/d)",
+    "company": "Octopus Energy Group"
+  },
+  "780502c4717d5aa3ad841fbfc39bdb1c6f985778": {
+    "postedAt": "2026-11-15T11:39:27.180Z",
+    "title": "Analytics Engineer (m/w/d)",
+    "company": "Octopus Energy Group"
+  },
+  "f45bf483d88904335e2009be7edca0fc10b34a45": {
+    "postedAt": "2026-11-15T11:39:27.180Z",
+    "title": "Account Executive Europe",
+    "company": "Staffbase"
+  },
+  "893cc7473c7f711cfb5295d2017b6ab12a7cadde": {
+    "postedAt": "2026-11-15T11:39:27.180Z",
+    "title": "Elektriker (m/w/d)",
+    "company": "Black Semiconductor GmbH"
+  },
+  "2969922d3d91414c319cdf95ba04550203d9da2b": {
+    "postedAt": "2026-11-15T11:39:27.180Z",
+    "title": "Working Student – Data & AI  (f/m/d)",
+    "company": "Black Semiconductor GmbH"
+  },
+  "997534f3c3616aeb4ab0ab0509a6ab6d094159cc": {
+    "postedAt": "2026-11-15T11:39:27.181Z",
+    "title": "PIC Layout Engineer (f/m/d)",
+    "company": "Black Semiconductor GmbH"
+  },
+  "aee15cc024c3d5910e45f2b9a8d4d83153e7a5d1": {
+    "postedAt": "2026-11-15T11:39:27.181Z",
+    "title": "Growth Strategist (all genders)",
+    "company": "JustPlay GmbH"
+  },
+  "d4b579528e1bcfd7fa6bdf3b843d5f4648f767c8": {
+    "postedAt": "2026-11-15T11:39:27.181Z",
+    "title": "(Senior) Sales Manager (m/w/d)",
+    "company": "Liqid Lam"
+  },
+  "a3d807610b7b02f52e6f551ba784b4577ab8954d": {
+    "postedAt": "2026-11-15T11:39:27.182Z",
+    "title": "Senior CRM & Lifecycle Manager",
+    "company": "Cosuno"
+  },
+  "0b9a286fba89f2d69213732fbc550acf1a17b539": {
+    "postedAt": "2026-11-15T11:39:27.182Z",
+    "title": "Senior Data Analyst",
+    "company": "Cosuno"
+  },
+  "9b6c0d03c39036621751b362ab2a93b061af0998": {
+    "postedAt": "2026-11-15T11:39:27.182Z",
+    "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
+    "company": "Ritter von Gral GmbH"
+  },
+  "7b5f0ad4616438cf020ad1c85c84622fdbcc517c": {
+    "postedAt": "2026-11-15T11:39:27.182Z",
+    "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
+    "company": "teccle group GmbH"
+  },
+  "b3d92f7b6a1e73381a343a0e9cc586e7bc3506fa": {
+    "postedAt": "2026-11-15T11:39:27.183Z",
+    "title": "Senior Customer Success Manager (all genders)",
+    "company": "Foodji GmbH"
+  },
+  "0f0c0c5bde3f16f6bff9c0518c36e94eda0ef4bf": {
+    "postedAt": "2026-11-15T11:39:27.183Z",
+    "title": "Senior Recruiter / Talent Acquisition Manager (all genders)",
+    "company": "Foodji GmbH"
+  },
+  "ba0e91402b42e042ebc45ad551fd4d01d607ca21": {
+    "postedAt": "2026-11-15T11:39:27.183Z",
+    "title": "(Senior) Business & Financial Analyst (all genders)",
+    "company": "Foodji GmbH"
+  },
+  "38aa21941c58d0e18a1809777562fd75961e28b2": {
+    "postedAt": "2026-11-15T11:39:27.184Z",
+    "title": "AUTOSAR Embedded Software Engineer (m/w/d)",
+    "company": "Mobileye"
+  },
+  "e55c16d5c4863ec1dcd5069bf1faad0d505a8f9a": {
+    "postedAt": "2026-11-15T11:39:27.184Z",
+    "title": "AI Platform Engineer",
+    "company": "Jobgether"
+  },
+  "482b05e000bb5be2247ca96fc2f671bcd823a4b3": {
+    "postedAt": "2026-11-15T11:39:27.184Z",
+    "title": "Senior Technical Programme Manager",
+    "company": "Hypersonica"
+  },
+  "49aa83e3bcba75752e9cd2a1bc2590c8c2d3cb2a": {
+    "postedAt": "2026-11-15T11:39:27.184Z",
+    "title": "Mid-Market Account Executive (x/f/m) - DACH",
+    "company": "Pigment"
+  },
+  "d9b0c3ad9400bea711e2ff38d23a53d805842492": {
+    "postedAt": "2026-11-15T11:39:27.184Z",
+    "title": "Senior Procurement Manager (m/w/d)",
+    "company": "Doonails"
+  },
+  "654a6f0169b0cd118af96b3c2f2580ef985c472c": {
+    "postedAt": "2026-11-15T11:39:27.185Z",
+    "title": "HR Director, US, Europe & Meta",
+    "company": "opswat"
+  },
+  "75aab7ff97d13eb4830c1c5ab43b38a920691cd2": {
+    "postedAt": "2026-11-15T11:39:27.185Z",
+    "title": "Platform Engineer (GoLang)",
+    "company": "Anaplan"
+  },
+  "75b54151aa2adccd859e867629a5422fb2b1144a": {
+    "postedAt": "2026-11-15T11:39:27.185Z",
+    "title": "AVP, Data, Analytics & AI Engineering",
+    "company": "Anaplan"
+  },
+  "981bfd5b5a67f10da9ca457386cfabfee83c2b9e": {
+    "postedAt": "2026-11-15T11:39:27.185Z",
+    "title": "AVP, Data, Analytics & AI Engineering",
+    "company": "Anaplan"
+  },
+  "eae4fd174a3166fa45d5f6e221a02a888c4598ff": {
+    "postedAt": "2026-11-15T11:39:27.185Z",
+    "title": "Embedded Software Engineer",
+    "company": "Salience Labs"
+  },
+  "f9a6a5bad1a3fde7a8caa929ad5cb727b4e3c734": {
+    "postedAt": "2026-11-15T11:39:27.186Z",
+    "title": "Technical Programme Manager",
+    "company": "Salience Labs"
+  },
+  "fb7142308816d3dbb029f014de2237675953633c": {
+    "postedAt": "2026-11-15T11:39:27.186Z",
+    "title": "Senior Photonics Design Engineer",
+    "company": "Salience Labs"
+  },
+  "0f4211b87601214c42b2c82d985b041d29ae4192": {
+    "postedAt": "2026-11-15T11:39:27.186Z",
+    "title": "Hardware Engineer",
+    "company": "Salience Labs"
+  },
+  "ac5f2e3edb99ac999982c73a912a1c2cf65db8fe": {
+    "postedAt": "2026-11-15T11:39:27.186Z",
+    "title": "Senior Systems Test Engineer",
+    "company": "Salience Labs"
+  },
+  "81a72bc57ade0d4a543ea8270411368bf18596bb": {
+    "postedAt": "2026-11-15T11:39:27.187Z",
+    "title": "Photonics Design Engineer - III/V Components",
+    "company": "Salience Labs"
+  },
+  "8685547831c692a31f59cce0bd6781512f20b94d": {
+    "postedAt": "2026-11-15T11:39:27.187Z",
+    "title": "Photonics Layout Lead",
+    "company": "Salience Labs"
+  },
+  "6235468f81443a4b44abee2da1e973f355961a41": {
+    "postedAt": "2026-11-15T11:39:27.187Z",
+    "title": "Software Engineer – Applications and User Interface",
+    "company": "Salience Labs"
+  },
+  "2cbccace9cd84aafdab91b047ccb9044f66f0dcc": {
+    "postedAt": "2026-11-15T11:39:27.187Z",
+    "title": "Photonics Layout Engineer",
+    "company": "Salience Labs"
+  },
+  "31eac16418eb441143d9cfe6a218a1572fcbb88e": {
+    "postedAt": "2026-11-15T11:39:27.188Z",
+    "title": "HR Business Partner",
+    "company": "Salience Labs"
+  },
+  "9e304ed12890b15fa3bcb934b2f170fcc7c5912a": {
+    "postedAt": "2026-11-15T11:39:27.188Z",
+    "title": "Photonics Characterisation Engineer",
+    "company": "Salience Labs"
+  },
+  "f41e9da7d2a51cf7ab36920419e86bd673453d07": {
+    "postedAt": "2026-11-15T11:39:27.188Z",
+    "title": "Emerging Account Executive - London",
+    "company": "Drata"
+  },
+  "81c598e467d3809cd6ee722d00761bd9acd9b9ae": {
+    "postedAt": "2026-11-15T11:39:27.188Z",
+    "title": "Account Manager",
+    "company": "Zip"
+  },
+  "38398fd778c19fd943c1d906fd0c79ecc61c591e": {
+    "postedAt": "2026-11-15T11:39:27.189Z",
+    "title": "UK Solutions Architect (Req #1500)",
+    "company": "Eplusinc"
+  },
+  "25b25d855e0e4f6a2b5098ffcd30b738c4a45c65": {
+    "postedAt": "2026-11-15T11:39:27.189Z",
+    "title": "Forward Deployed Engineer, Enterprise",
+    "company": "Tavily"
+  },
+  "8b3f1b264147f82ff2c33a204c47a2a03b37c835": {
+    "postedAt": "2026-11-15T11:39:27.189Z",
+    "title": "Corporate Counsel",
+    "company": "Airwallex"
+  },
+  "fb848b8378a3d67f1c31d20bce77330386ef4f60": {
+    "postedAt": "2026-11-15T11:39:27.189Z",
+    "title": "Founding Customer Success Manager, SME & Growth",
+    "company": "Airwallex"
+  },
+  "6d6970d63ed82e2729938f8c6e3d93ad47fa85df": {
+    "postedAt": "2026-11-15T11:39:27.189Z",
+    "title": "Account Executive, Mid-Market (Spend)",
+    "company": "Airwallex"
+  },
+  "b1f03dc8526cbad3d2906cef677544eb257d1c4f": {
+    "postedAt": "2026-11-15T11:39:27.189Z",
+    "title": "Manager/Associate Director - Project Management",
+    "company": "Relationrx"
+  },
+  "30193cd99bd49c06fbf00cacfb36b01c3f81536e": {
+    "postedAt": "2026-11-15T11:39:27.190Z",
+    "title": "Capital Allowances Manager",
+    "company": "Unity Advisory"
+  },
+  "804f97b838ab7aff031c4f3a0ea327cb3e09fa6c": {
+    "postedAt": "2026-11-15T11:39:27.190Z",
+    "title": "Advisory Data Architect",
+    "company": "Unity Advisory"
+  },
+  "5edeba5f53d853d7a65375da90c1d316ddda2bff": {
+    "postedAt": "2026-11-15T11:39:27.190Z",
+    "title": "Senior Platform Engineer",
+    "company": "Zopa"
+  },
+  "ef3c24553565a48c7cb209523c1754805d11d149": {
+    "postedAt": "2026-11-15T11:39:27.190Z",
+    "title": "Senior Java/Kotlin Software Engineer - London",
+    "company": "Zopa"
+  },
+  "7d2266367c855e2c3870d8cc9c83ac3101ab985c": {
+    "postedAt": "2026-11-15T11:39:27.191Z",
+    "title": "Senior C# Software Engineer – London",
+    "company": "Zopa"
+  },
+  "40747f1b5571e4eea8518c339c48821b2c8bf0d1": {
+    "postedAt": "2026-11-15T11:39:27.191Z",
+    "title": "Senior Analytics Engineer/BI Analyst (Collections & Recoveries)",
+    "company": "Zopa"
+  },
+  "cdd2b66af3d86eb72065ab020efa3992b6626e6f": {
+    "postedAt": "2026-11-15T11:39:27.191Z",
+    "title": "Senior Analyst (Fraud & Financial Crime)",
+    "company": "Zopa"
+  },
+  "0bec5ff53632af20bf1492b70f6e81b5872c947a": {
+    "postedAt": "2026-11-15T11:39:27.191Z",
+    "title": "Product Analyst (Mid and Senior Level) - Joint Account",
+    "company": "Zopa"
+  },
+  "a912180713f93ac74abd0a3f7919b010da49860c": {
+    "postedAt": "2026-11-15T11:39:27.191Z",
+    "title": "Java/Kotlin Software Engineer - Manchester",
+    "company": "Zopa"
+  },
+  "ea5068beb657a8c47b528e642e93251a3ca26747": {
+    "postedAt": "2026-11-15T11:39:27.192Z",
+    "title": "Java/Kotlin Software Engineer - London",
+    "company": "Zopa"
+  },
+  "b24c8a16ad52f75a18dd399cc1ae90a64bc2a684": {
+    "postedAt": "2026-11-15T11:39:27.192Z",
+    "title": "iOS Engineer",
+    "company": "Zopa"
+  },
+  "4afb59455f637ce0ce662e7cd82fbdc4842c160c": {
+    "postedAt": "2026-11-15T11:39:27.192Z",
+    "title": "Head of Product Security",
+    "company": "Zopa"
+  },
+  "8c7922b08632a8d4d269e62f1a2bdbbf1ac53d21": {
+    "postedAt": "2026-11-15T11:39:27.192Z",
+    "title": "Engineering Manager (London)",
+    "company": "Zopa"
+  },
+  "fdc0af30a91d736cfb9dcb259072af8202d2b77b": {
+    "postedAt": "2026-11-15T11:39:27.192Z",
+    "title": "Director of Engineering",
+    "company": "Zopa"
+  },
+  "2be48ef0ba6c7a1371ca26553419d9cdcc675fff": {
+    "postedAt": "2026-11-15T11:39:27.193Z",
+    "title": "Android Engineer",
+    "company": "Zopa"
+  },
+  "bf75a46282cd0015cbf8f9b0c8ee88dbf94591ef": {
+    "postedAt": "2026-11-15T11:39:27.193Z",
+    "title": "Art Director, Brand & Marketing Design",
+    "company": "Finom"
+  },
+  "142b5b4dd5cb897e73bfcfa2c79e1c36c722e971": {
+    "postedAt": "2026-11-15T11:39:27.193Z",
+    "title": "Tech Lead",
+    "company": "Thirdfort"
+  },
+  "434196f109db134fd914f83a0b14d9c8ab4b62ba": {
+    "postedAt": "2026-11-15T11:39:27.193Z",
+    "title": "Senior Software Engineer",
+    "company": "Thirdfort"
+  },
+  "befe5f84935db115433557f6abe700bb60c066e0": {
+    "postedAt": "2026-11-15T11:39:27.193Z",
+    "title": "Senior Information Security Analyst",
+    "company": "Cirrus"
+  },
+  "1d78e8fd0c5033b81f9c929924140b5654a7bd34": {
+    "postedAt": "2026-11-15T11:39:27.194Z",
+    "title": "Senior Digital Design Engineer",
+    "company": "Cirrus"
+  },
+  "6a991ec3c89be8ce0bb8cb069098351056a9c851": {
+    "postedAt": "2026-11-15T11:39:27.194Z",
+    "title": "Software Engineer in Test - 1134",
+    "company": "Quantinuum"
+  },
+  "fbd21a79f5e1f6ef1e3f3f7ae846964e49888e80": {
+    "postedAt": "2026-11-15T11:39:27.194Z",
+    "title": "Director of Practice",
+    "company": "Ivcevidensia"
+  },
+  "e070bffcf4f5d42b7237e35765a88eb3a5c0b3fe": {
+    "postedAt": "2026-11-15T11:39:27.194Z",
+    "title": "Commercial Analytics Manager",
+    "company": "Octopus Energy Group"
+  },
+  "4b66050a2d0cdc93293f5a9e8bd31d7ee043b10f": {
+    "postedAt": "2026-11-15T11:39:27.195Z",
+    "title": "Account Executive",
+    "company": "Octopus Energy Group"
+  },
+  "5f1b7e21366af63062d2f3bbaf64ea9aef587ee3": {
+    "postedAt": "2026-11-15T11:39:27.195Z",
+    "title": "Senior Forward Deployed Engineer - Global Markets",
+    "company": "Staffbase"
+  },
+  "98d344006ef7f25e0fd6ac9ec27733d31c0be2c1": {
+    "postedAt": "2026-11-15T11:39:27.195Z",
+    "title": "Applied AI Engineer",
+    "company": "Wehrtyou"
+  },
+  "31208f7777ed29cee09368e9edfa5d34551d4676": {
+    "postedAt": "2026-11-15T11:39:27.195Z",
+    "title": "DevOps Engineer | Luma",
+    "company": "Dotmatics"
+  },
+  "3d30fef57a42a0e555f232758cbd604caf77ddce": {
+    "postedAt": "2026-11-15T11:39:27.195Z",
+    "title": "Head of Talent Development",
+    "company": "Backmarket"
+  },
+  "698eeec73d4d2a3d629d9707765ed4c7b1adc211": {
+    "postedAt": "2026-11-15T11:39:27.196Z",
+    "title": "Applied AI Engineer, Startups (Codex)",
+    "company": "OpenAI"
+  },
+  "7cb66e765bd0162d990b6860e71446777cb218aa": {
+    "postedAt": "2026-11-15T11:39:27.196Z",
+    "title": "Expansion manager France / Développeur.se Immobilier - Nord et IDF",
+    "company": "Fastned"
+  },
+  "410c707fafd58ce7700025076bde7a067e247833": {
+    "postedAt": "2026-11-15T11:39:27.196Z",
+    "title": "Senior Expansion manager France / Développeur.se Immobilier senior - Grand Ouest",
+    "company": "Fastned"
+  },
+  "3cd55020097916278566a29c98191c6e121a93c0": {
+    "postedAt": "2026-11-15T11:39:27.196Z",
+    "title": "Expansion manager France / Développeur.se Immobilier - Grand Est",
+    "company": "Fastned"
+  },
+  "66ec3d1696b6b818a7f8107c81300616eda91f05": {
+    "postedAt": "2026-11-15T11:39:27.197Z",
+    "title": "Customer Success Public Sector",
+    "company": "Malt"
+  },
+  "2234806652e34bbbe7aca761ac7bc7c8e9d8417a": {
+    "postedAt": "2026-11-15T11:39:27.197Z",
+    "title": "Product Marketing Manager (F/H)",
+    "company": "Younited"
+  },
+  "d4aa0986c75c56683ac60701bc9fa814d6d6a1eb": {
+    "postedAt": "2026-11-15T11:39:27.197Z",
+    "title": "Head of FP&A (F/H)",
+    "company": "Younited"
+  },
+  "f35e078767f82e28d68b4b07527f65fc68121293": {
+    "postedAt": "2026-11-15T11:39:27.197Z",
+    "title": "Account Executive (Enterprise)",
+    "company": "Dust"
+  },
+  "f813c6e684d647297f1cde40364f72a4e1c400a5": {
+    "postedAt": "2026-11-15T11:39:27.197Z",
+    "title": "Partner Account Manager, Solution Partners",
+    "company": "Dust"
+  },
+  "cb0411957f5b79deb775152072623373801eba16": {
+    "postedAt": "2026-11-15T11:39:27.198Z",
+    "title": "[VO2 Group] - Assistant Comptable Stage",
+    "company": "VO2 Group"
+  },
+  "769273f3c12b50111e0703dd80d90763015e19f2": {
+    "postedAt": "2026-11-15T11:39:27.198Z",
+    "title": "[VO2 Force] - Tech Lead Salesforce",
+    "company": "VO2 Group"
+  },
+  "ce64a56611df060facdf061866812570339cab79": {
+    "postedAt": "2026-11-15T11:39:27.198Z",
+    "title": "[VO2 FORCE] - Salesforce Marketing Cloud Consultant",
+    "company": "VO2 Group"
+  },
+  "520ce213537af7d5b5cfcd60f9d7d47c3c2bbad9": {
+    "postedAt": "2026-11-15T11:39:27.198Z",
+    "title": "[VO2 Force] - Salesforce Architect",
+    "company": "VO2 Group"
+  },
+  "884c338b422cab7322c20e5c3207643ba2e54890": {
+    "postedAt": "2026-11-15T11:39:27.198Z",
+    "title": "[VO2 Brand Experience] - Développeur Fullstack Shopify",
+    "company": "VO2 Group"
+  },
+  "552c8e4ff2d0dc362153867418f31f602a5f29f6": {
+    "postedAt": "2026-11-15T11:39:27.199Z",
+    "title": "[ VO2 FORCE ] - PO IT Salesforce Marketing Cloud (SFMC)",
+    "company": "VO2 Group"
+  },
+  "a3dc0380278e2f0e12426585f6ea46a01df9adf3": {
+    "postedAt": "2026-11-15T11:39:27.199Z",
+    "title": "Stage de Vente - Nice Cap 3000",
+    "company": "Karl Lagerfeld"
+  },
+  "4d451d6154a9c4495589a6b397d784da781b2994": {
+    "postedAt": "2026-11-15T11:39:27.199Z",
+    "title": "AI Platform Engineer",
+    "company": "Jobgether"
+  },
+  "4850b6267de03ab2b17410e7472f88eb27f11cbf": {
+    "postedAt": "2026-11-15T11:39:27.199Z",
+    "title": "AI Marketing Specialist",
+    "company": "Jobgether"
+  },
+  "d171f8124a9f9693e1b48244d1d518cbf9f147c7": {
+    "postedAt": "2026-11-15T11:39:27.199Z",
+    "title": "Account Manager",
+    "company": "Jobgether"
+  },
+  "0b2025461366b6066625ed77b7f2ded8fe2cc1ec": {
+    "postedAt": "2026-11-15T11:39:27.199Z",
+    "title": "Account Manager",
+    "company": "Jobgether"
+  },
+  "cdbc279d4311192d9838b622b49fdf247b865a4d": {
+    "postedAt": "2026-11-15T11:39:27.200Z",
+    "title": "Customer Success Strategy & Operations - Stage",
+    "company": "DiliTrust"
+  },
+  "e9666bbb8d71562728cc9704cb418a575bfc6710": {
+    "postedAt": "2026-11-15T11:39:27.200Z",
+    "title": "Enterprise Account Executive - Israel",
+    "company": "Pigment"
+  },
+  "0d312b5d93bc66ada1e121040b3fdaae417680c7": {
+    "postedAt": "2026-11-15T11:39:27.200Z",
+    "title": "ML Engineer - Power",
+    "company": "Kpler"
+  },
+  "8a6d76996c21a6a57ab94e1ff68992756d84eca0": {
+    "postedAt": "2026-11-15T11:39:27.200Z",
+    "title": "Big Data Engineer",
+    "company": "Odaseva"
+  },
+  "ffe6f808f892cb7e8fbab013b39d969d3c5a2f3e": {
+    "postedAt": "2026-11-15T11:39:27.201Z",
+    "title": "Juriste IP/IT/Data - CDI (H/F/X)",
+    "company": "Veepee"
+  },
+  "b9390d31fd9fe5cb4d603e91c6ca98dcac9adf76": {
+    "postedAt": "2026-11-15T11:39:27.201Z",
+    "title": "Senior Client Partner – Steuerlösungen Public Sector (w/m/d), 80–100 %",
+    "company": "Information Factory"
+  },
+  "588783832748ea18df97d2492298ff7a5124881c": {
+    "postedAt": "2026-11-15T11:39:27.201Z",
+    "title": "AI Tester with French",
+    "company": "Tsmg"
+  },
+  "678331716bd1a14adbcf6e9d2e53cc05bd38a129": {
+    "postedAt": "2026-11-15T11:39:27.201Z",
+    "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
+    "company": "Tsmg"
+  },
+  "4bcf87709cd990d7c1de888c386daa47a2e82a75": {
+    "postedAt": "2026-11-15T11:39:27.201Z",
+    "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
+    "company": "Tsmg"
+  },
+  "8353f27a69ac2edf0f833b8ae556b27b8c0e9fe2": {
+    "postedAt": "2026-11-15T11:39:27.201Z",
+    "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
+    "company": "Tsmg"
+  },
+  "a946a9131f71f8a4fc8de03dc1fc77bc7f422973": {
+    "postedAt": "2026-11-15T11:39:27.202Z",
+    "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
+    "company": "Tsmg"
+  },
+  "3e72f4a1f1d0f9b65ca23c0767508a5846afd87c": {
+    "postedAt": "2026-11-15T11:39:27.202Z",
+    "title": "AI Speech Tester (French native speaker - Switzerland regional variant)",
+    "company": "Tsmg"
+  },
+  "a60c38ac6824bd8760986a2495479c34989fce03": {
+    "postedAt": "2026-11-15T11:39:27.202Z",
+    "title": "Research Engineer",
+    "company": "Nomagic"
+  },
+  "b29a61d01d347e2906788f79eba86d2621da51b4": {
+    "postedAt": "2026-11-15T11:39:27.202Z",
+    "title": "Software Project Manager (Warehouse Management)",
+    "company": "SwissPeak Partners GmbH"
+  },
+  "488c1ca7691698f37b60cdffd2d675b50ac0abbf": {
+    "postedAt": "2026-11-15T11:39:27.203Z",
+    "title": "Senior IT & Cybersecurity Auditor",
+    "company": "SwissPeak Partners GmbH"
+  },
+  "aedd0dee7c0b29104d1887cb220810cd7042685e": {
+    "postedAt": "2026-11-15T11:39:27.203Z",
+    "title": "Senior Platform Engineer",
+    "company": "SwissPeak Partners GmbH"
+  },
+  "75a9d80bb2b3c26844222fdd6aebbc7075a43812": {
+    "postedAt": "2026-11-15T11:39:27.203Z",
+    "title": "Software Engineer Intern - Robotics Platform",
+    "company": "Gravis Robotics"
+  },
+  "6a593d3ab187114241739bfb0ba8d414ce5ba5a1": {
+    "postedAt": "2026-11-15T11:39:27.203Z",
+    "title": "Senior Software Engineer - Robotics Platform",
+    "company": "Gravis Robotics"
+  },
+  "6b2ca46735f1c8cda92edda373f1c83dd486c9cc": {
+    "postedAt": "2026-11-15T11:39:27.203Z",
+    "title": "Manufacturing Systems Engineer",
+    "company": "Gravis Robotics"
+  },
+  "03831efaea591b9beaeb2f425809466f5db17ec9": {
+    "postedAt": "2026-11-15T11:39:27.204Z",
+    "title": "AI Platform Engineer",
+    "company": "Jobgether"
+  },
+  "6b1c64bfc6886a438a400d4b1eaf0ea5ddc889f0": {
+    "postedAt": "2026-11-15T11:39:27.204Z",
+    "title": "AI Marketing Specialist",
+    "company": "Jobgether"
+  },
+  "4d00d255816c6879d736aaec7c6755ad8bca186c": {
+    "postedAt": "2026-11-15T11:39:27.204Z",
+    "title": "Account Manager",
+    "company": "Jobgether"
+  },
+  "dc9c61fc9009a09612b36dc30f5295f0eaa64ce7": {
+    "postedAt": "2026-11-15T11:39:27.204Z",
+    "title": "Account Manager",
+    "company": "Jobgether"
+  },
+  "9cb6e21f199e8e25f210f340b39cf3c194aa6cf6": {
+    "postedAt": "2026-11-15T11:39:27.204Z",
+    "title": "Enterprise Architect",
+    "company": "Testendouble"
+  },
+  "e7da24eabd53f84145600e09b046d56db4b9671e": {
+    "postedAt": "2026-11-15T11:39:27.205Z",
+    "title": "Senior Consultant/Lead Developer",
+    "company": "Mendix"
+  },
+  "af87155a440db28154c6cd9bcd6abd63142b30bb": {
+    "postedAt": "2026-11-15T11:39:27.205Z",
+    "title": "AI Platform Engineer",
+    "company": "Jobgether"
+  },
+  "e87628ff97114e9a987eb46cca35e5c9bb47e3ea": {
+    "postedAt": "2026-11-15T11:39:27.205Z",
+    "title": "Tech Lead (mobile apps)",
+    "company": "Coda"
+  },
+  "e789e873783bb4fe729ebc5ac04d9250d6561d16": {
+    "postedAt": "2026-11-15T11:39:27.205Z",
+    "title": "Senior Data Engineer - Capital Markets (R13923)",
+    "company": "Oportun"
+  },
+  "75fa7dde7f6e765b548eec9b74ef275bd24c1bb2": {
+    "postedAt": "2026-11-15T11:39:27.206Z",
+    "title": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
     "company": "Toptal"
   }
 }
